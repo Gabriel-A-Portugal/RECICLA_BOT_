@@ -1,0 +1,50 @@
+{
+  "id": "2a1b0c9d-8e7f-6a5b-4c3d-2e1f0a9b8c7d",
+  "name": "Descart_infectante",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+          "name": "infectante_lixo",
+          "required": true,
+          "dataType": "@infectante_lixo",
+          "value": "$infectante_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar materiais infectantes corretamente:\n\nMateriais com sangue ou secreções vão para lixo hospitalar\n\nAgulhas e seringas usadas devem ser descartadas em pontos de coleta da prefeitura\n\nGazes e curativos usados devem ser embalados em saco plastico fechado\n\nNunca descarte materiais infectantes no lixo comum\n\nFarmácias e postos de saúde recebem este tipo de material"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

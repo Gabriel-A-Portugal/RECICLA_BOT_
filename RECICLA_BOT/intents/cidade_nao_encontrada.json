@@ -1,0 +1,57 @@
+{
+  "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e8f",
+  "name": "cidade_nao_encontrada",
+  "auto": true,
+  "contexts": [
+    "aguarda_endereco"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguarda_material_coleta",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "93a7ad01-5bbf-4d58-859f-2fa0a4702596",
+          "name": "Localizacao",
+          "required": false,
+          "dataType": "@Localizacao",
+          "value": "$Localizacao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sem problemas! Posso ajudar de outras formas:\n\nOPÇÕES PARA ENCONTRAR PONTO DE COLETA:\n\n🔍 PESQUISE NO GOOGLE:\n\"ponto de coleta [material] [sua cidade]\"\n\nExemplos:\n- \"ponto de coleta pilhas São Paulo\"\n- \"ecoponto reciclagem Rio de Janeiro\"\n\n📍 DICAS:\n- Supermercados: óleo e pilhas\n- Farmácias: medicamentos\n- Lojas de eletrônicos: e-lixo\n- Prefecture: ecopontos\n\nQual material você quer descartar? Posso informar onde descartar na sua região."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

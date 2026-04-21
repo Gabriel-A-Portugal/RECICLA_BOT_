@@ -1,0 +1,93 @@
+{
+  "id": "6d7fea6a-df3c-49cd-aad9-f959cc9b7100",
+  "name": "cores_lixeira",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb30d804-96d4-4c35-9d80-3daf2f99108a",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "93ab4bcb-e519-461a-b759-6a6d2afcdb4a",
+          "name": "Cores_Lixeira",
+          "required": false,
+          "dataType": "@Cores_Lixeira",
+          "value": "$Cores_Lixeira",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b3cb6c80-0b33-4b8e-bad0-8d928ddc1b83",
+          "name": "Material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$Material",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "454b148f-3f81-46cf-a607-eef77c310437",
+          "name": "Localizacao",
+          "required": false,
+          "dataType": "@Localizacao",
+          "value": "$Localizacao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para saber a cor exata da lixeira para descartar um material, você pode seguir um processo de eliminação simples. Faça estas três perguntas antes de jogar o item fora:\n\n1. Qual é o material principal do objeto?\n\n\nSe amassa e rasga fácil (caixas, folhas, jornais) ➔ Papel (Azul)\n\nSe é de plástico flexível ou duro (garrafas PET, potes, sacolas, embalagens) ➔ Plástico (Vermelho)\n\nSe quebra, corta ou é de vidro (garrafas de bebida, potes de conserva) ➔ Vidro (Verde)\n\nSe faz barulho metálico ou amassa (latinhas, tampinhas, arames) ➔ Metal (Amarelo)\n\nSe veio da natureza ou é resto de refeição (cascas, ossos, borra de café) ➔ Orgânico (Marrom)\n\n2. O material está sujo ou contaminado?\n\n\nSe estiver muito sujo de gordura ou restos biológicos: Ele perde a capacidade de ser reciclado (ex: caixa de pizza muito engordurada, papel higiênico, fralda, guardanapo usado). Nesse caso, ele vai para a lixeira Cinza (Lixo Comum / Não Reciclável).\n\nSe estiver limpo e seco: Pode ir para a lixeira colorida correspondente ao material dele (Azul, Vermelho, Verde ou Amarelo).\n\n3. É um material eletrônico, químico ou perigoso?\n\n\nPilhas e baterias: Devem ir para coletores específicos em supermercados ou lojas (teoricamente, lixeira Laranja, mas o ideal é o ponto de coleta).\n\nRemédios vencidos, seringas e curativos: Devem ser entregues em farmácias ou postos de saúde (lixeira Branca).\n\nEletrônicos velhos e lâmpadas: Devem ser levados a pontos de coleta em lojas especializadas.",
+            "O código de cores para lixeiras de coleta seletiva é um padrão universal (no Brasil, regulamentado pelo CONAMA) criado para facilitar a separação e a reciclagem dos materiais.\n\nAqui está a explicação de cada cor e o que deve ser descartado nelas:\n\nAs Cores Mais Comuns (Dia a Dia)\nAzul: Papel e Papelão.\n\nO que colocar: Jornais, revistas, caixas, cadernos, papel de embrulho.\n\nO que NÃO colocar: Papel higiênico, guardanapos sujos, papel metalizado, fitas adesivas.\n\nVermelho: Plástico.\n\nO que colocar: Garrafas PET, potes de plástico, tampinhas, sacolas, embalagens de produtos de limpeza, copos descartáveis limpos.\n\nO que NÃO colocar: Cabos de panela, acrílico, espuma, plásticos metalizados (como embalagens de salgadinho).\n\nVerde: Vidro.\n\nO que colocar: Garrafas, copos, frascos de perfume, potes de conserva, cacos de vidro (embalados em jornal para não machucar o coletor).\n\nO que NÃO colocar: Espelhos, lâmpadas, óculos, cerâmica, porcelana, cristal, vidros temperados.\n\nAmarelo: Metal.\n\nO que colocar: Latas de alumínio (refrigerante, suco), latas de conserva, tampinhas de garrafa, pregos, parafusos, arames.\n\nO que NÃO colocar: Clipes, esponja de aço, latas com restos de tintas ou produtos químicos.\n\nMarrom: Lixo Orgânico.\n\nO que colocar: Restos de comida, cascas de frutas e legumes, pó de café, saquinhos de chá, folhas secas.\n\nCinza: Lixo Não Reciclável, Contaminado ou Cuja Separação Não é Possível.\n\nO que colocar: Papel higiênico, fraldas, absorventes, guardanapos sujos, bitucas de cigarro, fitas adesivas, fotografias.\n\nCores Específicas (Mais usadas em indústrias, hospitais e comércios)\nPreto: Madeira. (Restos de construções, paletes, móveis velhos).\n\nBranco: Resíduos de Hospitais e Serviços de Saúde. (Seringas, gazes, algodão, curativos).\n\nLaranja: Resíduos Perigosos. (Pilhas, baterias, embalagens de agrotóxicos, frascos de produtos químicos).\n\nRoxo: Resíduos Radioativos. (Materiais usados em tratamentos de radioterapia ou equipamentos específicos)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

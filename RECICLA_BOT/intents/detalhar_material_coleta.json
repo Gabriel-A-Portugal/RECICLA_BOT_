@@ -1,0 +1,76 @@
+{
+  "id": "d5e9f7a1-b0c2-4d3e-5f6a-7b8c9d0e1f2a",
+  "name": "detalhar_material_coleta",
+  "auto": true,
+  "contexts": [
+    "solicitou_coleta"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "detalhou_material",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5e9e7a5a-e8ae-4d55-a8a9-75447f8b5180",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual material você quer descartar? (plástico, papel, metal, vidro, etc)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7021cc3c-6f8c-47c3-97c8-95a99957a77d",
+          "name": "quantidade",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$quantidade",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Entendi! Você quer descartar $material.\n\nPara melhorar o atendimento, me informe:\n\n1. Quantidade aproximada?\n   - Ex: \"1 caixa\", \"5 sacolas\", \"10Kg\"\n\n2. A cidade e bairro onde você está?\n\nAssim encontro o melhor ponto de coleta para você."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

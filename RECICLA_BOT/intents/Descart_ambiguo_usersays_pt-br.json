@@ -1,0 +1,600 @@
+[
+  {
+    "id": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Embalagem",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagem",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagens",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Pote",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "pote",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+    "data": [
+      {
+        "text": "como jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "potes",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "Frasco",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "frascos",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e6f",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Pote de Conserva",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f7a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "pote de conserva",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a8b",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Garrafa de Suco",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b9c",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa de suco",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4e",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "Embalagem de Suco",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5f",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagem de suco",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e60",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "Garrafa de Agua",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f70",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa de agua",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a80",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa de água",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b90",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "Embalagem de Alimento",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4f",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagem de alimento",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d60",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Pote de Alimento",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e70",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "pote de alimento",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3cd9efaf-8bac-4603-89a0-7c613de38057",
+    "data": [
+      {
+        "text": "fiz uma limpeza em casa e preciso descaratr uns ",
+        "userDefined": false
+      },
+      {
+        "text": "potes",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 13,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d52ff2f0-0b83-4d59-8bdf-2b020fb49535",
+    "data": [
+      {
+        "text": "pote",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a3404caa-e017-43ef-a365-e776a4e9e2d5",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagem",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b496540-5a50-46af-895e-96201e642d8d",
+    "data": [
+      {
+        "text": "como descartar uma ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagem de suco",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "971f28fc-ce68-4a42-a9e3-9fb6eb6f91e9",
+    "data": [
+      {
+        "text": "E ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas de água",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "912e5cad-6110-4e84-b8c2-d4d323c170b7",
+    "data": [
+      {
+        "text": "Onde posso jogar meu ",
+        "userDefined": false
+      },
+      {
+        "text": "frasco",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " de desodorante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f61a8039-7eb3-454b-b0ad-b1a9f5977201",
+    "data": [
+      {
+        "text": "como descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagem de suco",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2d2dd70-8d49-4f6c-b77c-4fb510ed09d8",
+    "data": [
+      {
+        "text": "preciso jogar fora ",
+        "userDefined": false
+      },
+      {
+        "text": "pote de conserva",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "04ea18c9-010d-45c5-948f-96baf410d5b0",
+    "data": [
+      {
+        "text": "garrafa de guarana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "acd19ea3-838b-4b83-a22e-8f97b86c3017",
+    "data": [
+      {
+        "text": "preciso descartar garrafa de guarana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b1d05dfc-f594-4b78-88ce-abc37d2b0ef1",
+    "data": [
+      {
+        "text": "Papel com sangue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

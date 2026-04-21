@@ -1,0 +1,666 @@
+[
+  {
+    "id": "96a7230a-f98a-4216-916c-deb2d08ce034",
+    "data": [
+      {
+        "text": "tenho uma ",
+        "userDefined": false
+      },
+      {
+        "text": "dúvida",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3ac9dc8a-727c-4500-b0f5-377712ae1d8b",
+    "data": [
+      {
+        "text": "dúvida",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "reciclagem",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "81781e5b-83cb-41fc-8a9c-08c529ab50d6",
+    "data": [
+      {
+        "text": "como funciona",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "reciclagem",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "64afe242-3d16-44ab-8cc5-e92c44bda308",
+    "data": [
+      {
+        "text": "quais",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "materiais",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " são ",
+        "userDefined": false
+      },
+      {
+        "text": "recicláveis",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0988011d-6587-4848-8b68-671ed40f9ae7",
+    "data": [
+      {
+        "text": "onde descarto",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "88b63fa6-809f-4f9a-8cf7-8546868da441",
+    "data": [
+      {
+        "text": "não sei ",
+        "userDefined": false
+      },
+      {
+        "text": "o que fazer",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " com",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "501c257e-a595-4410-b8ff-1362e06586ac",
+    "data": [
+      {
+        "text": "preciso de ajuda",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "15ed6ad9-daa9-4d9d-bafa-0ef5b95f803e",
+    "data": [
+      {
+        "text": "me ajuda",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ddaf431-1808-4f6c-bc84-f5857f970342",
+    "data": [
+      {
+        "text": "o que fazer com",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ddc96623-0c0a-4ef3-940c-7dcc2ed0f5b8",
+    "data": [
+      {
+        "text": "como descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como funciona",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": false
+      },
+      {
+        "text": " a reciclagem de componentes de ",
+        "userDefined": false
+      },
+      {
+        "text": "computador",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": ", como ",
+        "userDefined": false
+      },
+      {
+        "text": "placas-",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": "mãe, processadores",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "pentes de memória?",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Tenho uma gaveta cheia de ",
+        "userDefined": false
+      },
+      {
+        "text": "cabos",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " que eu não sei de onde são, mas tenho medo de jogar fora. Se eu tomar coragem, ",
+        "userDefined": false
+      },
+      {
+        "text": "onde é o descarte",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": false
+      },
+      {
+        "text": " certo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas de cerveja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagens de pizza",
+        "meta": "@Material",
+        "alias": "material1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-001",
+    "data": [
+      {
+        "text": "Reciclagem ajuda o planeta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-002",
+    "data": [
+      {
+        "text": "Por que a reciclagem ",
+        "userDefined": false
+      },
+      {
+        "text": "e importante?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-003",
+    "data": [
+      {
+        "text": "O que acontece se eu nao separateo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-004",
+    "data": [
+      {
+        "text": "Pra que serve recycle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-005",
+    "data": [
+      {
+        "text": "Qual a diferenca entre ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira azul e verde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-006",
+    "data": [
+      {
+        "text": "Reciclar economiza energia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-007",
+    "data": [
+      {
+        "text": "Quanto tempo um ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "demora pra decompor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-008",
+    "data": [
+      {
+        "text": "O lixeiro recolhe quando tem coleta seletiva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-009",
+    "data": [
+      {
+        "text": "E obligatorio separateo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-010",
+    "data": [
+      {
+        "text": "Quem invented a reciclagem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-011",
+    "data": [
+      {
+        "text": "Quantos types de lixeira tem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-012",
+    "data": [
+      {
+        "text": "O que significam as ",
+        "userDefined": false
+      },
+      {
+        "text": "cores das lixeiras?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-013",
+    "data": [
+      {
+        "text": "Posso gain dinheiro recycling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-014",
+    "data": [
+      {
+        "text": "Onde venda ",
+        "userDefined": false
+      },
+      {
+        "text": "material",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " recyclado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-015",
+    "data": [
+      {
+        "text": "Reciclagem gera empregos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-016",
+    "data": [
+      {
+        "text": "Como come?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-017",
+    "data": [
+      {
+        "text": "Vale a pena separateo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-018",
+    "data": [
+      {
+        "text": "Por que ",
+        "userDefined": false
+      },
+      {
+        "text": "lata",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "vai na amarela?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-019",
+    "data": [
+      {
+        "text": "O que e a ",
+        "userDefined": false
+      },
+      {
+        "text": "logistica reversa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-duvida-020",
+    "data": [
+      {
+        "text": "Como funciona a ",
+        "userDefined": false
+      },
+      {
+        "text": "coleta seletiva",
+        "userDefined": false
+      },
+      {
+        "text": " na minha cidade?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Preciso do que",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": false
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "duvidas_reciclagem",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lixo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

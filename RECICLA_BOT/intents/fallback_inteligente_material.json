@@ -1,0 +1,57 @@
+{
+  "id": "e1f5a3b7-c6d8-4e9f-0a1b-2c3d4e5f6a7b",
+  "name": "fallback_inteligente_material",
+  "auto": true,
+  "contexts": [
+    "perguntou_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0e4607ae-780e-4da0-9d9a-074e0b6bbbd7",
+          "name": "Material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$Material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Não entendi. Para continuar, escolha um material:\n\n- PLASTICO (garrafas, sacolas, embalagens)\n- VIDRO (garrafas, potes)\n- PAPEL (caixas, jornais)\n- METAL (latas, aluminium)\n- ORGANICO (restos de comida)\n- PILHA (baterias)\n- OLEO (óleo de cozinha)\n- ELETRONICO (celular, carregador)\n- MEDICAMENTO (remédios)\n- LIXO COMUM (rejeitos)\n\nInforme o nome do material."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

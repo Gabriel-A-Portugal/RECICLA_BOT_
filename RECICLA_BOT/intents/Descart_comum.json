@@ -1,0 +1,50 @@
+{
+  "id": "4a3b2c1d-0e9f-8a7b-6c5d-4e3f2a1b0c9d",
+  "name": "Descart_comum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+          "name": "comum_lixo",
+          "required": true,
+          "dataType": "@comum_lixo",
+          "value": "$comum_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar lixo comum corretamente:\n\nLixo comum ou rejeito vai para a lixeira cinza ou preta\n\nPapel sujo, guardanapos usados e fraldas vão no lixo comum\n\nIsopor e caixa de pizza engordurada também vão para o lixo comum\n\nNão misture recicláveis limpos com lixo comum\n\nEmbalagens com restos de comida devem ir para o lixo comum"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

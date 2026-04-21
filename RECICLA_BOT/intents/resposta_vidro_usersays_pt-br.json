@@ -1,0 +1,736 @@
+[
+  {
+    "id": "b6d13c47-99a5-48df-8057-6c6fe3c57cc2",
+    "data": [
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af2dac03-4fc2-4c5b-8e5f-7c7e4a1a8565",
+    "data": [
+      {
+        "text": "Vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "29ea5e60-e932-4678-8332-bee2b899ae55",
+    "data": [
+      {
+        "text": "garrafa de vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ced4cc65-db9a-40d8-b84b-3430722298c8",
+    "data": [
+      {
+        "text": "copo de vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Papel",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas de cerveja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "copo quebrado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Copo quebrado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Garrafas de cerveja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Garrafa de cerveja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas de vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "garrafas de vidros",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "garrafas de cerveja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "garrafa de cerveja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "preciso ",
+        "userDefined": false
+      },
+      {
+        "text": "descartas",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "garrfa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " de refrigerante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "preciso descaratar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas de vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas de cerveja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 12,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas de vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-001",
+    "data": [
+      {
+        "text": "Vidro ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "pode recycling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-002",
+    "data": [
+      {
+        "text": "Garrafa de vidro ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "vai pro coletor verde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-003",
+    "data": [
+      {
+        "text": "Vidro quebrado ",
+        "userDefined": false
+      },
+      {
+        "text": "nao pode recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-004",
+    "data": [
+      {
+        "text": "O que fazem com ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " usado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-005",
+    "data": [
+      {
+        "text": "Preciso tirar o ",
+        "userDefined": false
+      },
+      {
+        "text": "rotulo do vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " antes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-006",
+    "data": [
+      {
+        "text": "Copo de vidro ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "pode recycled na coleta seletiva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-007",
+    "data": [
+      {
+        "text": "Vidro ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "demora quanto tempo pra recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-008",
+    "data": [
+      {
+        "text": "Vale mais a pena recycled ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-009",
+    "data": [
+      {
+        "text": "Garrafa de cerveja ",
+        "userDefined": false
+      },
+      {
+        "text": "pode ir pro vidro azul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-010",
+    "data": [
+      {
+        "text": "Como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "copo quebrado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " sem se ferir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-011",
+    "data": [
+      {
+        "text": "Vidro ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "e mais ecology que plastico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-012",
+    "data": [
+      {
+        "text": "Pra onde leva ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas de vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " depois de recicladas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-013",
+    "data": [
+      {
+        "text": "Se o ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "estiver inteiro, pode recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-014",
+    "data": [
+      {
+        "text": "Quanto economiza recycled ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-015",
+    "data": [
+      {
+        "text": "Vidro ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "pode pro lixeiro comum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-016",
+    "data": [
+      {
+        "text": "O que acontece se eu mixed ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " com ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-017",
+    "data": [
+      {
+        "text": "Vidro ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "e ruim pro meio ambiente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-018",
+    "data": [
+      {
+        "text": "Tem collect point de ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "perto de mim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-019",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "vai pro inferno?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-vidro-020",
+    "data": [
+      {
+        "text": "Posso reuse ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa de vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " em casa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

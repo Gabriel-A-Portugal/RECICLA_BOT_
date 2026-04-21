@@ -1,0 +1,50 @@
+{
+  "id": "7a6b5c4d-3e2f-1a0b-9c8d-7e6f5a4b3c2d",
+  "name": "Descart_vidro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "62c9722b-97a8-4fa7-b7a1-c1ef5ff9cf83",
+          "name": "vidro_lixo",
+          "required": true,
+          "dataType": "@vidro_lixo",
+          "value": "$vidro_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar vidro corretamente:\n\nVidro limpo e inteiro pode ir para a lixeira verde\n\nGarrafas de vidro devem estar vazias antes do descarte\n\nVidro quebrado deve ser embalado em jornal ou caixa para evitar acidentes\n\nCacos de vidro vão para o lixo comum quando bem embalados\n\nNão misture vidro com outros materiais na coleta seletiva"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

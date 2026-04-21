@@ -1,0 +1,57 @@
+{
+  "id": "78d02823-06bb-4076-bf6f-bd08c5fd76d5",
+  "name": "resposta_medicamento",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "p9",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "MEDICAMENTOS\n\nNAO JOGUE NO LIXO COMUM!\nNAO JOGUE NO VASO SANITARIO!\n\nPODE JOGAR NO LIXO COMUM?\n- NAO, NUNCA. Medicamentos contaminam o solo e a agua.\n\nONDE DESCARTAR:\n- Farmacias (obrigadas por lei a receber)\n- Postos de saude\n\nDICA: Devolva medicamentos vencidos ou nao utilizados na farmacia.\n\nATENCAO PARA AGULHAS E SERINGAS HOSPITALARES:\n- Agulhas de medicamento, seringas usadas, agulhas de vacina\n- NAO sao reciclaveis\n- NAO vao no lixo comum\n- Devem ser descartadas em CAIXAS ESPECIFICAS para perfurocortantes\n- Disponiveis em farmacias e postos de saude\n- Nunca jogue soltas no lixo"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

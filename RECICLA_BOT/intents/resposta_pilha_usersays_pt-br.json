@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bad13c47-99a5-48df-8057-6c6fe3c57cc6",
+    "data": [
+      {
+        "text": "pilha",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b0949d83-974e-459d-8f09-052f3cc4aaca",
+    "data": [
+      {
+        "text": "Pilha",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7fb561df-9406-4efb-a65c-a9fee315b629",
+    "data": [
+      {
+        "text": "bateria",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "945ab234-a160-49cc-b5fc-993b1d0cf71a",
+    "data": [
+      {
+        "text": "pilhas",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

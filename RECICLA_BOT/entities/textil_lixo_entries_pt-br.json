@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Roupa",
+    "synonyms": [
+      "Roupa",
+      "roupa",
+      "roupas",
+      "roupa velha",
+      "camisa",
+      "calca",
+      "calça",
+      "camiseta"
+    ]
+  },
+  {
+    "value": "Sapato",
+    "synonyms": [
+      "Sapato",
+      "sapato",
+      "sapatos",
+      "sapato velho",
+      "tenis",
+      "tênis"
+    ]
+  },
+  {
+    "value": "Lençol",
+    "synonyms": [
+      "Lençol",
+      "lençol",
+      "lençois",
+      "lençóis",
+      "toalha",
+      "toalhas"
+    ]
+  },
+  {
+    "value": "Pano de Limpeza",
+    "synonyms": [
+      "Pano de limpeza",
+      "pano de limpeza",
+      "pano sujo",
+      "flanela",
+      "flanela suja"
+    ]
+  }
+]

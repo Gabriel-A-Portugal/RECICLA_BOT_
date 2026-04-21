@@ -1,0 +1,84 @@
+[
+  {
+    "id": "bbd13c47-99a5-48df-8057-6c6fe3c57cc7",
+    "data": [
+      {
+        "text": "óleo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "93f5aacc-6a39-480a-a994-731fc79837e8",
+    "data": [
+      {
+        "text": "oleo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "940fad14-5201-4a83-ac1e-8629ae9cce76",
+    "data": [
+      {
+        "text": "óleo de cozinha",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a432da4a-406e-4b01-8930-93342707702f",
+    "data": [
+      {
+        "text": "gordura",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "oleo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,1123 @@
+[
+  {
+    "id": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " usado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "papeu",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "papéu",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " pode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "papei",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "papéis",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " velhos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "folha de papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e",
+    "data": [
+      {
+        "text": "como jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "folha",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e6f",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "folhas",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " de rascunho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f7a",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "folha sulfite",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a8b",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "rascunho",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b9c",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "impressão",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " errada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4e",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "cópia",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5f",
+    "data": [
+      {
+        "text": "qual lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "xerox",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e60",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "nota fiscal",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f7b",
+    "data": [
+      {
+        "text": "onde descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "recibo",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " antigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a8c",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "conta de luz",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b9d",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "conta de agua",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4f",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "conta de água",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d6a",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "papel de rascunho",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e7a",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Papelão",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f8a",
+    "data": [
+      {
+        "text": "como jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "papelão",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a9a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "papelao",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b0a",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelão",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4a",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelao",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d7a",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "papelao ondulado",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e8a",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de sapato",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f9a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de remedio",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a0a",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de remédio",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b1a",
+    "data": [
+      {
+        "text": "onde descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "papel cartao",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4b",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "papel cartão",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d8a",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "cartolina",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e9a",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Jornal",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f0a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "jornal",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a1a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "jornais",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4c",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Revista",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d9a",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "revista",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e0a",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "revistas",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f1a",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Caderno",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a2a",
+    "data": [
+      {
+        "text": "como jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "caderno",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " usado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b3a",
+    "data": [
+      {
+        "text": "onde descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "cadernos",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " antigos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Envelope",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d0a",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "envelope",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e1a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "envelopes",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f2a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Saco de papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a3a",
+    "data": [
+      {
+        "text": "qual lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "saco de papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b4a",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "saco kraft",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4e",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Papel de presente",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d1a",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "papel de presente",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " usado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e2a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Papel seda",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f3a",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "papel seda",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "jornal",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "velho",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelão",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Onde descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " sulfite usado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelão",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " cheia de ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

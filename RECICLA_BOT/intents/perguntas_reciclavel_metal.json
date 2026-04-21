@@ -1,0 +1,35 @@
+{
+  "id": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+  "name": "perguntas_reciclavel_metal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nem todo metal pode ser reciclado. Os criterios sao:\n\nMetal sujo de comida ou gordura nao vai para reciclagem\n\nLatas de tinta, solvente ou produtos quimicos nao vao para reciclagem comum\n\nPilhas e baterias tem reciclagem especial em pontos de coleta\n\nRegra pratica: metal limpo e seco vai para lixeira amarela. Metais perigosos vao para pontos especificos"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

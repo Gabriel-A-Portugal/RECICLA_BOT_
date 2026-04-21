@@ -1,0 +1,384 @@
+[
+  {
+    "id": "7e54170f-8fa4-4444-bb6f-cb211d3bc3ac",
+    "data": [
+      {
+        "text": "vidro especial",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b0de406-8716-493f-b20e-8fa0681461c2",
+    "data": [
+      {
+        "text": "janela",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2f0c2b50-ddc3-4e8f-938e-29d6bd305624",
+    "data": [
+      {
+        "text": "espelho",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cad6fccc-a3f0-4556-b61d-c62fe079c031",
+    "data": [
+      {
+        "text": "pirex",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "64bac7db-6f46-4ba5-9b52-ec03bfef1119",
+    "data": [
+      {
+        "text": "lampada",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab2f492a-82bf-478b-ab80-a23d08292970",
+    "data": [
+      {
+        "text": "lampada",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LED",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2ad2a684-0bb5-4985-8817-0c36fa80fa34",
+    "data": [
+      {
+        "text": "lampada fluorescente",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a28df1a7-fef7-4cb0-94e4-56b4ce8a7427",
+    "data": [
+      {
+        "text": "mamadeira",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0dc8fca0-3359-480c-877f-840920d5020d",
+    "data": [
+      {
+        "text": "bombril",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c4e73c1a-6a96-465f-ad6f-80da9002d255",
+    "data": [
+      {
+        "text": "esponja de aco",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7fa97dd0-981d-4c21-bd7b-82b1acf382e5",
+    "data": [
+      {
+        "text": "box de banheiro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a588f55-521c-4b7c-9042-2dd11eca1157",
+    "data": [
+      {
+        "text": "vidro temperado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5875bb4-16aa-4cd6-aee6-b55209f4f290",
+    "data": [
+      {
+        "text": "porta de vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0db9e05a-2a7f-4956-87ae-dadf1fe83f46",
+    "data": [
+      {
+        "text": "onde jogar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "espelho",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1095ca78-2c1c-46de-8b06-6e442cc95172",
+    "data": [
+      {
+        "text": "descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lampada",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5ef8ebd1-0baf-4fea-a6fd-762ac26211e8",
+    "data": [
+      {
+        "text": "lustre",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9362ebe9-7c7a-4562-a471-ebddab24576c",
+    "data": [
+      {
+        "text": "lampa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "28ca5e40-371e-4b91-8658-acbf367e4b96",
+    "data": [
+      {
+        "text": "cortica",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "08aad012-507c-41a0-b2dd-14778d1017d1",
+    "data": [
+      {
+        "text": "rolha",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aa0f6289-9f1d-4ff9-8b06-ac4490c63968",
+    "data": [
+      {
+        "text": "copo de vidro temperado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Preciso ",
+        "userDefined": false
+      },
+      {
+        "text": "descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "plástico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

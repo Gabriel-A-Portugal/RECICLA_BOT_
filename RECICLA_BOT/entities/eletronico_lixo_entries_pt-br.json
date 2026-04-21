@@ -1,0 +1,95 @@
+[
+  {
+    "value": "Celular",
+    "synonyms": [
+      "Celular",
+      "celular",
+      "celulares",
+      "telefone celular",
+      "smartphone",
+      "celular velho",
+      "celular quebrado"
+    ]
+  },
+  {
+    "value": "Eletrônicos",
+    "synonyms": [
+      "eletronicos",
+      "eletrônicos",
+      "eletrônico",
+      "eletronico"
+    ]
+  },
+  {
+    "value": "Carregador",
+    "synonyms": [
+      "Carregador",
+      "carregador",
+      "carregadores",
+      "carregador de celular"
+    ]
+  },
+  {
+    "value": "Computador",
+    "synonyms": [
+      "Computador",
+      "computador",
+      "computadores",
+      "pc",
+      "notebook",
+      "laptop"
+    ]
+  },
+  {
+    "value": "Monitor",
+    "synonyms": [
+      "Monitor",
+      "monitor",
+      "monitores",
+      "tela de computador",
+      "tela do pc",
+      "display",
+      "monitor quebrado",
+      "tela quebrada",
+      "monitor estragado",
+      "eletroeletronicos",
+      "eletroeletrônico"
+    ]
+  },
+  {
+    "value": "Fone de Ouvido",
+    "synonyms": [
+      "Fone de ouvido",
+      "fone de ouvido",
+      "fones de ouvido",
+      "headset"
+    ]
+  },
+  {
+    "value": "Teclado",
+    "synonyms": [
+      "Teclado",
+      "teclado",
+      "mouse"
+    ]
+  },
+  {
+    "value": "TV",
+    "synonyms": [
+      "TV",
+      "tv",
+      "televisão",
+      "televisao"
+    ]
+  },
+  {
+    "value": "Videogame",
+    "synonyms": [
+      "Videogame",
+      "videogame",
+      "video game",
+      "console",
+      "controle de videogame"
+    ]
+  }
+]

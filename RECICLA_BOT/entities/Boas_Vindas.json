@@ -1,0 +1,9 @@
+{
+  "id": "30aa7aca-d972-46d8-9151-c3659eda27d5",
+  "name": "Boas_Vindas",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

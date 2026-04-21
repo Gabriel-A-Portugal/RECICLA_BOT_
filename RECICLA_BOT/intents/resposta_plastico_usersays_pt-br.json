@@ -1,0 +1,638 @@
+[
+  {
+    "id": "b5d13c47-99a5-48df-8057-6c6fe3c57cc1",
+    "data": [
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2a0c2b67-80ab-45fc-9933-f2f3b247973f",
+    "data": [
+      {
+        "text": "plástico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "05f1c197-f9f5-4234-a9eb-21b9a56ab335",
+    "data": [
+      {
+        "text": "garrafa pet",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6aa9a263-c065-4be3-a434-3f7071c7f3d3",
+    "data": [
+      {
+        "text": "embalagem plástica",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3320a84d-a4ad-49d3-b148-103e86210d0d",
+    "data": [
+      {
+        "text": "sacola plástica",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6f24b7f6-99a1-416d-b069-a07cb4024a6e",
+    "data": [
+      {
+        "text": "pote de plástico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "garrafas",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " de refrigerante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "canudinho",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "canudo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "canudo de plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "plástico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-001",
+    "data": [
+      {
+        "text": "Plastico ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "vao pro lixao?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-002",
+    "data": [
+      {
+        "text": "Posso jogar meu ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " no coletor azul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-003",
+    "data": [
+      {
+        "text": "O que acontece com o ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " depois que recicla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-004",
+    "data": [
+      {
+        "text": "Vale a pena separar ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " pra reciclagem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-005",
+    "data": [
+      {
+        "text": "E se eu jugar ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " no wrong lugar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-006",
+    "data": [
+      {
+        "text": "Preciso lavar ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " antes de recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-007",
+    "data": [
+      {
+        "text": "Onde eu leftsgo ",
+        "userDefined": false
+      },
+      {
+        "text": "sacola plastica",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-008",
+    "data": [
+      {
+        "text": "Plastico ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "e recycled no Brasil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-009",
+    "data": [
+      {
+        "text": "Por que nao posso recycled ",
+        "userDefined": false
+      },
+      {
+        "text": "isopor",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-010",
+    "data": [
+      {
+        "text": "Garrafa PET ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "pode recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-011",
+    "data": [
+      {
+        "text": "Saco plastico ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "vai na lixeira azul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-012",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " demora quanto tempo pra se decompor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-013",
+    "data": [
+      {
+        "text": "Minha ",
+        "userDefined": false
+      },
+      {
+        "text": "embolagem plastica",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " esta suja de gordura, pra Onde vai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-014",
+    "data": [
+      {
+        "text": "E pior se eu misturar ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " com papel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-015",
+    "data": [
+      {
+        "text": "Como saber se o ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ainda pode recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-016",
+    "data": [
+      {
+        "text": "Quanto de ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " economizo reciclando?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-017",
+    "data": [
+      {
+        "text": "Plastico ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " causa damage ambiental?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-018",
+    "data": [
+      {
+        "text": "Vale mais recycled ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-019",
+    "data": [
+      {
+        "text": "Posso compacted ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " antes de recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-plastico-020",
+    "data": [
+      {
+        "text": "O que fazer com ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " que nao pode mais recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

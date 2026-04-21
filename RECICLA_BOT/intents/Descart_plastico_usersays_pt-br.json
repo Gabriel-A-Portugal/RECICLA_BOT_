@@ -1,0 +1,1149 @@
+[
+  {
+    "id": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Plástico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "plástica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "plastica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " suja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "de plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "de plástico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
+    "data": [
+      {
+        "text": "onde coloco embalagem ",
+        "userDefined": false
+      },
+      {
+        "text": "plastica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e",
+    "data": [
+      {
+        "text": "como jogar embalagem ",
+        "userDefined": false
+      },
+      {
+        "text": "plástica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f7a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "Garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a8b",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " vazia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b9c",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4e",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa plastica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d6f",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa plástica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e7a",
+    "data": [
+      {
+        "text": "onde descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa de refrigerante",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f8a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafinha d\u0027agua",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a9a",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafinha de agua",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b0a",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafinha d\u0027água",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4f",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafinha de água",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d7a",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa d\u0027agua",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e8a",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa d\u0027água",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f9a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafinha dagua",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a0a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafinha",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b1a",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Saco plástico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4a",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "saco plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d8a",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "saco plástico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e9a",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "sacolinha",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f0a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "sacola plastica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a1a",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "sacola plástica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d9a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "pote de margarina",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e0a",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "pote de iogurte",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f1a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Talher descartavel",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a2a",
+    "data": [
+      {
+        "text": "qual lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "talher descartável",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b3a",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "copinho plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4c",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "copo descartavel",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d0a",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "copo descartável",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " usado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e1a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "canudo",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f2a",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "canudinho",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a3a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "Tampa",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b4a",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "tampa",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "tampa plastica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d1a",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "tampa plástica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e2a",
+    "data": [
+      {
+        "text": "como jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "tampinha",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2bc538b6-74fd-43fd-9b16-b9248c2bbcef",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42e6ed79-81d3-46f1-9bbc-5a4e48b62832",
+    "data": [
+      {
+        "text": "plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8bf0243d-9afe-4032-9c44-9ff0fbdfcc7e",
+    "data": [
+      {
+        "text": "Plástico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c415c02b-ac44-487a-870d-a8e196e441d6",
+    "data": [
+      {
+        "text": "como descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "71d14b12-ee89-4a42-b8d9-385a5ece6776",
+    "data": [
+      {
+        "text": "Onde posso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagem plástica",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9f0a1b2c-3d4e-5f6a-7b8c-9d0e1f2a3b4c",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "saquinho de biscoito",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "saquinho de salgadinho",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "saquinho de batata frita",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+    "data": [
+      {
+        "text": "esse ",
+        "userDefined": false
+      },
+      {
+        "text": "saquinho de snacks",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " pode reciclar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagem de bolacha",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "saco de bolacha",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+    "data": [
+      {
+        "text": "preciso jogar fora ",
+        "userDefined": false
+      },
+      {
+        "text": "saquinho de bolacha",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5e",
+    "data": [
+      {
+        "text": "esse ",
+        "userDefined": false
+      },
+      {
+        "text": "pacote de bolacha",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " vai para reciclagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Embalagens",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "metalizadas",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "salgadinho",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ou biscoito (que não amassam e fazem ",
+        "userDefined": false
+      },
+      {
+        "text": "barulho",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": ") são recicláveis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Embalagens metalizadas de salgadinho ou biscoito (que não amassam e fazem barulho de papel) são recicláveis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

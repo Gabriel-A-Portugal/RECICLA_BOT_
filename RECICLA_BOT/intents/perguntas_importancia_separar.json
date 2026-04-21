@@ -1,0 +1,35 @@
+{
+  "id": "8c7d6e5f-4a3b-2c1d-0e9f-8a7b6c5d4e3f",
+  "name": "perguntas_importancia_separar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sim, separar o lixo e muito importante. Nao, nem tudo acaba sendo misturado depois.\n\nCada tipo de lixo tem um destino diferente:\n\nReciclaveis limpos e secos vao para cooperativas e usinas de reciclagem\n\nLixo organico vai para compostagem ou aterros sanitarios\n\nResiduos perigosos como pilhas, baterias, lampadas e medicamentos vao para pontos de coleta especiais\n\nPerfurocortantes e infectantes tem tratamento especial\n\nSe voce misturar os tipos, o material reciclavel fica contaminado e perde o valor. Muitas vezes toda a carga vai para o aterro por causa da mistura.\n\nA separacao correta em casa faz toda a diferenca. O trabalho dos catadores e cooperativas fica mais facil e o material tem mais valor para reciclagem.\n\nEntao continue separando. Cada material no lugar certo faz a reciclagem funcionar e protege o meio ambiente."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567891",
+  "name": "informacoes_lixeiras",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0a50cef0-3e4a-4c62-b6e3-9c4597b2662b",
+          "name": "Cores_Lixeira",
+          "required": false,
+          "dataType": "@Cores_Lixeira",
+          "value": "$Cores_Lixeira",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d838c1ee-cc8c-4324-a8b1-857e8db40a3a",
+          "name": "Duvidas_Reciclagem",
+          "required": false,
+          "dataType": "@Duvidas_Reciclagem",
+          "value": "$Duvidas_Reciclagem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8b3473c3-96d0-40d6-bad4-8bc8be4378a1",
+          "name": "Material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$Material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "CORES DAS LIXEIRAS (padrão brasileiro):\n\n🔵 AZUL - PAPEL: jornais, revistas, caixas de papelão, papel branco\n\n🟢 VERDE - VIDRO: garrafas, potes, frascos de vidro\n\n🟡 AMARELO - METAL: latas de alumínio, aço, cobre, bronze\n\n🔴 VERMELHA - PLÁSTICO: embalagens plásticas, garrafas PET, sacolas\n\n⚫ PRETO/MARROM - ORGÂNICO: restos de comida, cascas, folhas\n\n⚪ BRANCA - REJEITO (lixo comum): tudo que não é reciclável\n\nDICA: Nem todas as cidades têm todas as cores. Confirme com sua prefeitura quais lixeiras existem na sua região.\n\nPosso ajudar com mais alguma informação? Escolha um material específico para saber onde descartá-lo."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

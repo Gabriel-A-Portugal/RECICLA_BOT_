@@ -1,0 +1,80 @@
+{
+  "id": "c9d1e3f5-a7b9-4d6c-4e6f-0a2b4c6d8e0f",
+  "name": "resposta_vidro_especial",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 3
+        },
+        {
+          "name": "perguntou_material",
+          "lifespan": 2
+        },
+        {
+          "name": "material_em_foco",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cb0b9931-b085-4b32-a090-7ac57ecbbd8e",
+          "name": "material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "66bc11c3-2586-4d20-b157-c8bf609337dd",
+          "name": "Duvidas_Reciclagem",
+          "required": false,
+          "dataType": "@Duvidas_Reciclagem",
+          "value": "$Duvidas_Reciclagem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "VIDROS ESPECIAIS E OUTROS ITENS\n\nVIDRO TEMPERADO (Pirex, Pyrex, box de banheiro):\n- NAO vai na reciclagem\n- Vai para o LIXO COMUM\n\nESPELHO:\n- NAO e reciclavel\n- Vai para o LIXO COMUM\n\nMAMADEIRA / BIBERON:\n- Separe o vidro da tampa\n- Vidro: lixeira VERDE\n- Tampa: lixeira AMARELA (se metal) ou VERMELHA (se plastico)\n\nESPONJA DE ACO:\n- Vai na lixeira AMARELA (e reciclavel como metal!)\n- Ou reutilize para limpeza da casa\n\nROLHA DE CORTICA:\n- Algumas cooperativas de reciclagem aceitam\n- Caso contrario: LIXO COMUM\n- Dica: rolhas naturais sao compostaveis!\n\nLAMPADAS:\n- LED: Alguns pontos de coleta aceitam\n- Fluorescente: Levar a pontos especificos\n- Contem mercurio, sao perigo especial!\n- Procure: Leroy Merlin, pontos de coleta de e-lixo\n\nVIDRO COMUM (garrafas, potes):\n- Vai na lixeira VERDE\n\nVIDRO QUEBRADO:\n- Embrulhe em jornal ou papelao\n- Identifique como VIDRO QUEBRADO\n- Pode ir no lixo comum com seguranca\n\nDICA: Quando em duvida sobre vidros especiais, descarte no LIXO COMUM.\n\nPosso ajudar com outro material? Informe: plastico, vidro, metal, papel, organico, pilha, oleo, eletronico, medicamento, lixo comum, tekstil, moveis, construcao ou vidro especial.",
+            "1. Vidros Especiais de Uso Doméstico\nExemplos: Espelhos, vidros temperados (box de banheiro, tampos de mesa), refratários de cozinha (Pirex, marinex), taças de cristal, lentes de óculos, porcelana e cerâmica.\n\nOnde descartar: Na lixeira Cinza (Lixo Comum / Rejeito). Atualmente, a reciclagem desses materiais no dia a dia é inviável, então eles vão para o aterro sanitário.\n\nComo embalar: Como oferecem risco de corte (mesmo que o vidro temperado quebre em pedaços arredondados, ainda é perigoso), eles devem ser embalados como materiais perfurocortantes:\n\nColoque os cacos dentro de garrafas PET, caixas de leite (Tetra Pak) ou caixas de papelão grosso.\n\nPasse bastante fita adesiva para selar.\n\nEscreva por fora: \"CUIDADO: VIDRO QUEBRADO\".\n\n2. Lâmpadas Fluorescentes e Incandescentes\nExemplos: Lâmpadas tubulares, lâmpadas econômicas em espiral.\n\nOnde descartar: NUNCA jogue no lixo comum ou no lixo reciclável. As lâmpadas fluorescentes contêm mercúrio e pó fosfórico, que são altamente tóxicos para o solo, a água e para os coletores.\n\nO que fazer: Elas exigem logística reversa. Você deve levá-las inteiras a pontos de coleta específicos (geralmente encontrados em grandes supermercados, lojas de material de construção como Telhanorte ou Leroy Merlin, ou ecopontos da prefeitura). Se quebrarem em casa, recolha com luvas e papel úmido, coloque em um pote de vidro fechado e leve ao ponto de coleta.\n\n3. Vidros Eletrônicos\nExemplos: Telas de TV (principalmente as antigas de tubo/CRT, mas também LCD/LED), monitores de computador, telas de celulares e tablets.\n\nOnde descartar: Esses itens são classificados como Lixo Eletrônico (e-lixo) porque contêm chumbo e outros metais pesados.\n\nO que fazer: Devem ser entregues em ecopontos da prefeitura, cooperativas focadas em descarte de eletrônicos ou lojas de varejo e operadoras de telefonia que possuem urnas de coleta para aparelhos e telas.\n\nResumo: Se não for garrafa de bebida, pote de alimento ou frasco de perfume/cosmético de vidro comum, não vai na lixeira verde. Embale com segurança e mande para o lixo comum (cinza) ou para o ecoponto adequado."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

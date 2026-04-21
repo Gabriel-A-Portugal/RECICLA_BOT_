@@ -1,0 +1,50 @@
+{
+  "id": "5a4b3c2d-1e0f-9a8b-7c6d-5e4f3a2b1c0d",
+  "name": "Descart_organico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+          "name": "organico_lixo",
+          "required": true,
+          "dataType": "@organico_lixo",
+          "value": "$organico_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar lixo orgânico corretamente:\n\nRestos de comida e cascas vão para a lixeira marrom\n\nSe tiver composteira em casa, aproveite os orgânicos para adubo\n\nNão misture orgânicos com recicláveis sujos\n\nCascas de frutas e verduras podem ir para compostagem caseira\n\nRestos de carne e ossos vão para o lixo orgânico comum"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

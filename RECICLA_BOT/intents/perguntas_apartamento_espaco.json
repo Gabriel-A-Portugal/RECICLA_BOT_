@@ -1,0 +1,35 @@
+{
+  "id": "5d4c3b2a-1f0e-9d8c-7b6a-5f4e3d2c1b0a",
+  "name": "perguntas_apartamento_espaco",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Morar em apartamento com espaco limitado e desafiador, mas e possivel.\n\nDicas praticas:\n\nTenha duas lixeiras pequenas embaixo da pia: uma para reciclaveis secos e outra para rejeito\n\nUse sacolas penduradas em ganchos atras da porta do armario\n\nAmasse as embalagens como garrafas pet e caixas de papelao para reduzir volume\n\nAcumule reciclaveis em um saco maior na varanda ou area de servico e descarte uma vez por semana\n\nRestos de comida podem ir para um pote pequeno no congelador ate o dia da coleta para evitar cheiro\n\nCombine com os vizinhos: um leva os reciclaveis cada semana\n\nVerifique se seu predio tem coleta seletiva. Se nao tiver, encontre o ecoponto mais perto\n\nO importante e comecar. Com o tempo voce encontra o melhor jeito para seu espaco."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

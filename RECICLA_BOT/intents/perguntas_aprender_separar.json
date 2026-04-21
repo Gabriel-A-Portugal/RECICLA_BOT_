@@ -1,0 +1,35 @@
+{
+  "id": "e6d62f18-6245-4f6d-9832-2e2c4f6e1991",
+  "name": "perguntas_aprender_separar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sim. Use a regra dos 3 passos faceis:\n\nPasso 1 - O que é: Verifique o material no fundo da embalagem ou na etiqueta\n\nPasso 2 - Esta limpo: Se tiver resto de comida ou gordura, vai para o lixo comum\n\nPasso 3 - Para onde vai: Reciclaveis limpos e secos vao para as lixeiras coloridas. Resto vai para o lixo comum\n\nDica pratica: Tenha duas lixeiras em casa. Uma para reciclaveis limpos e outra para o resto. Na duvida, jogue no lixo comum para nao contaminar a reciclagem\n\nCom o tempo voce se acostuma sem precisar decorar"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

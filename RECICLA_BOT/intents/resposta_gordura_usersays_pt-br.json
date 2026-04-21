@@ -1,0 +1,92 @@
+[
+  {
+    "id": "75e7d615-1004-47b8-a564-a5c446d1ed87",
+    "data": [
+      {
+        "text": "sebo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "825d08c7-9fb2-4029-9340-fa60f76829a8",
+    "data": [
+      {
+        "text": "margarina",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c985937e-bd72-4aac-906f-d944a9323fd3",
+    "data": [
+      {
+        "text": "manteiga",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "60cbfdae-05b4-4969-b15b-f9cdf2e8b249",
+    "data": [
+      {
+        "text": "graxa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8de12e0-f88f-456a-81f8-8d7a41858131",
+    "data": [
+      {
+        "text": "gorduroso",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46f8a53a-77cf-4502-909c-fa24b4cc8ead",
+    "data": [
+      {
+        "text": "gordura",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

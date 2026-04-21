@@ -1,0 +1,397 @@
+[
+  {
+    "id": "34632213-ab4c-4a28-87c9-4cdc5632eb82",
+    "data": [
+      {
+        "text": "movel",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a976c7aa-5894-4153-bb04-c6844b71ba51",
+    "data": [
+      {
+        "text": "moveis",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dd81f6a0-acf0-46d6-8702-26ecb41b651b",
+    "data": [
+      {
+        "text": "sofa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7e271f85-2cbe-4303-9f05-335b4526e097",
+    "data": [
+      {
+        "text": "colchao",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "857276c3-24f4-4da5-bebf-c2bd75142fac",
+    "data": [
+      {
+        "text": "cama",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1aeb658-b81b-40ac-8b92-7633450f7de9",
+    "data": [
+      {
+        "text": "mesa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2465117e-906b-4541-b362-55f2f224a9c1",
+    "data": [
+      {
+        "text": "cadeira",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ac48513a-d5a2-4286-adfb-b2294f725388",
+    "data": [
+      {
+        "text": "armario",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bbcec75b-898a-4363-a3ee-decbeff63a7d",
+    "data": [
+      {
+        "text": "estante",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ea0d5d9c-93b9-42dd-8570-d2913cc65b1e",
+    "data": [
+      {
+        "text": "guarda-roupa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87d51c0c-5352-46bf-8eac-1c9d40604df8",
+    "data": [
+      {
+        "text": "sofa quebrado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e3db82be-2802-48b1-bccb-906477e46570",
+    "data": [
+      {
+        "text": "colchao usado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "793a8699-7be7-43ed-8b62-e90a78e3cf7f",
+    "data": [
+      {
+        "text": "mesa velha",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "98da7561-93d9-4aa4-8d93-a5f92de5ed7e",
+    "data": [
+      {
+        "text": "cadeira quebrada",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9e9c0945-597b-4488-b56d-0fb1a8e4121d",
+    "data": [
+      {
+        "text": "onde jogar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sofa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e0495d79-a511-44b7-ae17-74c459a369d8",
+    "data": [
+      {
+        "text": "descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movel",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0abb1c08-2f1e-4be7-9df5-a59d3f28f10b",
+    "data": [
+      {
+        "text": "poltrona",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a82a0b3e-41df-4396-983e-0eb6667faa05",
+    "data": [
+      {
+        "text": "rack",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "606b4f34-1c07-48e2-af60-953554725fe5",
+    "data": [
+      {
+        "text": "puff",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9186462d-f9c3-4758-9bdb-0d374b47f415",
+    "data": [
+      {
+        "text": "cabeceira",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "da4c4aa2-0027-4810-bc4c-361fd3575a85",
+    "data": [
+      {
+        "text": "gaveteiro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1de9a019-aa30-4399-a058-42f73238f017",
+    "data": [
+      {
+        "text": "comoda",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8011544d-948e-4cb0-8344-ebeb7074b0b3",
+    "data": [
+      {
+        "text": "escrivaninha",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f0fdd475-4d29-48aa-baa2-e9e257778ca2",
+    "data": [
+      {
+        "text": "beliche",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5891db2c-37cd-48ac-857c-4b55022c3ccb",
+    "data": [
+      {
+        "text": "moveis usados",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

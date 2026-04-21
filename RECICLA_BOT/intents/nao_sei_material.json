@@ -1,0 +1,55 @@
+{
+  "id": "f3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7d",
+  "name": "nao_sei_material",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "perguntou_material",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7ca9d155-5a10-40fa-8926-a6b4d6a6a53e",
+          "name": "Material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$Material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sem problemas! Posso ajudar a identificar o material.\n\nME DESCREVA O QUE VOCÊ QUER DESCARTAR:\n- É embalagens, garrafas, caixas?\n- É algum alimento ou resto de comida?\n- É algo eletrônico ou pilha?\n- É vidro, metal ou plástico?\n\nOu escolha uma categoria:\n- PLÁSTICO (garrafas, sacolas, embalagens)\n- VIDRO (garrafas, potes, copos)\n- PAPEL (caixas, jornais, revistas)\n- METAL (latas, alumínio, fios)\n- ORGÂNICO (restos de comida)\n- PILHA (bateria, carregador)\n- ÓLEO (gordura de fritura)\n- ELETRÔNICO (aparelhos, cabos)\n- MEDICAMENTO (remédios)\n- LIXO COMUM (rejeitos)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

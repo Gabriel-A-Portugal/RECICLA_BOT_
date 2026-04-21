@@ -1,0 +1,92 @@
+{
+  "id": "d4f8b6c0-9f3a-4d7c-9e28-4b8f2e7da5eb",
+  "name": "perguntas_perfurocortantes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "df65baa7-8e8b-456c-ba0a-3ce446b303ef",
+          "name": "Material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$Material",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b6366a54-e0a8-4f50-908f-0867acba4c4d",
+          "name": "Duvidas_Reciclagem",
+          "required": false,
+          "dataType": "@Duvidas_Reciclagem",
+          "value": "$Duvidas_Reciclagem",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e66af619-e8af-463c-bbbf-682e09548017",
+          "name": "Limpeza_Descarte",
+          "required": false,
+          "dataType": "@Limpeza_Descarte",
+          "value": "$Limpeza_Descarte",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8c8b1644-7878-4fcb-868b-f83646000764",
+          "name": "Cores_Lixeira",
+          "required": false,
+          "dataType": "@Cores_Lixeira",
+          "value": "$Cores_Lixeira",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "MATERIAIS PERFUROCORTANTES EXIGEM CUIDADOS ESPECIAIS\n\nAGULHA DE COSTURA:\n- Embrulhe em papel grosso ou caixa de papelao\n- Identifique o pacote como \"PERFUROCORTANTE\"\n- Pode ir no lixo comum com seguranca\n\nAGULHA DE MEDICAMENTO / SERINGA:\n- NAO jogue no lixo comum\n- NAO jogue na reciclagem\n- Descartar em CAIXAS ESPECIFICAS para perfurocortantes\n- Disponiveis em farmacias e postos de saude\n\nVIDRO QUEBRADO / CACOS:\n- Embrulhe em jornal ou papelao\n- Identifique o pacote\n- Pode ir no lixo comum\n\nLAMINA DE BARBEAR:\n- Use um deposito proprio ou caixa especifica\n- Algumas marcas tem programa de reciclagem\n\nDICA: Sempre identifique o pacote para proteger os catadores e coletores."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "value": "Papel Sujo",
+    "synonyms": [
+      "Papel sujo",
+      "papel higiênico usado",
+      "papel higienico usado",
+      "guardanapo usado",
+      "guardanapo sujo",
+      "papel toalha usado",
+      "papel toalha sujo",
+      "lixo comum"
+    ]
+  },
+  {
+    "value": "Fralda",
+    "synonyms": [
+      "Fralda",
+      "fralda",
+      "fraldas",
+      "fraldinha",
+      "fralda usada",
+      "fralda suja"
+    ]
+  },
+  {
+    "value": "Isopor",
+    "synonyms": [
+      "Isopor",
+      "isopor",
+      "isopores",
+      "isoporzinho",
+      "bandeja de isopor"
+    ]
+  },
+  {
+    "value": "Caixa de Pizza",
+    "synonyms": [
+      "Caixa de pizza",
+      "caixa de pizza",
+      "caixa da pizza"
+    ]
+  },
+  {
+    "value": "Absorvente",
+    "synonyms": [
+      "Absorvente",
+      "absorvente",
+      "absorvente usado",
+      "absorvente sujo"
+    ]
+  },
+  {
+    "value": "Cotonete",
+    "synonyms": [
+      "Cotonete",
+      "cotonete",
+      "haste flexível",
+      "haste flexivel"
+    ]
+  },
+  {
+    "value": "Bituca de Cigarro",
+    "synonyms": [
+      "Bituca de cigarro",
+      "bituca de cigarro",
+      "bituca",
+      "cigarro"
+    ]
+  },
+  {
+    "value": "Lixo de Banheiro",
+    "synonyms": [
+      "Lixo de banheiro",
+      "lixo de banheiro",
+      "lixo do banheiro",
+      "lixo sanitario",
+      "lixo sanitário"
+    ]
+  },
+  {
+    "value": "Esponja Suja",
+    "synonyms": [
+      "Esponja suja",
+      "esponja de cozinha",
+      "esponja suja",
+      "pano sujo"
+    ]
+  }
+]

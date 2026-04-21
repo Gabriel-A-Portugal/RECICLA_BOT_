@@ -1,0 +1,35 @@
+{
+  "id": "5a4d3c2b-1e0f-9c8b-7a6f-5e4d3c2b1a0f",
+  "name": "perguntas_mesmo_caminhao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nao, o seu esforco nao e invalido, mesmo que o caminhao seja o mesmo.\n\nEm muitas cidades, o mesmo caminhao faz a coleta de ambos os tipos em horarios diferentes ou em dias alternados. O importante e como o material e tratado depois.\n\nSe voce separa corretamente em casa, o reciclavel limpo vai para cooperativas ou usinas de reciclagem. O lixo comum vai para aterros sanitarios.\n\nO problema nao e o caminhao ser o mesmo, mas sim se o material reciclavel chegar contaminado ao destino final. Por isso sua separacao e limpeza fazem diferenca.\n\nMesmo que haja falhas na coleta, o habito de separar e importante. Quanto mais pessoas separarem, mais o sistema melhora.\n\nContinue separando. Seu esforco contribui para conscientizacao e melhoria do servico ao longo do tempo."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

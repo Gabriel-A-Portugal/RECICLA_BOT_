@@ -1,0 +1,50 @@
+{
+  "id": "6a5b4c3d-2e1f-0a9b-8c7d-6e5f4a3b2c1d",
+  "name": "Descart_metal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+          "name": "metal_lixo",
+          "required": true,
+          "dataType": "@metal_lixo",
+          "value": "$metal_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar metal corretamente:\n\nLatas de alumínio e metal limpas vão para a lixeira amarela\n\nAmasse as latinhas para economizar espaço na coleta\n\nTampas de metal podem ser recicladas junto com as latas\n\nPanelas e talheres velhos também podem ir para a reciclagem de metal\n\nMetais enferrujados ou com produtos quimicos vão para o lixo comum"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

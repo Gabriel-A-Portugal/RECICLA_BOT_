@@ -1,0 +1,69 @@
+{
+  "id": "d0e4f2a6-b5c7-4d8e-9f0a-1b2c3d4e5f6a",
+  "name": "duvidas_gerais_reciclagem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "perguntou_duvida",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e3258f92-608a-4b7f-8832-2eefdb69d537",
+          "name": "Duvidas_Reciclagem",
+          "required": false,
+          "dataType": "@Duvidas_Reciclagem",
+          "value": "$Duvidas_Reciclagem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d41ed984-b4f8-46e3-a54f-7dcd666fa72b",
+          "name": "Material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$Material",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Posso responder diversas dúvidas sobre reciclagem. Alguns exemplos:\n\n- Quais materiais são recicláveis?\n- Como separar o lixo?\n- Onde descartar pilhas e baterias?\n- O que fazer com óleo usado?\n- Quais materiais vão em cada lixeira?\n- Como descartar eletrodomésticos?\n\nQual é a sua dúvida?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5b4a3d2c-1e0f-9a8b-7c6d-5e4f3a2b1c0d",
+  "name": "perguntas_diferenca_lixos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Diferenca pratica no dia a dia:\n\nReciclavel: material limpo e seco que pode ser transformado em outro produto. Exemplos: garrafa pet vazia, caixa de papelao limpa, latinha de aluminio, vidro de conserva limpo.\n\nOrganico: resto de comida, cascas de frutas e verduras, borra de cafe, cascas de ovo. Pode virar adubo na compostagem.\n\nRejeito: tudo que nao pode ser reciclado nem compostado. Exemplos: papel higienico usado, fralda, guardanapo sujo, isopor, caixa de pizza engordurada, bituca de cigarro.\n\nNa pratica: tenha tres lixeiras. Uma para reciclaveis limpos e secos. Outra para resto de comida. Outra para o rejeito. Se tiver duvida se algo e reciclavel, jogue no rejeito para nao contaminar a reciclagem."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

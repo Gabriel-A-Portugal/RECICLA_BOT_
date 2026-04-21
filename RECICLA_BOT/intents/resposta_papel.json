@@ -1,0 +1,57 @@
+{
+  "id": "72d02823-06bb-4076-bf6f-bd08c5fd76cf",
+  "name": "resposta_papel",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "p3",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "PAPEL E PAPELAO\n\nO QUE FAZER:\n- Papeis e papelao limpos: lixeira VERMELHA\n- Papelao deve ser dobrado ou picado, nao amassado\n- Caixas de papelao podem ser recicladas\n\nO QUE NAO FAZER:\n- Papeis sujos ou engordurados: lixo comum\n- Guardanapos usados, papel higienico: lixo comum\n- Papelao molhado ou contaminado: lixo comum\n\nPODE JOGAR NO LIXO COMUM?\n- Papeis sujos, guardanapos usados, papel higienico: SIM\n- Papeis limpos, papelao limpo: NAO, vao para reciclagem\n- Caixa de pizza com gordura: SIM, vai no lixo comum\n\nDICA: Papelao limpo e muito valorizado na reciclagem! Retire fitas adesivas e grampos antes de descartar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

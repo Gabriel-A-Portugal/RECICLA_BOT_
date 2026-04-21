@@ -1,0 +1,106 @@
+[
+  {
+    "id": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+    "data": [
+      {
+        "text": "Nem todo vidro pode ser reciclado ou existe algum criterio para identificar isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+    "data": [
+      {
+        "text": "todo vidro e reciclavel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+    "data": [
+      {
+        "text": "vidro quebrado pode ir para reciclagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+    "data": [
+      {
+        "text": "espelho pode ser reciclado como vidro comum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
+    "data": [
+      {
+        "text": "como descartar vidro quebrado corretamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+    "data": [
+      {
+        "text": "caco de vidro vai para lixeira verde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
+    "data": [
+      {
+        "text": "vidro de remedio pode ir para reciclagem comum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e",
+    "data": [
+      {
+        "text": "ceramica e vidro sao reciclados juntos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

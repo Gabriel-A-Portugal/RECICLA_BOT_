@@ -1,0 +1,9 @@
+{
+  "id": "ab27a6fb-0f73-41fd-b912-a9bf6d8a7ec0",
+  "name": "Limpeza_Descarte",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

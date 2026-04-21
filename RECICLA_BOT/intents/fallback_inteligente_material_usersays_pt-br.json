@@ -1,0 +1,116 @@
+[
+  {
+    "id": "8201993e-c464-4eac-b243-59d4c6a719f1",
+    "data": [
+      {
+        "text": "não sei",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9c375806-55da-411f-9a02-5d66f500c255",
+    "data": [
+      {
+        "text": "não sei o que é",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "351ef598-a220-4aca-a2a1-275c0447a448",
+    "data": [
+      {
+        "text": "não sei informar",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2eb2a5d-477e-486c-8644-e6789e3ebb10",
+    "data": [
+      {
+        "text": "não sei dizer",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "041a6075-2be6-4df5-bcfe-797bcf128854",
+    "data": [
+      {
+        "text": "nao sei",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fe7198df-2493-43d9-9d18-2a4672fe715a",
+    "data": [
+      {
+        "text": "não tenho certeza",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6a9f3937-e265-4cd9-b826-0f17de6635a8",
+    "data": [
+      {
+        "text": "não sei explicar",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a38026fd-8274-46bb-a769-4cee2d4cbfce",
+    "data": [
+      {
+        "text": "esqueci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

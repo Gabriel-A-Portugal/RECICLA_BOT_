@@ -1,0 +1,167 @@
+[
+  {
+    "id": "6e15a165-6c14-4b6a-8236-f6fddb503b09",
+    "data": [
+      {
+        "text": "tenho muito ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1bd586a4-aeb1-4d85-b2b0-a878e0e8ee83",
+    "data": [
+      {
+        "text": "tenho bastante ",
+        "userDefined": false
+      },
+      {
+        "text": "papelão",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e53baca9-2b19-4e0c-8ab3-999015e821b2",
+    "data": [
+      {
+        "text": "tenho algumas ",
+        "userDefined": false
+      },
+      {
+        "text": "caixas",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c28fda93-0ed6-43c6-8ae4-6b5922bd3c96",
+    "data": [
+      {
+        "text": "são muitas ",
+        "userDefined": false
+      },
+      {
+        "text": "latinhas",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1190a4c5-272b-4084-863e-81d7d1f04497",
+    "data": [
+      {
+        "text": "uma ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de plastico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "865d417b-1509-4041-9554-e302a1aa9d68",
+    "data": [
+      {
+        "text": "meu vizinho quer descartar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ec815c79-c2cf-425d-8b81-2bf10be4c8d9",
+    "data": [
+      {
+        "text": "tem uma ",
+        "userDefined": false
+      },
+      {
+        "text": "tv quebrada",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dc0823b2-2df9-4ff1-af79-2c036d71cb50",
+    "data": [
+      {
+        "text": "um ",
+        "userDefined": false
+      },
+      {
+        "text": "freezer",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "34cc3ed3-87c7-4175-ab28-7ece930d1bd2",
+    "data": [
+      {
+        "text": "uns ",
+        "userDefined": false
+      },
+      {
+        "text": "Moveis",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

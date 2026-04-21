@@ -1,0 +1,35 @@
+{
+  "id": "9e8d7c6b-5a4f-3e2d-1c0b-9a8f7e6d5c4b",
+  "name": "perguntas_pcr_reciclagem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "PCR significa Pos-Consumo Reciclado ou Pos-Consumer Recycled em ingles.\n\nIndica que o plastico foi fabricado com material reciclado proveniente de residuos pos-consumo, como embalagens descartadas por consumidores.\n\nIsso nao influencia no descarte. O plastico com simbolo PCR deve ser descartado da mesma forma que qualquer outro plastico.\n\nRegra pratica: plastico com PCR segue para a reciclagem se estiver limpo e seco, assim como os demais plasticos.\n\nA diferenca esta na origem do material, nao no destino final."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "70d02823-06bb-4076-bf6f-bd08c5fd76cd",
+  "name": "resposta_plastico",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "68d5972e-1308-4611-bc95-7bdf4ad95c03",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "PLASTICO\n\nO QUE FAZER:\n- Lave as embalagens antes de descartar\n- Plasticos limpos vao na lixeira AZUL (reciclavel)\n\nO QUE NAO FAZER:\n- Embalagens sujas de gordura (ex: margarina): lixo comum\n- Isopor (poliestireno) geralmente NAO e reciclado: lixo comum\n\nPODE JOGAR NO LIXO COMUM?\n- Apenas se estiver sujo de gordura\n- Plasticos limpos NAO: vao para reciclagem\n\nDICA: Garrafas PET, potes de sorvete, sacolas e embalagens de shampoo sao reciclaveis se estiverem limpos."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

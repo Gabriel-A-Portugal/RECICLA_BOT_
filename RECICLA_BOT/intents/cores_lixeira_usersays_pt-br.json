@@ -1,0 +1,972 @@
+[
+  {
+    "id": "fc34f8a8-f790-4526-bf03-035d5524061f",
+    "data": [
+      {
+        "text": "Como ",
+        "userDefined": false
+      },
+      {
+        "text": "separar o lixo pelas cores",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c84e465d-3603-4a58-855f-f76761a4bba9",
+    "data": [
+      {
+        "text": "Pode me explicar o código de ",
+        "userDefined": false
+      },
+      {
+        "text": "cores do lixo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2a3688f-944a-4f0b-bdc7-b667d2b5b5d3",
+    "data": [
+      {
+        "text": "Quais são as ",
+        "userDefined": false
+      },
+      {
+        "text": "cores das lixeiras",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "recicláveis",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1389c9ed-78bc-4692-8e23-b178b4099caf",
+    "data": [
+      {
+        "text": "Como funcionam as ",
+        "userDefined": false
+      },
+      {
+        "text": "cores",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " da ",
+        "userDefined": false
+      },
+      {
+        "text": "reciclagem",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e2031f4-1e11-499a-a2f7-5faa4cb0016c",
+    "data": [
+      {
+        "text": "Pilha",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "bateria",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " vão em qual ",
+        "userDefined": false
+      },
+      {
+        "text": "cor",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " de lixeira?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "609a5175-5088-477a-87ab-35475fca67ad",
+    "data": [
+      {
+        "text": "Onde posso",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      },
+      {
+        "text": " descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "folhas",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "galhos",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8215d7b6-4624-45af-b7c4-9c6c2d04dd61",
+    "data": [
+      {
+        "text": "Qual a ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira certa",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " para jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "copo de vidro",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " quebrado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46c5f06a-b520-46c7-b285-c64f07c5d4b7",
+    "data": [
+      {
+        "text": "Onde jogo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restos de comida",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0dea2df3-f0c0-48f4-b606-31b3c927d922",
+    "data": [
+      {
+        "text": "Em que ",
+        "userDefined": false
+      },
+      {
+        "text": "cor de lixo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " eu jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "lata",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " de refrigerante?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "65072b6a-e279-436f-b290-7e23eab3e2e7",
+    "data": [
+      {
+        "text": "Onde",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      },
+      {
+        "text": " descarto garrafa ",
+        "userDefined": false
+      },
+      {
+        "text": "PET",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ac715ac0-9097-4a2e-b201-af7b2fb4360d",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "materiais",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " posso colocar na ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira cinza",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "17000a0e-37e5-4c36-b4b2-4c2e246936b0",
+    "data": [
+      {
+        "text": "Para que serve",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira marrom",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d3d57979-542a-4aa2-9886-532f6ffb7f03",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "lixo vermelho",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " é para qual ",
+        "userDefined": false
+      },
+      {
+        "text": "tipo de material",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46000154-b7f4-4f54-8cf0-98e632e2ee3b",
+    "data": [
+      {
+        "text": "O que significa",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira verde",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a197734-2438-4c63-afdf-4b083f8262c8",
+    "data": [
+      {
+        "text": "A ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira amarela",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": " serve ",
+        "userDefined": false
+      },
+      {
+        "text": "para quê",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "964d2119-b694-4237-9c58-573990af8583",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "que eu jogo",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " na ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira azul",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f0eaa756-54c9-4059-ba02-04ec3a719b82",
+    "data": [
+      {
+        "text": "Tem uma ",
+        "userDefined": false
+      },
+      {
+        "text": "cor específica",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": " para jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "madeira",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "add14083-0923-43f1-a17a-ddcd39348914",
+    "data": [
+      {
+        "text": "Papelão",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " vai em ",
+        "userDefined": false
+      },
+      {
+        "text": "qual lixeira",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "53b919c6-508a-41f6-8b86-2cd380fa347d",
+    "data": [
+      {
+        "text": "Onde coloco",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "lixo orgânico",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1779d4ff-b9dc-4221-be77-b0a99ef81252",
+    "data": [
+      {
+        "text": "Qual lixo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " eu uso para ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9981dacc-7e22-4279-a43f-b59d81ade2cd",
+    "data": [
+      {
+        "text": "Em qual lixeira",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": " eu jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "plástico",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "944dbd0d-e427-4968-ae8c-9acd1e4039b7",
+    "data": [
+      {
+        "text": "Onde devo descartar",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ad31d4dd-c41a-49cb-b8a5-afb64bdb21aa",
+    "data": [
+      {
+        "text": "Qual a cor",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": " da ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a9176f0-d1b6-4776-8295-149dc49bbfb2",
+    "data": [
+      {
+        "text": "Como vou saber a ",
+        "userDefined": false
+      },
+      {
+        "text": "cor da lixeira",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": true
+      },
+      {
+        "text": " do ",
+        "userDefined": false
+      },
+      {
+        "text": "material",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " que quero descartar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "qual ",
+        "userDefined": false
+      },
+      {
+        "text": "cor de lixo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": false
+      },
+      {
+        "text": " uso para ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "qual  a ",
+        "userDefined": false
+      },
+      {
+        "text": "cor do lixo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A cartela de ",
+        "userDefined": false
+      },
+      {
+        "text": "comprimidos",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " está vazia, mas é de ",
+        "userDefined": false
+      },
+      {
+        "text": "alumínio",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "plástico",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " ao mesmo tempo. Ela está tendo uma crise de identidade. ",
+        "userDefined": false
+      },
+      {
+        "text": "Onde eu jogo?",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Meu ",
+        "userDefined": false
+      },
+      {
+        "text": "processador",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " antigo fritou tentando rodar um jogo muito pesado. Em qual ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " eu enterro esse guerreiro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Comprei um copo de ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " para café, mas ele parece ter um revestimento ",
+        "userDefined": false
+      },
+      {
+        "text": "plástico",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " brilhante por dentro para o líquido não vazar. Ele vai para a ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira azul",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " por ser de ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": ", para a ",
+        "userDefined": false
+      },
+      {
+        "text": "vermelha",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " por ter ",
+        "userDefined": false
+      },
+      {
+        "text": "plástico",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": ", ou para o lixo comum por ser um material misto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

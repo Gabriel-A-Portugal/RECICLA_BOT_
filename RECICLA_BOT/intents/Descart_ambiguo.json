@@ -1,0 +1,50 @@
+{
+  "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+  "name": "Descart_ambiguo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3fe2c18b-8be6-4260-8273-15b20eac6974",
+          "name": "ambiguo_lixo",
+          "required": true,
+          "dataType": "@ambiguo_lixo",
+          "value": "$ambiguo_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "$ambiguo_lixo.original pode ser feito de diferentes materiais como plastico, vidro ou metal. Por favor, me diga qual e o material especifico para que eu possa orientar o descarte correto. Verifique no fundo ou na etiqueta do produto."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

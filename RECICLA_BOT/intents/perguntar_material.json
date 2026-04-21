@@ -1,0 +1,89 @@
+{
+  "id": "e638b6b8-cce2-439b-ae8b-50bb34dc7fa3",
+  "name": "perguntar_material",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "94b95350-cf48-490a-9925-295d962852df",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Poderia repetir o material, por favor?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fc33b459-70d2-48b6-b418-e5ebc013af19",
+          "name": "Duvidas_Reciclagem",
+          "required": false,
+          "dataType": "@Duvidas_Reciclagem",
+          "value": "$Duvidas_Reciclagem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7ee9b9ca-2eeb-46ed-9601-12c0c8cd1790",
+          "name": "Cores_Lixeira",
+          "required": false,
+          "dataType": "@Cores_Lixeira",
+          "value": "$Cores_Lixeira",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "ENTENDI QUE VOCE QUER DESCARTAR: $material.original - $material\n\nSE FOR ISSO, DIGITE O MATERIAL NOVAMENTE.\nSE NAO FOR, DIGITE O MATERIAL CORRETO (ex: plastico, vidro, metal, papel, pilha, oleo, eletronico, medicamento, lixo comum).",
+            "O descarte incorreto do óleo de cozinha é um dos maiores causadores de entupimentos no encanamento e de poluição da água. Por isso, ele nunca deve ser jogado no ralo da pia, no vaso sanitário ou diretamente na terra.\n\nO óleo usado não tem uma lixeira de cor específica (como o plástico ou vidro), pois exige um processo chamado de logística reversa.\n\nAqui está o passo a passo de como fazer o descarte correto:\n\n1. Espere Esfriar\nApós o uso, deixe o óleo esfriar completamente na panela. Nunca manuseie o óleo ainda quente, pois o risco de queimaduras graves é alto e ele pode derreter o recipiente de plástico onde será guardado.\n\n2. Filtre e Engarrafe\nCom o óleo já em temperatura ambiente, utilize um funil e, se possível, um coador (pode ser um pedaço de pano limpo, uma peneira fina ou um filtro de papel) para despejar o óleo dentro de uma garrafa PET.\n\nNota: Filtrar ajuda a tirar os restos de comida, o que evita o mau cheiro caso você precise armazenar a garrafa por muitos dias.\n\n3. Feche Bem e Armazene\nTampe a garrafa PET com bastante firmeza para evitar vazamentos e guarde-a em um local longe do sol e do calor enquanto vai enchendo com as próximas frituras.\n\n4. Leve a um Ponto de Coleta\nQuando a garrafa estiver cheia, não a jogue na lixeira comum (Cinza) e nem na lixeira de plásticos (Vermelha), pois o óleo vazará e contaminará os outros materiais. Você deve levar a garrafa até um ponto de coleta específico.\n\nOnde encontrar pontos de coleta:\n\nEcopontos da prefeitura.\n\nSupermercados de grandes redes.\n\nONGs e cooperativas de reciclagem.\n\nAlgumas feiras livres ou projetos em escolas e faculdades.\n\nPara onde vai esse óleo? \u003e Quando entregue no local correto, o óleo de cozinha usado é reciclado e transformado em sabão em pedra, detergente, tintas e até mesmo em biodiesel (combustível para veículos)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

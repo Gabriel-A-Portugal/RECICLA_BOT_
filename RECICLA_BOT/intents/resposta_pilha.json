@@ -1,0 +1,57 @@
+{
+  "id": "75d02823-06bb-4076-bf6f-bd08c5fd76d2",
+  "name": "resposta_pilha",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "p6",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "PILHA E BATERIA\n\nNUNCA JOGUE NO LIXO COMUM!\nNUNCA JOGUE NO LIXO RECICLAVEL COMUM!\n\nPODE JOGAR NO LIXO COMUM?\n- NAO, NUNCA. Pilhas e baterias contem metais pesados.\n\nONDE DESCARTAR:\n- Pontos de coleta em supermercados\n- Lojas de eletronicos (Americanas, Magazine Luiza)\n- Farmacias\n- Assistencia tecnicas\n\nDICA: Uma unica pilha pode contaminar o solo e a agua por muitos anos."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

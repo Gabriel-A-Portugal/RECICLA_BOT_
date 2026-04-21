@@ -1,0 +1,446 @@
+[
+  {
+    "id": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Remédio vencido",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "remedio vencido",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "medicamento vencido",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "remedio vencido",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "comprimido vencido",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "Comprimido",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "comprimido",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "comprimidos",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e6f",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "pillula",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f7a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "pílula",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a8b",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "capsula",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b9c",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "cápsula",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4e",
+    "data": [
+      {
+        "text": "como jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "Xarope",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5f",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "xarope",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e60",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "Antibiótico",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f70",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "antibiotico",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a80",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Pomada",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b90",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "pomada",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "onde descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "comprimidos",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " que venceram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Onde posso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "pomada vencida",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "como descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "remedio vencido",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "xarope",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " aberto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "remédios vencidos",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

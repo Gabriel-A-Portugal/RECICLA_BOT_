@@ -1,0 +1,321 @@
+[
+  {
+    "id": "2e1239e9-47f8-4922-937b-07ad7347b847",
+    "data": [
+      {
+        "text": "o que vai na ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira azul",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "97219cef-0096-409e-b8e2-451fd4aaa673",
+    "data": [
+      {
+        "text": "lixeira verde",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "para que",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9a7caab2-93bc-41ce-a611-86088634bb7d",
+    "data": [
+      {
+        "text": "pra que serve",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira amarela",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d79f64e-5ddc-4e21-bcd7-06e8fc03bc05",
+    "data": [
+      {
+        "text": "o que jogo",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " na ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira vermelha",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f5e19d4-8f14-440f-9704-254bd8bd21d3",
+    "data": [
+      {
+        "text": "lixeira marrom",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "06649cee-cbe7-491b-93da-1fc0e420dbff",
+    "data": [
+      {
+        "text": "o que significa lixeira branca",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f57ecc7d-d6ca-46ae-893c-e2b9ebaaa7ee",
+    "data": [
+      {
+        "text": "lixeira cinza",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para que",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7ab5efc8-0ece-4030-882f-372dc85e2a59",
+    "data": [
+      {
+        "text": "lixeira roxa",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0611ba3b-a791-409a-babb-6b3396da3c1a",
+    "data": [
+      {
+        "text": "o que e",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira azul",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e78b8afc-4000-4b73-b963-2983f83d941f",
+    "data": [
+      {
+        "text": "container verde",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f5921b78-1907-406e-9f5d-b680c40ad074",
+    "data": [
+      {
+        "text": "caixinha amarela",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eef9be6e-3dbd-47c9-bad4-6d0187eec679",
+    "data": [
+      {
+        "text": "para que serve",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "amarelo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3b40d8ce-cb32-47a7-a09f-9809ca5aaf7f",
+    "data": [
+      {
+        "text": "o que coloco",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " no ",
+        "userDefined": false
+      },
+      {
+        "text": "vermelho",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6059c77a-78db-4e17-9ece-9abd2486b697",
+    "data": [
+      {
+        "text": "qual a funcao",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " da ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira azul",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8bcab845-dc58-4642-be8f-21d2b7916e7c",
+    "data": [
+      {
+        "text": "onde jogo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

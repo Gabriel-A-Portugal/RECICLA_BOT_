@@ -1,0 +1,301 @@
+[
+  {
+    "id": "5a7e65b1-1975-46c5-b8fe-3282bd1183a8",
+    "data": [
+      {
+        "text": "agendar",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coleta",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "39a9fc0d-58c0-4cf1-a67b-880455c3201c",
+    "data": [
+      {
+        "text": "agendar",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coleta de recicláveis",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "49b3b00e-5ba5-4c7e-b121-5e4853e3f452",
+    "data": [
+      {
+        "text": "quando vem",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "coleta",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "daca39a6-b81d-4fef-b83e-d93f5f470709",
+    "data": [
+      {
+        "text": "quando",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coleta",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "60afc050-0b1e-44b2-8121-18c93cbfccbd",
+    "data": [
+      {
+        "text": "coleta seletiva",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e069508b-4ac8-48d2-b48c-e26ed05d9aa1",
+    "data": [
+      {
+        "text": "buscar",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "recicláveis",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "12f7f9cc-6c41-41a7-bbdb-d1c92c2c5445",
+    "data": [
+      {
+        "text": "queria ",
+        "userDefined": false
+      },
+      {
+        "text": "agendar",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "27592659-31fb-4afe-893e-e74109e34860",
+    "data": [
+      {
+        "text": "agendar",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "retirada",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f0ff933a-9a80-4d6a-9df0-4005dd15b40e",
+    "data": [
+      {
+        "text": "retirada",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "materiais",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "999514e6-db70-4dae-9bd6-eabddd617e30",
+    "data": [
+      {
+        "text": "buscar",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "material",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ab8dfc0-358e-4bb0-a5f6-003d0ea878c9",
+    "data": [
+      {
+        "text": "quero agendar coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d0020b8e-61d9-4c54-b7dc-ff54ab27426d",
+    "data": [
+      {
+        "text": "preciso de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "11b9f720-3c9b-4d5e-80ee-78f2f8cc1b73",
+    "data": [
+      {
+        "text": "como faço para agendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "16ab8775-0584-455a-822c-a2b89e0b8624",
+    "data": [
+      {
+        "text": "onde buscam reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "be512f8b-48e8-4f07-affa-d3481ff54726",
+    "data": [
+      {
+        "text": "tem coleta na minha casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

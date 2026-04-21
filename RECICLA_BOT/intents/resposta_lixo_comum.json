@@ -1,0 +1,57 @@
+{
+  "id": "79d02823-06bb-4076-bf6f-bd08c5fd76d6",
+  "name": "resposta_lixo_comum",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f1d663e2-8044-4d6c-9832-bd51c0179647",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "LIXO COMUM (REJEITO)\n\nO QUE VAI NO LIXO COMUM:\n- Fraldas descartaveis\n- Papel higienico usado\n- Absorventes\n- Guardanapos sujos\n- Lixo de banheiro\n- Isopor (na maioria das cidades)\n\nNAO SAO RECICLAVEIS.\n\nPODE JOGAR NA RECICLAGEM?\n- NAO, estes materiais NAO podem ser reciclados.\n\nDICA: Sempre separe o lixo comum do reciclavel.\n\n⚠️ LEMBRE-SE DE SE ATENTAR A PERFUROCORTANTES!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

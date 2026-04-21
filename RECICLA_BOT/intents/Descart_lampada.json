@@ -1,0 +1,50 @@
+{
+  "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+  "name": "Descart_lampada",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+          "name": "lampada_lixo",
+          "required": true,
+          "dataType": "@lampada_lixo",
+          "value": "$lampada_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar lampadas corretamente:\n\nLampadas fluorescentes tem mercurio e nao vao no lixo comum\n\nLeve lampadas a pontos de coleta em lojas de construcao\n\nLampadas LED podem ir para pontos de coleta especificos\n\nNunca quebre lampadas fluorescentes em casa\n\nEmbrulhe lampadas quebradas em jornal antes de descartar"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

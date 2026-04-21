@@ -1,0 +1,84 @@
+[
+  {
+    "value": "Embalagem",
+    "synonyms": [
+      "Embalagem",
+      "embalagem",
+      "embalagens",
+      "embalagem vazia"
+    ]
+  },
+  {
+    "value": "Pote",
+    "synonyms": [
+      "Pote",
+      "pote",
+      "potes",
+      "pote vazio"
+    ]
+  },
+  {
+    "value": "Frasco",
+    "synonyms": [
+      "Frasco",
+      "frasco",
+      "frascos",
+      "frasco vazio"
+    ]
+  },
+  {
+    "value": "Pote de Conserva",
+    "synonyms": [
+      "Pote de conserva",
+      "pote de conserva",
+      "pote de palmito",
+      "pote de cogumelo"
+    ]
+  },
+  {
+    "value": "Garrafa de Suco",
+    "synonyms": [
+      "Garrafa de suco",
+      "garrafa de suco",
+      "suco de garrafa",
+      "garrafa suco",
+      "garrafa de guarana",
+      "garrafa de guaraná"
+    ]
+  },
+  {
+    "value": "Embalagem de Suco",
+    "synonyms": [
+      "Embalagem de suco",
+      "embalagem de suco",
+      "caixa de suco"
+    ]
+  },
+  {
+    "value": "Garrafa de Agua",
+    "synonyms": [
+      "Garrafa de agua",
+      "garrafa de água",
+      "garrafa d\u0027agua",
+      "garrafa d\u0027água",
+      "garrafinha d\u0027agua",
+      "garrafinha dagua"
+    ]
+  },
+  {
+    "value": "Embalagem de Alimento",
+    "synonyms": [
+      "Embalagem de alimento",
+      "embalagem de comida",
+      "pote de marmita",
+      "embalagem de marmita"
+    ]
+  },
+  {
+    "value": "Pote de Alimento",
+    "synonyms": [
+      "Pote de alimento",
+      "pote de comida"
+    ]
+  }
+]

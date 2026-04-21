@@ -1,0 +1,768 @@
+[
+  {
+    "id": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Resto de comida",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "resto de comida",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "restos de comida",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "resto de alimento",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "restos de alimento",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "sobras de comida",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "comida estragada",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "alimento vencido",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e6f",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Casca",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f7a",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "casca",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a8b",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "cascas",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b9c",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "casca de banana",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4e",
+    "data": [
+      {
+        "text": "como jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "casca de laranja",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5f",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "casca de batata",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e60",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "casca de ovo",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f70",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "cascas de ovo",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a80",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Borra de café",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b90",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "borra de cafe",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4f",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "borra de café",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d60",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "saco de café",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e70",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "Verdura",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " estragada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f80",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "cascas de verdura",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a90",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "resto de salada",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b00",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "Fruta",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c40",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "fruta podre",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d70",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "semente",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e80",
+    "data": [
+      {
+        "text": "qual a lixeira para ",
+        "userDefined": false
+      },
+      {
+        "text": "caroco",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f90",
+    "data": [
+      {
+        "text": "como jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "caroço",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a00",
+    "data": [
+      {
+        "text": "preciso me livrar de ",
+        "userDefined": false
+      },
+      {
+        "text": "Folhas secas",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b10",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "folhas secas",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c41",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "grama cortada",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d80",
+    "data": [
+      {
+        "text": "descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "podas de jardim",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "casca de banana",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "resto de comida",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "casca de banana",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "borra de café",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "como descarto resto de feijão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "preciso jogar fora ",
+        "userDefined": false
+      },
+      {
+        "text": "casca de banana",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Restos de comida",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " vão no lixo ",
+        "userDefined": false
+      },
+      {
+        "text": "orgânico",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " ou reciclável?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Restos de comida",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " com muito molho ou óleo podem ir direto ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " a composteira caseira ou precisam de algum cuidado especial?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "value": "Remédio Vencido",
+    "synonyms": [
+      "Remédio vencido",
+      "remedio vencido",
+      "medicamento vencido",
+      "comprimido vencido",
+      "remedio"
+    ]
+  },
+  {
+    "value": "Comprimido",
+    "synonyms": [
+      "Comprimido",
+      "comprimido",
+      "comprimidos",
+      "pillula",
+      "pílula",
+      "capsula",
+      "cápsula"
+    ]
+  },
+  {
+    "value": "Xarope",
+    "synonyms": [
+      "Xarope",
+      "xarope",
+      "xarope vencido"
+    ]
+  },
+  {
+    "value": "Antibiótico",
+    "synonyms": [
+      "Antibiótico",
+      "antibiotico",
+      "antibiótico vencido"
+    ]
+  },
+  {
+    "value": "Pomada",
+    "synonyms": [
+      "Pomada",
+      "pomada",
+      "pomada vencida",
+      "creme medicamentoso"
+    ]
+  }
+]

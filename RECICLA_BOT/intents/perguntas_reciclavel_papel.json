@@ -1,0 +1,35 @@
+{
+  "id": "1a0b9c8d-7e6f-5a4b-3c2d-1e0f9a8b7c6d",
+  "name": "perguntas_reciclavel_papel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nem todo papel pode ser reciclado. Os criterios sao:\n\nPapel sujo de gordura ou comida nao vai para reciclagem como guardanapo usado, caixa de pizza engordurada\n\nPapel higienico e papel toalha usados nao sao reciclaveis\n\nPapel plastificado ou com muitos adesivos pode nao ser aceito\n\nRegra pratica: papel limpo e seco vai para lixeira azul. Papel sujo vai para lixo comum"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

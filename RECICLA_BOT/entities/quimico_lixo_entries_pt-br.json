@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Tinta",
+    "synonyms": [
+      "Tinta",
+      "tinta",
+      "tinta latex",
+      "tinta látex",
+      "tinta acrilica",
+      "tinta acrílica",
+      "lata de tinta"
+    ]
+  },
+  {
+    "value": "Solvente",
+    "synonyms": [
+      "Solvente",
+      "solvente",
+      "thinner",
+      "aguarras",
+      "aguarráz"
+    ]
+  },
+  {
+    "value": "Agrotóxico",
+    "synonyms": [
+      "Agrotóxico",
+      "agrotoxico",
+      "veneno",
+      "defensivo agricola",
+      "defensivo agrícola",
+      "pesticida"
+    ]
+  },
+  {
+    "value": "Inseticida",
+    "synonyms": [
+      "Inseticida",
+      "inseticida",
+      "veneno de barata",
+      "veneno de formiga"
+    ]
+  },
+  {
+    "value": "Esmalte",
+    "synonyms": [
+      "Esmalte",
+      "esmalte",
+      "esmalte de unha",
+      "esmalte vencido"
+    ]
+  },
+  {
+    "value": "Inseticida",
+    "synonyms": [
+      "Inseticida",
+      "inseticida",
+      "spray de inseticida",
+      "inseticida aerosol",
+      "veneno de inseto",
+      "raid",
+      "sbp",
+      "aerosol inseticida",
+      "spray de barata",
+      "spray de formiga",
+      "inseticida vazio",
+      "lata de inseticida"
+    ]
+  },
+  {
+    "value": "Aerosol",
+    "synonyms": [
+      "Aerosol",
+      "aerosol",
+      "spray",
+      "lata de spray",
+      "spray vazio",
+      "aerossol",
+      "embalagem pressurizada"
+    ]
+  }
+]

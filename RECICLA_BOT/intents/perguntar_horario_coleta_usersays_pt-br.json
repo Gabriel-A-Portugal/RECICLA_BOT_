@@ -1,0 +1,154 @@
+[
+  {
+    "id": "0bed9c11-244e-4324-9e46-8650439d8475",
+    "data": [
+      {
+        "text": "qual o horário",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " da ",
+        "userDefined": false
+      },
+      {
+        "text": "coleta",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7efe2fe6-1145-44e6-9771-f5a85eeeb782",
+    "data": [
+      {
+        "text": "que horas passam",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9f448ae6-24d7-4be1-a521-a95a529b7b8d",
+    "data": [
+      {
+        "text": "quando passa",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " o caminhão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74f4448a-fb69-4a06-993f-c9c975dd365b",
+    "data": [
+      {
+        "text": "qual dia",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " da ",
+        "userDefined": false
+      },
+      {
+        "text": "coleta",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "98ef1bb2-e8e5-49b5-9925-bfb74fbe4e71",
+    "data": [
+      {
+        "text": "que dia",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " recolhe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f99133ef-5f9f-47e2-932b-49710632c358",
+    "data": [
+      {
+        "text": "qual o dia da semana",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7eaa6dc8-c393-4983-8ab3-8b17b4e6f93e",
+    "data": [
+      {
+        "text": "quando é",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      },
+      {
+        "text": " a coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d298f1ea-16be-4ea2-a89a-4f623d44990e",
+    "data": [
+      {
+        "text": "em qual dia",
+        "meta": "@DataColeta",
+        "alias": "DataColeta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

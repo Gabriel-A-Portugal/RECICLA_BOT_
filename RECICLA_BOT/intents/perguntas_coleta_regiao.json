@@ -1,0 +1,35 @@
+{
+  "id": "6c5b4a3d-2c1e-0f9a-8b7c-6d5e4f3a2b1c",
+  "name": "perguntas_coleta_regiao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para saber se a coleta seletiva atende sua regiao:\n\nConsulte o site da prefeitura da sua cidade\n\nLigue para a central de atendimento da prefeitura\n\nPergunte ao sindico do seu predio ou ao porteiro\n\nVerifique se ha lixeiras coloridas na sua rua\n\nPergunte aos vizinhos que ja separam o lixo\n\nSe nao houver coleta na sua regiao, voce precisa levar os reciclaveis a pontos de entrega voluntaria como ecopontos, supermercados, farmacias ou cooperativas de catadores\n\nPesquise no Google: ponto de coleta seletiva [nome da sua cidade]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

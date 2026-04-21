@@ -1,0 +1,57 @@
+{
+  "id": "71d02823-06bb-4076-bf6f-bd08c5fd76ce",
+  "name": "resposta_vidro",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "p2",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "VIDRO\n\nO QUE FAZER:\n- Vidros limpos (garrafas, potes): lixeira VERDE\n- Lave antes de descartar\n\nO QUE NAO FAZER:\n- Espelhos e vidros temperados (Pirex): lixo comum\n\nPODE JOGAR NO LIXO COMUM?\n- Espelhos e Pirex: SIM, vao no lixo comum\n- Garrafas e potes de vidro: NAO, vao para reciclagem\n\nDICA: Garrafas de cerveja, vinho, conservas e potes de vidro sao 100% reciclaveis.\n\n⚠️ LEMBRE-SE DE SE ATENTAR A PERFUROCORTANTES!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+  "name": "Descart_textil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
+          "name": "textil_lixo",
+          "required": true,
+          "dataType": "@textil_lixo",
+          "value": "$textil_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar tecidos e roupas corretamente:\n\nRoupas em bom estado podem ser doadas para instituicoes\n\nRoupas rasgadas ou sujas vao para o lixo comum\n\nSapatos velhos vao para o lixo comum\n\nLencois e toalhas usadas podem ir para doacao se estiverem limpos\n\nPanos de limpeza sujos vao para o lixo comum"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

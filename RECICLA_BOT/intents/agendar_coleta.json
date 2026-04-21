@@ -1,0 +1,94 @@
+{
+  "id": "a7b1c9d3-e2f4-4a5b-6c7d-8e9f0a1b2c3d",
+  "name": "agendar_coleta",
+  "auto": true,
+  "contexts": [
+    "solicitou_coleta"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "solicitou_coleta",
+          "lifespan": 5
+        },
+        {
+          "name": "aguarda_endereco",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "69cd8099-1d70-42ca-a8a0-e962eadefaf6",
+          "name": "cidade",
+          "required": false,
+          "dataType": "@Localizacao",
+          "value": "$cidade",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual é a sua cidade?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7c4ca90b-8e2f-4ae5-b733-26bddad1a889",
+          "name": "material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "32ac1e77-6953-49ad-beb1-39015e24ed2b",
+          "name": "DataColeta",
+          "required": false,
+          "dataType": "@DataColeta",
+          "value": "$DataColeta",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para agendar a coleta de recicláveis, o processo varia conforme sua região.\n\nOPÇÕES:\n1. PREFEITURA: Muitas cidades têm dias específicos de coleta\n2. APP DE RECICLAGEM: Alguns apps oferecem busca agendada\n3. PONTOS DE COLETA: Leve os materiais aos pontos de coleta voluntária"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

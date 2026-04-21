@@ -1,0 +1,87 @@
+{
+  "id": "e6f0a8b2-c1d3-4e5f-6a7b-8c9d0e1f2a3b",
+  "name": "buscar_pontos_coleta",
+  "auto": true,
+  "contexts": [
+    "solicitou_coleta",
+    "aguarda_endereco",
+    "aguarda_confirmacao"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "buscou_pontos",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1ca835a5-e14f-4a56-980e-883f3e323f91",
+          "name": "cidade",
+          "required": false,
+          "dataType": "@Localizacao",
+          "value": "$cidade",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a5adb18a-18e1-446d-a6da-1400b153619b",
+          "name": "bairro",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$bairro",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d65b9f26-ea2c-4830-9a63-be4d7a8bc00d",
+          "name": "material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "PONTOS DE COLETA EM $cidade - $bairro\n\nPara $material, você pode buscar em:\n\n🔍 PESQUISE NO GOOGLE:\n\"ponto de coleta $material [bairro] [cidade]\"\n\n📍 OPÇÕES COMUNS:\n- Supermercados (para óleo, pilhas)\n- Farmácias (para medicamentos)\n- Lojas de eletrônicos (para e-lixo)\n- Postos de saúde (para medicamentos)\n- Ecopontos da prefeitura\n\n💡 DICA: Muitos pontos só aceitam materiais específicos. Ligue antes de ir.\n\nPosso ajudar com mais alguma coisa?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

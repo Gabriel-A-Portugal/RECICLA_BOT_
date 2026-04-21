@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Lata",
+    "synonyms": [
+      "Lata",
+      "lata",
+      "latas",
+      "latinha",
+      "lata de refrigerante",
+      "lata de cerveja",
+      "lata de conserva",
+      "lata de sardinha",
+      "lata de atum",
+      "lata de milho",
+      "latinha de cerveja",
+      "lata de aluminio",
+      "lata de alumínio"
+    ]
+  },
+  {
+    "value": "Lata de Desodorante",
+    "synonyms": [
+      "Lata de desodorante",
+      "lata de desodorante",
+      "desodorante aerosol",
+      "lata de spray"
+    ]
+  },
+  {
+    "value": "Alumínio",
+    "synonyms": [
+      "Alumínio",
+      "aluminio",
+      "papel aluminio"
+    ]
+  },
+  {
+    "value": "Metal",
+    "synonyms": [
+      "Metal",
+      "metal",
+      "metais",
+      "metalico"
+    ]
+  },
+  {
+    "value": "Ferro",
+    "synonyms": [
+      "Ferro",
+      "ferro",
+      "ferragem"
+    ]
+  },
+  {
+    "value": "Tampa de Metal",
+    "synonyms": [
+      "Tampa de metal",
+      "tampa de metal",
+      "tampinha"
+    ]
+  }
+]

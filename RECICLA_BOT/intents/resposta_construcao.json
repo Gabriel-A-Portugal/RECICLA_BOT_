@@ -1,0 +1,93 @@
+{
+  "id": "b8c0d2e4-f6a8-4c5b-3d5e-9f1a3b5c7d9e",
+  "name": "resposta_construcao",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 3
+        },
+        {
+          "name": "perguntou_material",
+          "lifespan": 2
+        },
+        {
+          "name": "material_em_foco",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8a3b1223-7c8e-4ad4-8d38-c88723fdfda2",
+          "name": "material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d4e95d0e-0e06-444c-892a-4aec742c98d2",
+          "name": "Localizacao",
+          "required": false,
+          "dataType": "@Localizacao",
+          "value": "$Localizacao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "76750691-729b-4a95-8e09-98e6313c75b0",
+          "name": "Limpeza_Descarte",
+          "required": false,
+          "dataType": "@Limpeza_Descarte",
+          "value": "$Limpeza_Descarte",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "RESÍDUOS DE CONSTRUÇÃO CIVIL 🧱🔨\n\n⚠️ NUNCA DESCARTAR NO LIXO COMUM, RUA OU TERRENOS BALDIOS!\n\nO QUE FAZER:\n🏗️ ECOPONTOS:\n- Aceitam pequenos volumes de entulho\n- Consulte os ecopontos da sua cidade\n- Geralmente gratuito para volumes pequenos\n\n🚛 CAÇAMBAS:\n- Empresas de locação de caçambas\n- Pague pelo descarte (em média R$ 200-600)\n- Solicite à administradora do condomínio ou prefeitura\n\n📞 AGENDE COLETA:\n- Algumas cidades oferecem apreensão gratuito\n- Ligue para limpeza urbana da sua prefeitura\n- Programa \"Cidade Limpa\" em várias capitais\n\nMATERIAIS ACEITOS:\n✅ Tijolo, blocos de concreto\n✅ Cerâmica, azulejos, porcelanato\n✅ Areia, brita, pedra\n✅ Concreto, cimento, cal\n✅ Gesso, massa corrida\n✅ Telhas (barro, concreto, fibrocimento)\n✅ Madeira (sem pregos separadamente)\n\nMATERIAIS ESPECIAIS (desacarte específico):\n⚠️ TINTA: Levar a pontos específicos (ferragens, grandes lojas)\n⚠️ MADEIRA COM PREGO: Separar pregos antes\n⚠️ FIO ELÉTRICO: Separar cobre (reciclável)\n⚠️ LONA: Verificar reciclagem local\n⚠️ AMIANTO/BRITA: Ecopontos especiais\n\nO QUE NÃO FAZER:\n❌ Na rua ou terrenos baldios\n❌ Na lixeira comum\n❌ No container de reciclagem\n❌ Queimar resíduos (crime ambiental!)\n\n⚠️ LEMBRETE:\nDescartar entulho irregular pode gerar MULTAS de R$ 200 a R$ 20.000 dependendo da cidade e volume!\n\nPosso ajudar com outro material? Informe: plástico, vidro, metal, papel, orgânico, pilha, óleo, eletrônico, medicamento, lixo comum, têxtil, móveis, construção ou vidro especial."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

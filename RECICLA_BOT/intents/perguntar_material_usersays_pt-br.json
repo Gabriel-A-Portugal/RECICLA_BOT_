@@ -1,0 +1,482 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567891",
+    "data": [
+      {
+        "text": "onde descarto",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567892",
+    "data": [
+      {
+        "text": "como descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pilha",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567893",
+    "data": [
+      {
+        "text": "o que fazer",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " com ",
+        "userDefined": false
+      },
+      {
+        "text": "óleo de cozinha",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567894",
+    "data": [
+      {
+        "text": "onde coloco",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "resto de comida",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567895",
+    "data": [
+      {
+        "text": "lata de alumínio",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      },
+      {
+        "text": " vai onde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567896",
+    "data": [
+      {
+        "text": "descartar",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "plástico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567897",
+    "data": [
+      {
+        "text": "descartar",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567898",
+    "data": [
+      {
+        "text": "descartar",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567899",
+    "data": [
+      {
+        "text": "descartar",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "papelão",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567810",
+    "data": [
+      {
+        "text": "onde descarto",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelão",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567811",
+    "data": [
+      {
+        "text": "caixa de papelão",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "vai para reciclagem",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567812",
+    "data": [
+      {
+        "text": "posso reciclar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "papelão",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567813",
+    "data": [
+      {
+        "text": "descartar",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567815",
+    "data": [
+      {
+        "text": "como descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "óleo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567816",
+    "data": [
+      {
+        "text": "como descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eletrônicos",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567817",
+    "data": [
+      {
+        "text": "como descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medicamentos",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567818",
+    "data": [
+      {
+        "text": "como descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lixo comum",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567819",
+    "data": [
+      {
+        "text": "reciclar ",
+        "userDefined": false
+      },
+      {
+        "text": "plástico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "preciso ",
+        "userDefined": false
+      },
+      {
+        "text": "descartar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "duvidas_reciclagem",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafs de cerveja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Metal",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

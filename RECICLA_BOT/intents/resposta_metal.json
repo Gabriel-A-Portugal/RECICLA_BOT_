@@ -1,0 +1,57 @@
+{
+  "id": "73d02823-06bb-4076-bf6f-bd08c5fd76d0",
+  "name": "resposta_metal",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "p4",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "METAL\n\nO QUE FAZER:\n- Latas limpas: lixeira AMARELA\n- Amasse latas de aluminio para economizar espaco\n\nO QUE NAO FAZER:\n- Latas de tinta com residuo: pontos de coleta especiais\n\nPODE JOGAR NO LIXO COMUM?\n- Latas de tinta com tinta ainda dentro: NAO, leve a pontos de coleta\n- Latinhas de refrigerante, cerveja, sardinha, atum: NAO, vao para reciclagem\n\nDICA: Latinhas de refrigerante, cerveja, sardinha e atum sao reciclaveis.\n\n⚠️ LEMBRE-SE DE SE ATENTAR A PERFUROCORTANTES!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

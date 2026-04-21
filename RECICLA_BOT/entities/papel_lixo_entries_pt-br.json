@@ -1,0 +1,112 @@
+[
+  {
+    "value": "Papel",
+    "synonyms": [
+      "Papel",
+      "papel",
+      "papeu",
+      "papéu",
+      "papei",
+      "papéis",
+      "folha de papel",
+      "folha",
+      "folhas",
+      "folha sulfite",
+      "rascunho",
+      "impressão",
+      "cópia",
+      "xerox",
+      "nota fiscal",
+      "recibo",
+      "conta de luz",
+      "conta de agua",
+      "conta de água",
+      "papel de rascunho"
+    ]
+  },
+  {
+    "value": "Papelão",
+    "synonyms": [
+      "Papelão",
+      "papelão",
+      "papelao",
+      "caixa de papelão",
+      "caixa de papelao",
+      "papelao ondulado",
+      "caixa de sapato",
+      "caixa de remedio",
+      "caixa de remédio",
+      "papel cartao",
+      "papel cartão",
+      "cartolina",
+      "caixa de cereal",
+      "cereal"
+    ]
+  },
+  {
+    "value": "Tetrapak",
+    "synonyms": [
+      "Tetrapak",
+      "tetrapak",
+      "caixa de leite",
+      "leite de caixinha",
+      "caixa de suco",
+      "suco de caixinha",
+      "embalagem longa vida"
+    ]
+  },
+  {
+    "value": "Jornal",
+    "synonyms": [
+      "Jornal",
+      "jornal",
+      "jornais"
+    ]
+  },
+  {
+    "value": "Revista",
+    "synonyms": [
+      "Revista",
+      "revista",
+      "revistas"
+    ]
+  },
+  {
+    "value": "Caderno",
+    "synonyms": [
+      "Caderno",
+      "caderno",
+      "cadernos"
+    ]
+  },
+  {
+    "value": "Envelope",
+    "synonyms": [
+      "Envelope",
+      "envelope",
+      "envelopes"
+    ]
+  },
+  {
+    "value": "Saco de Papel",
+    "synonyms": [
+      "Saco de papel",
+      "saco de papel",
+      "saco kraft"
+    ]
+  },
+  {
+    "value": "Papel de Presente",
+    "synonyms": [
+      "Papel de presente",
+      "papel de presente"
+    ]
+  },
+  {
+    "value": "Papel Seda",
+    "synonyms": [
+      "Papel seda",
+      "papel seda"
+    ]
+  }
+]

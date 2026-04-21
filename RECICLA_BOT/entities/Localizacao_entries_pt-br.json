@@ -1,0 +1,173 @@
+[
+  {
+    "value": "são paulo",
+    "synonyms": [
+      "sp",
+      "sao paulo",
+      "São Paulo",
+      "Sao Paulo",
+      "capital sp"
+    ]
+  },
+  {
+    "value": "rio de janeiro",
+    "synonyms": [
+      "rj",
+      "rio",
+      "rio de janeiro",
+      "Rio",
+      "Capital rio"
+    ]
+  },
+  {
+    "value": "belo horizonte",
+    "synonyms": [
+      "bh",
+      "belo horizonte",
+      "Belo Horizonte"
+    ]
+  },
+  {
+    "value": "brasília",
+    "synonyms": [
+      "df",
+      "brasilia",
+      "bsb",
+      "Brasília",
+      "capital federal"
+    ]
+  },
+  {
+    "value": "curitiba",
+    "synonyms": [
+      "curitiba",
+      "Curitiba",
+      "capital parana"
+    ]
+  },
+  {
+    "value": "salvador",
+    "synonyms": [
+      "salvador",
+      "Salvador",
+      "bahia",
+      "capital bahia"
+    ]
+  },
+  {
+    "value": "fortaleza",
+    "synonyms": [
+      "fortaleza",
+      "Fortaleza",
+      "ceara",
+      "capital ceara"
+    ]
+  },
+  {
+    "value": "recife",
+    "synonyms": [
+      "recife",
+      "Recife",
+      "pernambuco",
+      "capital pernambuco"
+    ]
+  },
+  {
+    "value": "porto alegre",
+    "synonyms": [
+      "porto alegre",
+      "Porto Alegre",
+      "poa",
+      "rio grande do sul"
+    ]
+  },
+  {
+    "value": "manaus",
+    "synonyms": [
+      "manaus",
+      "Manaus",
+      "amazonas"
+    ]
+  },
+  {
+    "value": "campinas",
+    "synonyms": [
+      "campinas",
+      "Campinas",
+      "interior sp"
+    ]
+  },
+  {
+    "value": "são gonçalo",
+    "synonyms": [
+      "sao gonçalo",
+      "são gonçalo",
+      "São Gonçalo",
+      "rj"
+    ]
+  },
+  {
+    "value": "guarulhos",
+    "synonyms": [
+      "guarulhos",
+      "Guarulhos",
+      "sp"
+    ]
+  },
+  {
+    "value": "niteroi",
+    "synonyms": [
+      "niteroi",
+      "niterói",
+      "Niterói",
+      "rj"
+    ]
+  },
+  {
+    "value": "barueri",
+    "synonyms": [
+      "barueri",
+      "Barueri",
+      "sp"
+    ]
+  },
+  {
+    "value": "são bernardo do campo",
+    "synonyms": [
+      "sao bernardo do campo",
+      "são bernardo do campo",
+      "São Bernardo do Campo",
+      "abc",
+      "sp"
+    ]
+  },
+  {
+    "value": "outra",
+    "synonyms": [
+      "outra",
+      "outra cidade",
+      "outro",
+      "não listada",
+      "não tenho certeza",
+      "não sei",
+      "minha cidade não tá",
+      "não aparece",
+      "não está na lista"
+    ]
+  },
+  {
+    "value": "onde há",
+    "synonyms": [
+      "onde há",
+      "onde existe",
+      "onde tem",
+      "onde se encontra",
+      "onde se acha",
+      "em que há",
+      "no qual há",
+      "em que existe",
+      "no qual existe",
+      "onde fica"
+    ]
+  }
+]

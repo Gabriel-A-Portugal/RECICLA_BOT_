@@ -1,0 +1,57 @@
+{
+  "id": "76d02823-06bb-4076-bf6f-bd08c5fd76d3",
+  "name": "resposta_oleo",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "55e7176e-b837-453b-84a0-c14432b7cc6d",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "OLEO DE COZINHA\n\nNUNCA DESPEJE NA PIA!\nNUNCA JOGUE NO LIXO COMUM!\n\nPODE JOGAR NA PIA?\n- NAO, NUNCA. O oleo entope encanamentos e polui rios.\n\nO QUE FAZER:\n- Espere esfriar\n- Coloque em garrafa PET\n- Leve a pontos de coleta (supermercados, feiras)\n\nDICA: 1 litro de oleo contamina ate 20 mil litros de agua."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

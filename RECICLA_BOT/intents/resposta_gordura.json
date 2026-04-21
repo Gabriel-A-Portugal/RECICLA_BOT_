@@ -1,0 +1,57 @@
+{
+  "id": "c2d5f034-eceb-4d16-bfd3-cc8a00d4a3b4",
+  "name": "resposta_gordura",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0b397f51-5e2b-4afa-9dd2-791bf06ba4ab",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "GORDURA\n\nO QUE FAZER:\n- Nunca descarte gordura no ralo ou vaso sanitario\n- Guarde em garrafa PET e leve a ponto de coleta\n- Supermercados e feiras usually aceitam\n\nO QUE NAO FAZER:\n- Nao jogue na pia: entope encanamentos\n- Nao jogue no lixo comum: polui o meio ambiente\n- Nao descarte no vaso sanitario\n\nPODE JOGAR NO LIXO COMUM?\n- Nao. Gordura deve ser separada para reciclagem\n\nDICA: 1 litro de oleo contaminate ate 20 mil litros de agua. Armazene em garrafa PET bem fechada."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

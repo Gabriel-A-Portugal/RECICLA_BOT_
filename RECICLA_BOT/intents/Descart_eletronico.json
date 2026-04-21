@@ -1,0 +1,50 @@
+{
+  "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+  "name": "Descart_eletronico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+          "name": "eletronico_lixo",
+          "required": true,
+          "dataType": "@eletronico_lixo",
+          "value": "$eletronico_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar lixo eletronico corretamente:\n\nCelulares e computadores nao vao no lixo comum\n\nLeve a pontos de coleta de eletronicos ou lojas autorizadas\n\nPilhas e baterias tem descarte especifico em supermercados\n\nNao descarte eletronicos na coleta seletiva comum\n\nVerifique a coleta eletronica da sua prefeitura"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

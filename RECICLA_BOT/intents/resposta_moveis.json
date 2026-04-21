@@ -1,0 +1,79 @@
+{
+  "id": "a7b9c1d3-e5f7-4b4a-2c4d-8e0f2a4b6c8d",
+  "name": "resposta_moveis",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 3
+        },
+        {
+          "name": "perguntou_material",
+          "lifespan": 2
+        },
+        {
+          "name": "material_em_foco",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a8650d4f-7b3c-4ede-9a7b-cbbd9a2e80e7",
+          "name": "material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "da8f1bfd-200e-46c6-a9c7-6003be014dca",
+          "name": "Duvidas_Reciclagem",
+          "required": false,
+          "dataType": "@Duvidas_Reciclagem",
+          "value": "$Duvidas_Reciclagem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "MOVEIS (SOFA, COLCHAO, MESA)\n\nMOVEIS GRANDES NAO VAO NO LIXO COMUM!\n\nO QUE FAZER:\n- Agende COLETA ESPECIAL com a prefeitura da sua cidade\n- Muitos municipios oferecem coleta porta a porta gratuita\n- Ligue para a limpeza urbana ou secretaria de meio ambiente\n\nOPCOES PARA DESCARTE:\nDOE para ONGs:\n- Se o movel estiver em bom estado, doe para:\n  - Cruzero do bem, Doctum, etc.\n  - Abrigos de idosos\n  - Comunidades carentes\n\nVENDA como madeira de reuso:\n- Alguns brechos compram moveis antigos\n- Sites como OLX, Mercado Livre\n- Ferro-velho para pecas\n\nEcopontos:\n- Aceitam pequenos volumes\n- Consulte disponibilidade na sua cidade\n\nO QUE NAO FAZER:\n- NAO na lixeira comum\n- NAO na calcada sem autorizacao (multa!)\n- NAO descarte em terrenos baldios\n\nDICAS:\n- Sofas: Retire espumas e tecidos separadamente se possivel\n- Colchoes: Alguns shops compram de volta\n- Madeiras: Podem ser reaproveitadas para marcenaria\n\nCUSTO:\n- Grande parte das prefeituras oferece coleta gratuita\n- Cacambas particular custam em media R$ 200-500\n\nPosso ajudar com outro material? Informe: plastico, vidro, metal, papel, organico, pilha, oleo, eletronico, medicamento, lixo comum, tekstil, moveis, construcao ou vidro especial."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

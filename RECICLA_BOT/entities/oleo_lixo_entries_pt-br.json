@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Óleo de Cozinha",
+    "synonyms": [
+      "Óleo de cozinha",
+      "oleo de cozinha",
+      "óleo usado",
+      "oleo usado",
+      "óleo de fritura",
+      "oleo de fritura",
+      "óleo velho",
+      "oleo velho",
+      "oleo queimado",
+      "óleo queimado",
+      "oleo"
+    ]
+  },
+  {
+    "value": "Gordura",
+    "synonyms": [
+      "Gordura",
+      "gordura",
+      "gordura de fritura",
+      "banha",
+      "sebo"
+    ]
+  },
+  {
+    "value": "Azeite",
+    "synonyms": [
+      "Azeite",
+      "azeite",
+      "azeite usado"
+    ]
+  }
+]

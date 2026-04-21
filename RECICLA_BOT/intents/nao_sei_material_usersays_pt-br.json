@@ -1,0 +1,138 @@
+[
+  {
+    "id": "3ac838a2-ef6e-4d65-82e4-a31ea3b79142",
+    "data": [
+      {
+        "text": "não sei",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3fe4eb9b-4e79-431d-b9d9-e6b673cee595",
+    "data": [
+      {
+        "text": "não sei o que é",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "991961ae-c7c7-4b15-abd5-84b9fb2bc2fe",
+    "data": [
+      {
+        "text": "não sei o ",
+        "userDefined": false
+      },
+      {
+        "text": "material",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b97364e9-75c3-400b-910f-93a98f6943cf",
+    "data": [
+      {
+        "text": "não sei como chamar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c0cc5ba3-3956-45ae-bfae-85216bff3e66",
+    "data": [
+      {
+        "text": "não sei o ",
+        "userDefined": false
+      },
+      {
+        "text": "tipo",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ce06890-957f-44d6-9188-a72831e30b72",
+    "data": [
+      {
+        "text": "não sei o que ",
+        "userDefined": false
+      },
+      {
+        "text": "descartar",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a4cef6c0-f690-4bea-b04e-b022da8e7ab0",
+    "data": [
+      {
+        "text": "não tenho certeza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "286dfdde-a9b9-48f0-96c2-06477ba79f63",
+    "data": [
+      {
+        "text": "não sei o que é isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "nao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,761 @@
+[
+  {
+    "id": "e926ac65-0d66-45f7-9a54-f1fdc23a7838",
+    "data": [
+      {
+        "text": "eletronico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3e76aac4-4691-4efb-8ac8-648cfe697aee",
+    "data": [
+      {
+        "text": "celular",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ccc4281-44ac-421f-adf3-943adaa1568c",
+    "data": [
+      {
+        "text": "celulares",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c90900a9-b299-40ad-ad5d-e94b275cf4f2",
+    "data": [
+      {
+        "text": "telefone",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a98a9e18-d429-45bd-8b1e-0704db27d922",
+    "data": [
+      {
+        "text": "computador",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ed619c7-4be2-4152-a557-918d8d4e02e7",
+    "data": [
+      {
+        "text": "computadores",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aac6211d-ca13-43d2-9e71-8a9dbaee6b4a",
+    "data": [
+      {
+        "text": "fone",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "12abcff9-fc83-441a-aa2e-d884b02416ba",
+    "data": [
+      {
+        "text": "fones",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0020c20d-6d15-4113-93ac-2ae282af5fac",
+    "data": [
+      {
+        "text": "fone de ouvido",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1dc0aae-89dc-4c1f-8513-70d07d043ac9",
+    "data": [
+      {
+        "text": "carregador",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "18656758-e26f-4d5d-bb9d-75e62ddaf07f",
+    "data": [
+      {
+        "text": "carregadores",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eea263cb-0e4b-45d1-a227-8bc4c43d8ecc",
+    "data": [
+      {
+        "text": "notebook",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "828c97a8-486e-4050-a64c-2d027c3eac7e",
+    "data": [
+      {
+        "text": "tablet",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7fa6c33c-acca-458d-b85a-4df21355271e",
+    "data": [
+      {
+        "text": "tv",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "32fd8880-d92b-491e-95e8-ba38975f3d7b",
+    "data": [
+      {
+        "text": "televisao",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c350ccc-7da7-48d0-a885-4542f14f2e65",
+    "data": [
+      {
+        "text": "monitor",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46947c93-4509-4002-9251-6faf0674a171",
+    "data": [
+      {
+        "text": "mouse",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e19eb229-e897-4939-96cd-759cadf6f80a",
+    "data": [
+      {
+        "text": "teclado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "89a76e10-bb54-47b3-ae8e-e1a16d788dee",
+    "data": [
+      {
+        "text": "impressora",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e51080d-b958-4e79-baf1-a16d3462a4ce",
+    "data": [
+      {
+        "text": "roteador",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3307c786-b61c-412f-b387-6d5bda778d01",
+    "data": [
+      {
+        "text": "modem",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "18bbbefb-cea5-4356-af44-596eaf9e0779",
+    "data": [
+      {
+        "text": "videogame",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1266f483-4ec2-4d99-a511-a26742d2ee68",
+    "data": [
+      {
+        "text": "console",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8b8fc352-a9fe-4312-953a-dc0ab5927e85",
+    "data": [
+      {
+        "text": "bateria de notebook",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a95cceb0-a8a5-44d9-a9be-4290bc8a7af5",
+    "data": [
+      {
+        "text": "carregador de celular",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7d2a70dd-45df-4571-ba39-f0ac0bb27315",
+    "data": [
+      {
+        "text": "celular antigo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "245085f3-43c1-446e-b7fe-5150a2660c34",
+    "data": [
+      {
+        "text": "computador velho",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7951a14e-5044-4309-823f-940890ac06b8",
+    "data": [
+      {
+        "text": "notebook quebrado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1aed5e13-a02e-4f32-9e47-d1d54bec612e",
+    "data": [
+      {
+        "text": "tablet antigo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b6f22f89-3951-44a5-89c0-241b8fc66b32",
+    "data": [
+      {
+        "text": "fone estragado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a67a2480-73cc-4587-bdd5-280cd1fe79fe",
+    "data": [
+      {
+        "text": "carregador quebrado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c87f7a4a-a6dd-43ba-a04a-9e103e28660d",
+    "data": [
+      {
+        "text": "hd externo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "06288d73-eda3-423a-b1cd-66cf9aa90e67",
+    "data": [
+      {
+        "text": "pendrive",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d7c35028-994a-40bd-b84d-3688f371262f",
+    "data": [
+      {
+        "text": "cartao de memoria",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5fa3b82b-86bd-48a5-9af9-d36b597bfbef",
+    "data": [
+      {
+        "text": "cabo usb",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7fdc5945-5bd1-43b2-8979-10de5b62912f",
+    "data": [
+      {
+        "text": "fonte de computador",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3c1d24be-c9d4-45d1-a4cc-8b01f1a1c0b8",
+    "data": [
+      {
+        "text": "onde jogar",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "celular",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8532b89-54ff-437d-bd5b-e49977f15203",
+    "data": [
+      {
+        "text": "descarte de",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eletronico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c70506da-1cae-4a48-96e8-f3caa0a921aa",
+    "data": [
+      {
+        "text": "reciclar ",
+        "userDefined": false
+      },
+      {
+        "text": "eletronico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d10861ab-db64-42e8-9784-a4341720be11",
+    "data": [
+      {
+        "text": "e-lixo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "623c2c31-fb69-4248-89de-025a5ecfe308",
+    "data": [
+      {
+        "text": "elixo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ded5eff7-ee1e-406c-849e-478535f8d90d",
+    "data": [
+      {
+        "text": "aparelho quebrado",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "015f2439-b8b8-4d7c-a1f7-bdffd3f75b53",
+    "data": [
+      {
+        "text": "radio",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bbcb0881-ea99-4efa-8b1d-cb0dca795be5",
+    "data": [
+      {
+        "text": "microondas",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "846a56ac-d774-4450-99f7-198ffff922e8",
+    "data": [
+      {
+        "text": "liquidificador",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab8c59c2-d002-4ab0-9f5f-ee1cd96da8fa",
+    "data": [
+      {
+        "text": "ventilador",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d896d3ee-7502-4022-a8a9-f56320c07df3",
+    "data": [
+      {
+        "text": "secador de cabelo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "12c96092-1ae1-4db3-b3ea-8b58f4ba3145",
+    "data": [
+      {
+        "text": "ferro de passar",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b61ae568-5087-43d3-ba29-a6ecb8b97b6a",
+    "data": [
+      {
+        "text": "aspirador de po",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

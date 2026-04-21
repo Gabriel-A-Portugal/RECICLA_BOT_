@@ -1,0 +1,35 @@
+{
+  "id": "4d3c2b1a-0e9f-8c7b-6a5f-4e3d2c1b0a9f",
+  "name": "perguntas_misturar_reciclaveis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Na maioria das cidades brasileiras, voce pode sim misturar plastico, vidro, metal e papel no mesmo saco para a coleta seletiva.\n\nIsso se chama coleta seletiva monomaterial ou seca. Os materiais sao separados depois nas cooperativas ou usinas de reciclagem.\n\nO importante e que os reciclaveis estejam limpos e secos. O vidro deve estar inteiro para nao ferir os catadores.\n\nMas ATENCAO: Algumas cidades ou condominios exigem a separacao por tipo de material. Verifique as regras da sua cidade ou do seu predio.\n\nRegra pratica: se nao houver orientacao especifica, pode misturar tudo no mesmo saco. Se houver lixeiras coloridas separadas, use cada uma para o material correspondente.\n\nO mais importante e separar o reciclavel limpo do lixo comum e do organico."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

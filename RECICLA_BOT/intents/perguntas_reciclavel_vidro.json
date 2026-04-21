@@ -1,0 +1,35 @@
+{
+  "id": "0a9b8c7d-6e5f-4a3b-2c1d-0e9f8a7b6c5d",
+  "name": "perguntas_reciclavel_vidro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Todo vidro e reciclavel em teoria, mas ha criterios:\n\nVidro quebrado nao deve ir para reciclagem comum por risco aos coletores. Embrulhe e jogue no lixo comum\n\nVidro de produtos quimicos ou medicamentos deve ser descartado em pontos especiais\n\nEspelhos, vidros temperados e ceramicas nao sao reciclaveis junto com vidro comum\n\nRegra pratica: vidro inteiro e limpo vai para lixeira verde. Vidro quebrado vai para lixo comum bem embalado"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

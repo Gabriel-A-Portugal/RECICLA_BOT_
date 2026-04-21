@@ -1,0 +1,116 @@
+[
+  {
+    "value": "Lâmina",
+    "synonyms": [
+      "Lâmina",
+      "lamina",
+      "lamina de barbear",
+      "lâmina de barbear",
+      "lamina de estilete",
+      "lâmina de estilete",
+      "estilete"
+    ]
+  },
+  {
+    "value": "Vidro Quebrado",
+    "synonyms": [
+      "Vidro quebrado",
+      "cacos",
+      "cacos de vidro",
+      "vidro quebrado",
+      "caco de vidro",
+      "garrafa quebrada",
+      "caco de espelho",
+      "espelho quebrado",
+      "ceramica quebrada",
+      "cerâmica quebrada"
+    ]
+  },
+  {
+    "value": "Lâmpada Quebrada",
+    "synonyms": [
+      "Lâmpada quebrada",
+      "lampada quebrada",
+      "quebrei a lampada",
+      "lampada esta quebrada",
+      "lampada quebrou",
+      "lâmpada quebrou",
+      "estragou a lampada",
+      "lampada estourada",
+      "lâmpada estourada",
+      "quebrou a lampada",
+      "lampada trincada",
+      "lâmpada trincada",
+      "caco de lampada",
+      "caco de lâmpada",
+      "restos de lampada",
+      "pedaco de lampada",
+      "estourou a lampada",
+      "lampada estourou",
+      "lampada esta estourada",
+      "lampada fluorescente quebrada",
+      "lampada fluorescente em pedacos",
+      "lampada fluorescente estourada",
+      "lampada fluorescente trincada",
+      "fluorescente quebrado",
+      "tubo fluorescente quebrado",
+      "fluorescente em pedacos",
+      "lampada led quebrada",
+      "lampada led estourada",
+      "led quebrado",
+      "lampada led trincada",
+      "lampada incandescente quebrada",
+      "lampada incandescente estourada",
+      "lampada comum quebrada",
+      "lampada halogenea quebrada",
+      "lampada halógena quebrada",
+      "caco de lampada fluorescente",
+      "caco de lampada led",
+      "caco de lampada comum",
+      "pedacos de lampada fluorescente",
+      "pedacos de lampada led",
+      "restos de lampada fluorescente",
+      "lampada quebrada dentro da caixa de leite",
+      "lampada fluorescente quebrada dentro da caixa de leite",
+      "quebrei a lampada fluorescente",
+      "lampada fluorescente quebrou",
+      "lampada led quebrou",
+      "lampada comum quebrou",
+      "tubo fluorescente em pedacos",
+      "fluorescente estourado",
+      "lampada estilhaçada",
+      "lampada em cacos",
+      "lampada em pedacinhos"
+    ]
+  },
+  {
+    "value": "Agulha",
+    "synonyms": [
+      "Agulha",
+      "agulha",
+      "agulhas",
+      "agulha de costura",
+      "agulhas de costura",
+      "alfinete",
+      "alfinetes"
+    ]
+  },
+  {
+    "value": "Prego",
+    "synonyms": [
+      "Prego",
+      "prego",
+      "prego enferrujado",
+      "parafuso pontudo",
+      "parafuso"
+    ]
+  },
+  {
+    "value": "Broca",
+    "synonyms": [
+      "Broca",
+      "broca",
+      "furadeira"
+    ]
+  }
+]

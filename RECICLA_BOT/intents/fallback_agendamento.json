@@ -1,0 +1,57 @@
+{
+  "id": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6c",
+  "name": "fallback_agendamento",
+  "auto": true,
+  "contexts": [
+    "solicitou_coleta"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguarda_endereco",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "006e8979-4e2d-46c9-99fa-f3209625c501",
+          "name": "Localizacao",
+          "required": false,
+          "dataType": "@Localizacao",
+          "value": "$Localizacao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para continuarmos, preciso de algumas informações:\n\n1. Qual é a SUA CIDADE?\n   - Informe o nome da cidade\n\n2. Que MATERIAL você quer descartar?\n   - Ex: plástico, papel, metal, vidro, etc\n\nInforme sua cidade para prosseguir."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

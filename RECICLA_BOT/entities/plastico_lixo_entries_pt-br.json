@@ -1,0 +1,135 @@
+[
+  {
+    "value": "Plástico",
+    "synonyms": [
+      "Plástico",
+      "plastico",
+      "plástica",
+      "plastica",
+      "de plastico",
+      "de plástico",
+      "plastico bolha"
+    ]
+  },
+  {
+    "value": "Garrafa PET",
+    "synonyms": [
+      "Garrafa pet",
+      "garrafa pet",
+      "pet",
+      "garrafa plastica",
+      "garrafa plástica",
+      "garrafa de refrigerante",
+      "garrafa de agua",
+      "garrafa de água",
+      "garrafinha dagua",
+      "garrafinha de água",
+      "garrafinha d\u0027agua",
+      "garrafinha d\u0027água",
+      "garrafinha"
+    ]
+  },
+  {
+    "value": "Garrafa de Shampoo",
+    "synonyms": [
+      "Garrafa de shampoo",
+      "garrafa de shampoo",
+      "frasco de shampoo",
+      "shampoo",
+      "garrafa de condicionador",
+      "frasco de condicionador",
+      "shampoo vazio",
+      "pote de shampoo"
+    ]
+  },
+  {
+    "value": "Garrafa de Suco",
+    "synonyms": [
+      "Garrafa de suco",
+      "garrafa de suco",
+      "suco de garrafa"
+    ]
+  },
+  {
+    "value": "Saco Plástico",
+    "synonyms": [
+      "Saco plástico",
+      "saco plastico",
+      "sacolinha",
+      "sacola plastica",
+      "sacola plástica"
+    ]
+  },
+  {
+    "value": "Pote de Sorvete",
+    "synonyms": [
+      "Pote de sorvete",
+      "pote de sorvete",
+      "balde de sorvete"
+    ]
+  },
+  {
+    "value": "Pote de Margarina",
+    "synonyms": [
+      "Pote de margarina",
+      "pote de margarina",
+      "pote de margarina vazio"
+    ]
+  },
+  {
+    "value": "Pote de Iogurte",
+    "synonyms": [
+      "Pote de iogurte",
+      "pote de iogurte"
+    ]
+  },
+  {
+    "value": "Talher Descartável",
+    "synonyms": [
+      "Talher descartavel",
+      "talher descartável",
+      "copinho plastico",
+      "copo descartavel",
+      "copo descartável",
+      "canudo",
+      "canudinho"
+    ]
+  },
+  {
+    "value": "Tampa",
+    "synonyms": [
+      "Tampa",
+      "tampa",
+      "tampa plastica",
+      "tampinha"
+    ]
+  },
+  {
+    "value": "Embalagem Metalizada",
+    "synonyms": [
+      "Embalagem metalizada",
+      "embalagem metalizada",
+      "saco de biscoito",
+      "saco de salgadinho",
+      "pacote de salgadinho",
+      "pacote de biscoito",
+      "embalagem de salgadinho",
+      "embalagem de biscoito",
+      "plastico metalizado",
+      "plástico metalizado",
+      "saco de batata frita",
+      "pacote de batata frita",
+      "embalagem de batata frita",
+      "saco de snacks",
+      "pacote de snacks",
+      "saquinho de biscoito",
+      "saquinho de salgadinho",
+      "saquinho de batata frita",
+      "saquinho de snacks",
+      "embalagem de bolacha",
+      "saco de bolacha",
+      "saquinho de bolacha",
+      "pacote de bolacha"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "f3a6b1d4-3c4e-47b2-9c03-5f1e6d7b8a9f",
+  "name": "perguntas_localizacao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "NAO TENHO ACESSO A SUA LOCALIZACAO.\n\nPontos de coleta podem ser encontrados em:\n- Supermercados\n- Lojas de eletronicos\n- Farmacias\n- Feiras livres\n- Assistencia tecnicas\n\nPesquise no Google: \"ponto de coleta [nome do material] [sua cidade]\"\n\nExemplo: \"ponto de coleta de pilhas Sao Paulo\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

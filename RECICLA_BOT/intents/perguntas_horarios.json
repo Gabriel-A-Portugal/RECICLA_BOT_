@@ -1,0 +1,35 @@
+{
+  "id": "b2e6f4d8-9f2c-4e8a-a77d-92f4e7693af2",
+  "name": "perguntas_horarios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "NAO TENHO INFORMACOES DE HORARIOS DE FUNCIONAMENTO.\n\nRecomendo que voce:\n- Ligue para o estabelecimento antes de levar os materiais\n- Verifique no Google Maps o horario do local\n- Consulte o site da prefeitura da sua cidade\n\nOs horarios variam muito de acordo com o local e a regiao."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

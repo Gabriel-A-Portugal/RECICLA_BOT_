@@ -1,0 +1,35 @@
+{
+  "id": "8f7e6d5c-4b3a-2c1d-0e9f-8a7b6c5d4e3f",
+  "name": "perguntas_lista_negra_reciclagem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A forma mais facil de identificar a lista negra de itens que parecem reciclaveis mas nao sao e lembrar da regra: se nao da para identificar o material claramente, provavelmente nao e reciclavel.\n\nExemplos comuns:\n\nPapel carbono, papel plastificado, papel de fax: nao sao reciclaveis\n\nEtiquetas adesivas: o adesivo contamina a reciclagem\n\nClipes e grampos: sao metal, mas muito pequenos. Prendem em maquinas. Descarte no lixo comum\n\nCopos descartaveis sujos: se tiver resto de bebida, va para o lixo comum\n\nGuardanapos e papel toalha usados: mesmo sendo papel, vao para o lixo comum\n\nCaixa de pizza engordurada: nao e reciclavel\n\nIsopor: nao e reciclavel na maioria das cidades\n\nEmbalagens metalizadas de salgadinho: nao sao reciclaveis\n\nRegra pratica: na duvida, jogue no lixo comum. E melhor descartar algo reciclavel no comum do que contaminar todo um lote de reciclaveis com algo nao reciclavel."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

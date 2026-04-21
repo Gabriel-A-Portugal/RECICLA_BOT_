@@ -1,0 +1,35 @@
+{
+  "id": "6e5d4c3b-2a1f-0e9d-8c7b-6a5f4e3d2c1b",
+  "name": "perguntas_lavar_embalagens",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nao e necessario lavar com agua corrente e sabao. Isso gasta agua e nao e eficiente.\n\nO correto e: retire o excesso de comida ou liquido com um papel ou espátula.\n\nEmbalagens muito sujas de gordura ou restos nao vao para reciclagem. Va para o lixo comum.\n\nEmbalagens secas e sem residuos grossos ja podem ir para reciclagem.\n\nAs cooperativas e usinas fazem a higienizacao dos materiais reciclaveis.\n\nSua funcao e evitar que o material fique com bolor ou atraia insetos ate a coleta.\n\nRegra pratica: retire o excesso, nao precisa lavar. Se estiver muito sujo, va para o lixo comum."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

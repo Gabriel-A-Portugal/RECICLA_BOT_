@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b6a5309d-35c9-406d-aae9-851f5d13b3ea",
+    "data": [
+      {
+        "text": "quais são",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "cores das lixeiras",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fd1c3c78-58c6-4d18-9f65-85b9f9567af2",
+    "data": [
+      {
+        "text": "cor da lixeira",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "336e5066-4772-4d2e-b49f-d82b1f76a7f6",
+    "data": [
+      {
+        "text": "quais",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cores de lixeira",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41e4a9c7-ac4f-452c-a456-780ecc58bcab",
+    "data": [
+      {
+        "text": "lixeira azul",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c5598b7f-de3f-4ea4-b590-aa5e59108b3b",
+    "data": [
+      {
+        "text": "lixeira verde",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4058221-6812-4270-a47e-57cc78b537a2",
+    "data": [
+      {
+        "text": "lixeira amarela",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "666ae9bd-166a-4839-9285-2250c9577754",
+    "data": [
+      {
+        "text": "separar o lixo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1542b71-5add-452e-89d5-e0f590c0ea6a",
+    "data": [
+      {
+        "text": "como",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "separar o lixo",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab9e3e06-8b23-4cc0-8199-982fb43dcf9b",
+    "data": [
+      {
+        "text": "quais",
+        "meta": "@Duvidas_Reciclagem",
+        "alias": "Duvidas_Reciclagem",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "materiais",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      },
+      {
+        "text": " em cada ",
+        "userDefined": false
+      },
+      {
+        "text": "lixeira",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f997191f-d480-4617-af44-36432bdbeee6",
+    "data": [
+      {
+        "text": "separação seletiva",
+        "meta": "@Cores_Lixeira",
+        "alias": "Cores_Lixeira",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

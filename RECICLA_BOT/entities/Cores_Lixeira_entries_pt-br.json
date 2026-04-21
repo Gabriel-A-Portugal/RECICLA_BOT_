@@ -1,0 +1,154 @@
+[
+  {
+    "value": "azul",
+    "synonyms": [
+      "azul",
+      "Azul",
+      "AZUL",
+      "lixeira azul",
+      "caixinha azul",
+      "container azul",
+      "lata azul",
+      "azul escuro",
+      "azul claro",
+      "lixo azul"
+    ]
+  },
+  {
+    "value": "verde",
+    "synonyms": [
+      "verde",
+      "Verde",
+      "VERDE",
+      "lixeira verde",
+      "caixinha verde",
+      "container verde",
+      "lata verde",
+      "verde escuro",
+      "verde claro",
+      "vidro verde",
+      "lixo verde"
+    ]
+  },
+  {
+    "value": "amarelo",
+    "synonyms": [
+      "amarelo",
+      "amarela",
+      "Amarelo",
+      "Amarela",
+      "AMARELO",
+      "lixeira amarelo",
+      "lixeira amarela",
+      "caixinha amarela",
+      "container amarelo",
+      "lata amarela",
+      "metal amarelo",
+      "lixo amarelo"
+    ]
+  },
+  {
+    "value": "vermelho",
+    "synonyms": [
+      "vermelho",
+      "vermelha",
+      "Vermelho",
+      "Vermelha",
+      "VERMELHO",
+      "lixeira vermelho",
+      "lixeira vermelha",
+      "caixinha vermelha",
+      "container vermelho",
+      "lata vermelha",
+      "plastico vermelho",
+      "lixo vermelho",
+      "lixeira amarela"
+    ]
+  },
+  {
+    "value": "marrom",
+    "synonyms": [
+      "marrom",
+      "Marrom",
+      "MARROM",
+      "lixeira marrom",
+      "caixinha marrom",
+      "container marrom",
+      "lata marrom",
+      "marrom escuro",
+      "organico marrom",
+      "castanho",
+      "lixo marrom"
+    ]
+  },
+  {
+    "value": "branco",
+    "synonyms": [
+      "branco",
+      "branca",
+      "Branco",
+      "Branca",
+      "BRANCO",
+      "lixeira branco",
+      "lixeira branca",
+      "caixinha branca",
+      "container branco",
+      "lata branca",
+      "rejeito branco",
+      "lixo branco"
+    ]
+  },
+  {
+    "value": "cinza",
+    "synonyms": [
+      "cinza",
+      "cinzento",
+      "Cinza",
+      "CINZA",
+      "lixeira cinza",
+      "caixinha cinza",
+      "container cinza",
+      "lata cinza",
+      "lixo cinza"
+    ]
+  },
+  {
+    "value": "roxo",
+    "synonyms": [
+      "roxo",
+      "roxa",
+      "Roxo",
+      "Roxa",
+      "ROXO",
+      "lixeira roxo",
+      "lixeira roxa",
+      "caixinha roxa",
+      "container roxo",
+      "lata roxa",
+      "lixo hospitalar roxo",
+      "descartar medicamento roxo",
+      "lixo roxo"
+    ]
+  },
+  {
+    "value": "cor",
+    "synonyms": [
+      "cor",
+      "cores",
+      "coloração",
+      "tinta",
+      "pintura",
+      "tom",
+      "subtom",
+      "aparencia",
+      "azul",
+      "verde",
+      "amarelo",
+      "vermelho",
+      "marrom",
+      "branco",
+      "cinza",
+      "roxo"
+    ]
+  }
+]

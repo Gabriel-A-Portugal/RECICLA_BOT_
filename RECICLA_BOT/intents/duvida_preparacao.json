@@ -1,0 +1,75 @@
+{
+  "id": "c3d5e7f9-a1b3-4d9c-8e0f-4a6b8c0d2e4f",
+  "name": "duvida_preparacao",
+  "auto": true,
+  "contexts": [
+    "perguntou_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "perguntou_material",
+          "lifespan": 3
+        },
+        {
+          "name": "material_em_foco",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dd600968-fba7-4307-8870-5fa9e4631731",
+          "name": "Limpeza_Descarte",
+          "required": false,
+          "dataType": "@Limpeza_Descarte",
+          "value": "$Limpeza_Descarte",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7d420292-9639-4c7e-a13c-998990bf6c47",
+          "name": "Material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$Material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "DICAS DE PREPARACAO PARA RECICLAGEM\n\nLAVAR SEMPRE:\n- Enxague rapidamente as embalagens (pode usar a agua da louca)\n- Tire o excesso de comida ou liquido\n- Isso evita mau cheiro e nao atrai insetos\n\nAMASSAR:\n- Caixas de papelao: amasse para economizar espaco\n- Latas de aluminio: amasse com as maos\n- Garrafas PET: pressione para tirar o ar\n\nDICAS EXTRAS:\n- Retire tampas e enrosque de volta (sao de materiais diferentes)\n- Nao precisa ficar perfeito, so o basico ja ajuda\n- Embalagens muito sujas de gordura vao para o lixo comum\n\nTAMBEM POSSO TE AJUDAR COM:\n- Onde descartar cada material\n- Quais materiais sao reciclaveis\n- Pontos de coleta especifica\n\nQuer saber sobre outro material?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

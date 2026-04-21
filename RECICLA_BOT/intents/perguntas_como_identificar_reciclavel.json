@@ -1,0 +1,35 @@
+{
+  "id": "7c6b5a4d-3e2f-1c0b-9a8f-7e6d5c4b3a2f",
+  "name": "perguntas_como_identificar_reciclavel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para identificar se um material e reciclavel, siga estes passos:\n\n1. Verifique o simbolo de reciclagem na embalagem. Plastico tem numeros de 1 a 7 no triangulo de setas. Numeros 1, 2, 3, 4, 5 sao reciclaveis na maioria das cidades. Numeros 6 e 7 nem sempre.\n\n2. Veja se o material esta limpo e seco. Papel, plastico, vidro e metal sujos de comida ou gordura nao vao para reciclagem.\n\n3. Confira se sua cidade aceita o material na coleta seletiva. Alguns materiais como isopor, plastico metalizado e tetrapak nao sao aceitos em todos os lugares.\n\n4. Na duvida, jogue no lixo comum para nao contaminar os outros reciclaveis.\n\nRegra pratica: material limpo, seco e com simbolo de reciclagem pode ir para reciclagem."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

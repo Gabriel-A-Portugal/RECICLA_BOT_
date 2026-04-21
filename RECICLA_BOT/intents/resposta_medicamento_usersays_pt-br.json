@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8e798af8-2c86-4d3b-841a-3ca08559afaa",
+    "data": [
+      {
+        "text": "medicamento",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9a5e621e-fe37-419a-ba7e-5696960f53ac",
+    "data": [
+      {
+        "text": "remedio vencido",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "189ca933-2566-4c75-be8d-b0117409d0a8",
+    "data": [
+      {
+        "text": "descarte remédio",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9510f6fc-0f21-4da1-9618-7f86d0dc1a4b",
+    "data": [
+      {
+        "text": "barriga de medicamento",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

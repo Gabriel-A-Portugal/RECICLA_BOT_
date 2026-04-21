@@ -1,0 +1,905 @@
+[
+  {
+    "id": "59142ddb-b45c-4bdf-8458-29412d689336",
+    "data": [
+      {
+        "text": "preciso ",
+        "userDefined": false
+      },
+      {
+        "text": "lavar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      },
+      {
+        "text": " antes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "27e71e6d-ce6b-42cb-bcd7-5e48d4121fc3",
+    "data": [
+      {
+        "text": "tem que ",
+        "userDefined": false
+      },
+      {
+        "text": "enxaguar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fec466cf-e707-49b2-a127-3cd6606134c1",
+    "data": [
+      {
+        "text": "preciso ",
+        "userDefined": false
+      },
+      {
+        "text": "amassar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7016dcc1-3734-4178-bdc8-705a044d05ce",
+    "data": [
+      {
+        "text": "como ",
+        "userDefined": false
+      },
+      {
+        "text": "preparo isso",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "480ceef0-5984-4783-aaba-9a247e620459",
+    "data": [
+      {
+        "text": "como ",
+        "userDefined": false
+      },
+      {
+        "text": "preparar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      },
+      {
+        "text": " para reciclar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6c600685-238c-4b84-bc03-b66a29b2561d",
+    "data": [
+      {
+        "text": "tenho que ",
+        "userDefined": false
+      },
+      {
+        "text": "lavar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3fb6e03d-d29d-441f-a605-a1a96db229f1",
+    "data": [
+      {
+        "text": "devo ",
+        "userDefined": false
+      },
+      {
+        "text": "limpar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3f05f6bb-7ab4-441e-a0d7-a384d4438f6b",
+    "data": [
+      {
+        "text": "e necessario ",
+        "userDefined": false
+      },
+      {
+        "text": "lavar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d39675fe-9a47-40ee-b7ca-0af891b0a2c2",
+    "data": [
+      {
+        "text": "o que fazer antes de descartar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef2b67f4-122f-4bb9-9082-267af098fa44",
+    "data": [
+      {
+        "text": "como devo ",
+        "userDefined": false
+      },
+      {
+        "text": "separar",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7546bc6a-1f2a-44a8-acac-a971c8b691b5",
+    "data": [
+      {
+        "text": "precisa estar ",
+        "userDefined": false
+      },
+      {
+        "text": "limpo",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "051c8032-1275-46d8-abe2-565e70ffc284",
+    "data": [
+      {
+        "text": "tem que esta ",
+        "userDefined": false
+      },
+      {
+        "text": "limpo",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "94b55dc8-b262-4549-9a95-4b978a51b51e",
+    "data": [
+      {
+        "text": "devoram ",
+        "userDefined": false
+      },
+      {
+        "text": "amassar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "caixas",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "baa5e2a7-0b79-49ef-befc-61f1295e4b14",
+    "data": [
+      {
+        "text": "amasso",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      },
+      {
+        "text": " as ",
+        "userDefined": false
+      },
+      {
+        "text": "latas",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a62007a9-c4d8-4de0-b0bb-fb005213afd9",
+    "data": [
+      {
+        "text": "como guardar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como descartar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Existe ",
+        "userDefined": false
+      },
+      {
+        "text": "alguma diferença",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " no descarte de ",
+        "userDefined": false
+      },
+      {
+        "text": "plásticos",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "flexíveis",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " (como ",
+        "userDefined": false
+      },
+      {
+        "text": "sacolas",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": ") e ",
+        "userDefined": false
+      },
+      {
+        "text": "plásticos",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rígidos",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": " (como ",
+        "userDefined": false
+      },
+      {
+        "text": "potes",
+        "meta": "@Material",
+        "alias": "Material",
+        "userDefined": false
+      },
+      {
+        "text": ")?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como descartar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lata",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "caixas",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "leite",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-001",
+    "data": [
+      {
+        "text": "Preciso lavar ",
+        "userDefined": false
+      },
+      {
+        "text": "antes",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": false
+      },
+      {
+        "text": " de recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-002",
+    "data": [
+      {
+        "text": "E obrigatorio ",
+        "userDefined": false
+      },
+      {
+        "text": "limpar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-003",
+    "data": [
+      {
+        "text": "Como devo ",
+        "userDefined": false
+      },
+      {
+        "text": "preparar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": false
+      },
+      {
+        "text": " o material?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-004",
+    "data": [
+      {
+        "text": "Tem que remove o ",
+        "userDefined": false
+      },
+      {
+        "text": "rotulo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-005",
+    "data": [
+      {
+        "text": "Posso leave o ",
+        "userDefined": false
+      },
+      {
+        "text": "oleo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " no plastico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-006",
+    "data": [
+      {
+        "text": "Como ",
+        "userDefined": false
+      },
+      {
+        "text": "separa",
+        "userDefined": false
+      },
+      {
+        "text": " direitinho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-007",
+    "data": [
+      {
+        "text": "Precisa remove toda ",
+        "userDefined": false
+      },
+      {
+        "text": "gordura",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-008",
+    "data": [
+      {
+        "text": "E melhor ",
+        "userDefined": false
+      },
+      {
+        "text": "amassar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": false
+      },
+      {
+        "text": " ou leave inteiro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-009",
+    "data": [
+      {
+        "text": "Posso compactor ",
+        "userDefined": false
+      },
+      {
+        "text": "lata",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " antes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-010",
+    "data": [
+      {
+        "text": "Como remove o ",
+        "userDefined": false
+      },
+      {
+        "text": "rotulo",
+        "userDefined": false
+      },
+      {
+        "text": " de papier?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-011",
+    "data": [
+      {
+        "text": "Preciso enxaguar ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-012",
+    "data": [
+      {
+        "text": "Posso leave o ",
+        "userDefined": false
+      },
+      {
+        "text": "tampa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " na garrafa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-013",
+    "data": [
+      {
+        "text": "Como guarda ",
+        "userDefined": false
+      },
+      {
+        "text": "material",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ate collected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-014",
+    "data": [
+      {
+        "text": "Tem que esta ",
+        "userDefined": false
+      },
+      {
+        "text": "seco",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-015",
+    "data": [
+      {
+        "text": "O que fazer com ",
+        "userDefined": false
+      },
+      {
+        "text": "sujeira",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-016",
+    "data": [
+      {
+        "text": "Como lava those ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagens",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " direito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-017",
+    "data": [
+      {
+        "text": "Posso misturar diferentes ",
+        "userDefined": false
+      },
+      {
+        "text": "materiais",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-018",
+    "data": [
+      {
+        "text": "Precisa remove o ",
+        "userDefined": false
+      },
+      {
+        "text": "adesivo",
+        "userDefined": false
+      },
+      {
+        "text": " da caixa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-019",
+    "data": [
+      {
+        "text": "Como saber se estar ",
+        "userDefined": false
+      },
+      {
+        "text": "limpo",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": false
+      },
+      {
+        "text": " o suficiente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-prep-020",
+    "data": [
+      {
+        "text": "Posso compressed ",
+        "userDefined": false
+      },
+      {
+        "text": "papelao",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " com mao?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

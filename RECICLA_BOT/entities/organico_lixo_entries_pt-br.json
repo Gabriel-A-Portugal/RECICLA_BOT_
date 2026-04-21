@@ -1,0 +1,76 @@
+[
+  {
+    "value": "Resto de Comida",
+    "synonyms": [
+      "Resto de comida",
+      "resto de comida",
+      "restos de comida",
+      "resto de alimento",
+      "restos de alimento",
+      "sobras de comida",
+      "comida estragada",
+      "alimento vencido",
+      "organico",
+      "lixo organico",
+      "restos",
+      "resto",
+      "resto de feijoada"
+    ]
+  },
+  {
+    "value": "Casca",
+    "synonyms": [
+      "Casca",
+      "casca",
+      "cascas",
+      "casca de banana",
+      "casca de laranja",
+      "casca de batata",
+      "casca de ovo",
+      "cascas de ovo"
+    ]
+  },
+  {
+    "value": "Borra de Café",
+    "synonyms": [
+      "Borra de café",
+      "borra de cafe",
+      "borra de café",
+      "saco de po",
+      "saco de pó",
+      "saco de café"
+    ]
+  },
+  {
+    "value": "Verdura",
+    "synonyms": [
+      "Verdura",
+      "verdura",
+      "cascas de verdura",
+      "talos de verdura",
+      "resto de salada"
+    ]
+  },
+  {
+    "value": "Fruta",
+    "synonyms": [
+      "Fruta",
+      "fruta",
+      "fruta podre",
+      "caranha",
+      "caranha de fruta",
+      "semente",
+      "caroco",
+      "caroço"
+    ]
+  },
+  {
+    "value": "Folhas Secas",
+    "synonyms": [
+      "Folhas secas",
+      "folhas secas",
+      "grama cortada",
+      "podas de jardim"
+    ]
+  }
+]

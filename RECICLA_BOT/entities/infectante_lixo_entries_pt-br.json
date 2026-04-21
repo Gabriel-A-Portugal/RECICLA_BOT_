@@ -1,0 +1,63 @@
+[
+  {
+    "value": "Material com Sangue",
+    "synonyms": [
+      "Material com sangue",
+      "gaze com sangue",
+      "gaze suja de sangue",
+      "algodao com sangue",
+      "algodão com sangue",
+      "curativo com sangue",
+      "bandagem com sangue",
+      "lenco de papel com sangue",
+      "papel toalha com sangue",
+      "sangue"
+    ]
+  },
+  {
+    "value": "Seringa",
+    "synonyms": [
+      "Seringa",
+      "seringa",
+      "seringas",
+      "seringa usada",
+      "seringa com sangue",
+      "agulha medica",
+      "agulha médica",
+      "agulha hospitalar",
+      "agulha de seringa"
+    ]
+  },
+  {
+    "value": "Gaze Usada",
+    "synonyms": [
+      "Gaze usada",
+      "gaze",
+      "gazes",
+      "gaze usada",
+      "curativo usado"
+    ]
+  },
+  {
+    "value": "Esparadrapo",
+    "synonyms": [
+      "Esparadrapo",
+      "esparadrapo",
+      "esparadrapo sujo",
+      "esparadrapo usado",
+      "esparadrapo com sangue"
+    ]
+  },
+  {
+    "value": "Lixo Hospitalar",
+    "synonyms": [
+      "Lixo hospitalar",
+      "lixo hospitalar",
+      "residuo hospitalar",
+      "resíduo hospitalar",
+      "material biologico contaminado",
+      "lixo biologico",
+      "lixo biológico"
+    ]
+  }
+]

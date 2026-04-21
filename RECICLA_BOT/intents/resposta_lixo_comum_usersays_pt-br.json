@@ -1,0 +1,62 @@
+[
+  {
+    "id": "db8a4040-d060-4521-a1cd-39a92a557f5a",
+    "data": [
+      {
+        "text": "lixo comum",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "879002a0-53fb-444d-b596-3ebb0a27672b",
+    "data": [
+      {
+        "text": "lixo nao reciclavel",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8b12dcf2-67b3-4336-aa4b-9a83c055a101",
+    "data": [
+      {
+        "text": "resto comida estragada",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "275e9aac-d39a-4174-b2dc-082f277f2b9e",
+    "data": [
+      {
+        "text": "fraldas",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

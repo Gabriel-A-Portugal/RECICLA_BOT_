@@ -1,0 +1,35 @@
+{
+  "id": "6b5a4d3c-2e1f-0c9b-8a7f-6e5d4c3b2a1f",
+  "name": "perguntas_condominio_coleta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sim, o condominio tem responsabilidade pela gestao do lixo. A Política Nacional de Residuos Solidos (Lei 12305/2010) estabelece que a responsabilidade e compartilhada entre poder publico, empresas e geradores de residuos, incluindo condominios.\n\nA obrigatoriedade da coleta seletiva em condominios depende da legislacao do seu municipio. Cidades como Sao Paulo, por exemplo, obrigam condominios com 50 ou mais unidades a implantarem a coleta seletiva.\n\nIndependentemente da lei local, o sindico pode e deve organizar a coleta seletiva no predio. Se houver morador descumprindo, o sindico pode aplicar multas previstas na convencao do condominio.\n\nSe o municipio nao oferece coleta seletiva, o condominio pode contratar empresa particular ou cooperativa de catadores para fazer a coleta.\n\nSugiro que voce leve o assunto a assembleia de condominos e pesquise a lei municipal da sua cidade."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

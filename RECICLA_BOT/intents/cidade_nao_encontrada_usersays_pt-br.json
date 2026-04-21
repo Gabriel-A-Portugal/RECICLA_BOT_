@@ -1,0 +1,91 @@
+[
+  {
+    "id": "8b37d075-719e-4965-8f5a-67681d02d8a5",
+    "data": [
+      {
+        "text": "minha ",
+        "userDefined": false
+      },
+      {
+        "text": "cidade",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      },
+      {
+        "text": " não tá na lista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f47edd18-8d55-49ac-8692-e1c2b4e80ae5",
+    "data": [
+      {
+        "text": "não tá aqui",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78c6fd23-234b-4e74-b583-ea442d449ffe",
+    "data": [
+      {
+        "text": "não tem ",
+        "userDefined": false
+      },
+      {
+        "text": "minha cidade",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "801134f8-758e-481a-8015-c5b333a7dc6e",
+    "data": [
+      {
+        "text": "outra ",
+        "userDefined": false
+      },
+      {
+        "text": "cidade",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9fb47bc8-ff39-4ac0-a2e8-f22e81bcaad1",
+    "data": [
+      {
+        "text": "não aparece",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

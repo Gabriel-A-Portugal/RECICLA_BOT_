@@ -1,0 +1,50 @@
+{
+  "id": "af94fb19-a85e-4f3f-97f2-108ef242fb86",
+  "name": "Descart_papel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+          "name": "papel_lixo",
+          "required": true,
+          "dataType": "@papel_lixo",
+          "value": "$papel_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar papel corretamente:\n\nPapel limpo e seco pode ir para a lixeira azul\n\nPapel sujo ou molhado deve ir para o lixo comum\n\nCaixas de papelão devem ser desmontadas e dobradas antes do descarte\n\nNão descarte papel engordurado como caixa de pizza na reciclagem"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

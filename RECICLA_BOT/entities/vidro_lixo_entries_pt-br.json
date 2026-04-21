@@ -1,0 +1,61 @@
+[
+  {
+    "value": "Vidro",
+    "synonyms": [
+      "Vidro",
+      "vidro",
+      "vidros",
+      "vrido",
+      "vidrinho"
+    ]
+  },
+  {
+    "value": "Garrafa de Vidro",
+    "synonyms": [
+      "Garrafa de vidro",
+      "garrafa de vidro",
+      "garrafa de cerveja",
+      "garrafa de vinho",
+      "garrafa de vodka"
+    ]
+  },
+  {
+    "value": "Garrafa de Suco",
+    "synonyms": [
+      "Garrafa de suco",
+      "garrafa de suco"
+    ]
+  },
+  {
+    "value": "Copo de Vidro",
+    "synonyms": [
+      "Copo de vidro",
+      "copo de vidro",
+      "copos de vidro"
+    ]
+  },
+  {
+    "value": "Pote de Vidro",
+    "synonyms": [
+      "Pote de vidro",
+      "pote de vidro"
+    ]
+  },
+  {
+    "value": "Frasco de Perfume",
+    "synonyms": [
+      "Frasco de perfume",
+      "frasco de perfume",
+      "vidro de perfume"
+    ]
+  },
+  {
+    "value": "Vidro de Remédio",
+    "synonyms": [
+      "Vidro de remedio",
+      "vidro de remédio",
+      "frasco de remedio",
+      "frasco de remédio"
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "id": "8c450f63-8c2d-4d6c-97a9-210d6f5290e6",
+  "name": "perguntas_negacao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4e00648e-9515-43ab-82bd-53fd1e15cc78",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual material voce quer saber se pode descartar?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d79131d3-eb72-4cfc-bb1c-20189db98e52",
+          "name": "Cores_Lixeira",
+          "required": false,
+          "dataType": "@Cores_Lixeira",
+          "value": "$Cores_Lixeira",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6200bc7f-9c0a-4fdc-b786-b2b432dfb548",
+          "name": "Duvidas_Reciclagem",
+          "required": false,
+          "dataType": "@Duvidas_Reciclagem",
+          "value": "$Duvidas_Reciclagem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "ENTENDI QUE VOCE QUER SABER SOBRE: $material\n\nSE FOR ISSO, DIGITE O MATERIAL NOVAMENTE.\nSE NAO FOR, DIGITE O MATERIAL CORRETO (ex: plastico, vidro, metal, papel, pilha, oleo, eletronico, medicamento, lixo comum)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

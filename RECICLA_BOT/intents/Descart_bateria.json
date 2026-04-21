@@ -1,0 +1,50 @@
+{
+  "id": "1f2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c",
+  "name": "Descart_bateria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+          "name": "bateria_lixo",
+          "required": true,
+          "dataType": "@bateria_lixo",
+          "value": "$bateria_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar pilhas e baterias corretamente:\n\nPilhas e baterias nao vao no lixo comum nem na reciclagem comum\n\nLeve pilhas a pontos de coleta em supermercados e farmacias\n\nBaterias de celular e notebook podem ser descartadas em lojas de eletronicos\n\nBaterias de carro vao para pontos de coleta especificos como borracharias\n\nNunca jogue baterias no lixo comum pois contaminam o solo"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

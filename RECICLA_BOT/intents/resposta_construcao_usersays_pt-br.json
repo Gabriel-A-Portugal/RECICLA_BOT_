@@ -1,0 +1,397 @@
+[
+  {
+    "id": "480fd2f6-01fb-4639-9eeb-150f91a9cf51",
+    "data": [
+      {
+        "text": "construcao",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f03bae5f-5b31-4ff9-b65c-5dc96450f1ed",
+    "data": [
+      {
+        "text": "entulho",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3a05dc0c-7c39-41d9-a8f8-6a8a6ffeab83",
+    "data": [
+      {
+        "text": "tijolo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f66a777-ea21-4c22-a283-1dd69f7bd4e1",
+    "data": [
+      {
+        "text": "azulejo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "99689c87-dcef-4d51-85a0-d3705b9f41f6",
+    "data": [
+      {
+        "text": "reforma",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ddb077d7-2d9a-4c62-95c7-235113083ca2",
+    "data": [
+      {
+        "text": "tinta",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "541ee169-b32b-40db-92ea-2e492ea5c77f",
+    "data": [
+      {
+        "text": "telha",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "91122733-ce13-4293-8ecb-2d34cdc1a4cd",
+    "data": [
+      {
+        "text": "concreto",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c335236d-6efe-4b7f-be9c-358b6036b7fb",
+    "data": [
+      {
+        "text": "areia",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dcf44a1c-00e9-4e8e-b8a3-1106817a86be",
+    "data": [
+      {
+        "text": "brita",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "47d385da-90a7-490f-a6d9-849ee4ca33fc",
+    "data": [
+      {
+        "text": "madeira",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f237611-360e-42f8-9417-5f73c6341f77",
+    "data": [
+      {
+        "text": "gesso",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "11caf8a1-99bc-48a0-9b15-38a012a34f10",
+    "data": [
+      {
+        "text": "cimento",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "233fb15a-09b7-4cde-98df-27a9855bf50e",
+    "data": [
+      {
+        "text": "onde jogar",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "entulho",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "abdd6387-f730-4998-8d94-0c6381be7400",
+    "data": [
+      {
+        "text": "descartar",
+        "meta": "@Limpeza_Descarte",
+        "alias": "Limpeza_Descarte",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "entulho",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d5c9c3a-b291-4aa5-9452-52a443fb1b64",
+    "data": [
+      {
+        "text": "ceramica",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e37ae3bc-6a0c-4854-9625-b604352d294a",
+    "data": [
+      {
+        "text": "porcelanato",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4bef16c7-7cbe-4593-8911-be8c04e0ad49",
+    "data": [
+      {
+        "text": "pisos",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42122833-fff0-41be-8d9a-e7d4413d63e0",
+    "data": [
+      {
+        "text": "revestimento",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d64aaa7-4af6-44ca-b089-e0cebdbd496d",
+    "data": [
+      {
+        "text": "cal",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "00902f41-6798-411e-b7f6-bfadfc4464b8",
+    "data": [
+      {
+        "text": "argamassa",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "18b9e2ce-26ef-42f6-9cc5-4247f3f54dd7",
+    "data": [
+      {
+        "text": "rejunte",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "70e4d726-39f9-4434-8161-35a7380cd7da",
+    "data": [
+      {
+        "text": "cola",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dcd7246b-c35b-4d18-b4ed-d40566e9ca56",
+    "data": [
+      {
+        "text": "verniz",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7382e182-e936-4d54-9bb7-38bad80492ba",
+    "data": [
+      {
+        "text": "resto de obra",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

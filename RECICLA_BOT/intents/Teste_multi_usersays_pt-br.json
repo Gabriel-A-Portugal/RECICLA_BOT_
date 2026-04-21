@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2c3d4e5-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "organico",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "lixo comum",
+        "meta": "@comum_lixo",
+        "alias": "comum_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+    "data": [
+      {
+        "text": "preciso de uma ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelão",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " cheia de ",
+        "userDefined": false
+      },
+      {
+        "text": "latas",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "pilha",
+        "meta": "@bateria_lixo",
+        "alias": "bateria_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "celular",
+        "meta": "@eletronico_lixo",
+        "alias": "eletronico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+    "data": [
+      {
+        "text": "como jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "oleo",
+        "meta": "@oleo_lixo",
+        "alias": "oleo_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
+    "data": [
+      {
+        "text": "onde descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "lampada",
+        "meta": "@lampada_lixo",
+        "alias": "lampada_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "pilha",
+        "meta": "@bateria_lixo",
+        "alias": "bateria_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5e",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa velha",
+        "meta": "@textil_lixo",
+        "alias": "textil_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelao",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e6f",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "tijolo",
+        "meta": "@entulho_lixo",
+        "alias": "entulho_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f7a",
+    "data": [
+      {
+        "text": "preciso jogar ",
+        "userDefined": false
+      },
+      {
+        "text": "tinta",
+        "meta": "@quimico_lixo",
+        "alias": "quimico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa de vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a8b",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "isopor",
+        "meta": "@isopor_lixo",
+        "alias": "isopor_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de pizza",
+        "meta": "@comum_lixo",
+        "alias": "comum_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b9c",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "lamina de barbear",
+        "meta": "@perfurocortante_lixo",
+        "alias": "perfurocortante_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "seringa",
+        "meta": "@infectante_lixo",
+        "alias": "infectante_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4e",
+    "data": [
+      {
+        "text": "como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d5f",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "organico",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e60",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "embalagem",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "pote",
+        "meta": "@ambiguo_lixo",
+        "alias": "ambiguo_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f61",
+    "data": [
+      {
+        "text": "preciso separar ",
+        "userDefined": false
+      },
+      {
+        "text": "jornais",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e latas de ",
+        "userDefined": false
+      },
+      {
+        "text": "alumínio",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a62",
+    "data": [
+      {
+        "text": "como descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "pilhas",
+        "meta": "@bateria_lixo",
+        "alias": "bateria_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa de vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "lampada fluorescente",
+        "meta": "@lampada_lixo",
+        "alias": "lampada_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b63",
+    "data": [
+      {
+        "text": "preciso jogar fora ",
+        "userDefined": false
+      },
+      {
+        "text": "gaze com sangue",
+        "meta": "@infectante_lixo",
+        "alias": "infectante_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "agulha de costura",
+        "meta": "@perfurocortante_lixo",
+        "alias": "perfurocortante_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c64",
+    "data": [
+      {
+        "text": "tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de pizza",
+        "meta": "@comum_lixo",
+        "alias": "comum_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " engordurada, ",
+        "userDefined": false
+      },
+      {
+        "text": "isopor",
+        "meta": "@isopor_lixo",
+        "alias": "isopor_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa de vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " para descartar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d65",
+    "data": [
+      {
+        "text": "onde descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "notebook",
+        "meta": "@eletronico_lixo",
+        "alias": "eletronico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " velho, ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelao",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "pilhas aa",
+        "meta": "@bateria_lixo",
+        "alias": "bateria_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e66",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "resto de tinta",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "caco de ceramica",
+        "meta": "@entulho_lixo",
+        "alias": "entulho_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f67",
+    "data": [
+      {
+        "text": "como jogo fora ",
+        "userDefined": false
+      },
+      {
+        "text": "resto de comida",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "fralda suja",
+        "meta": "@comum_lixo",
+        "alias": "comum_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a68",
+    "data": [
+      {
+        "text": "preciso separar ",
+        "userDefined": false
+      },
+      {
+        "text": "resto de feijao",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "casca de ovo",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de leite",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b69",
+    "data": [
+      {
+        "text": "onde jogo ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa de vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "latinha de cerveja",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c6a",
+    "data": [
+      {
+        "text": "tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "oleo de fritura",
+        "meta": "@oleo_lixo",
+        "alias": "oleo_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "pote de margarina vazio",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d6b",
+    "data": [
+      {
+        "text": "preciso jogar fora ",
+        "userDefined": false
+      },
+      {
+        "text": "pilha",
+        "meta": "@bateria_lixo",
+        "alias": "bateria_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e6c",
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelao",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico bolha",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "isopor",
+        "meta": "@isopor_lixo",
+        "alias": "isopor_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f6d",
+    "data": [
+      {
+        "text": "como descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "lampada",
+        "meta": "@lampada_lixo",
+        "alias": "lampada_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " queimada, ",
+        "userDefined": false
+      },
+      {
+        "text": "pilha",
+        "meta": "@bateria_lixo",
+        "alias": "bateria_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "celular",
+        "meta": "@eletronico_lixo",
+        "alias": "eletronico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " antigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a6e",
+    "data": [
+      {
+        "text": "preciso separar ",
+        "userDefined": false
+      },
+      {
+        "text": "tinta",
+        "meta": "@quimico_lixo",
+        "alias": "quimico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " velha, ",
+        "userDefined": false
+      },
+      {
+        "text": "pote de vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "lata de aluminio",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b6f",
+    "data": [
+      {
+        "text": "onde coloco ",
+        "userDefined": false
+      },
+      {
+        "text": "pilha",
+        "meta": "@bateria_lixo",
+        "alias": "bateria_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "celular",
+        "meta": "@eletronico_lixo",
+        "alias": "eletronico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c70",
+    "data": [
+      {
+        "text": "como descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de papelao",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d71",
+    "data": [
+      {
+        "text": "Como descartar corretamente ",
+        "userDefined": false
+      },
+      {
+        "text": "papel",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e72",
+    "data": [
+      {
+        "text": "Jogar fora ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "latinha de aluminio",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "caixa de leite",
+        "meta": "@papel_lixo",
+        "alias": "papel_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " tudo vai no mesmo lugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f73",
+    "data": [
+      {
+        "text": "O que faco com ",
+        "userDefined": false
+      },
+      {
+        "text": "oleo usado",
+        "meta": "@oleo_lixo",
+        "alias": "oleo_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "isopor",
+        "meta": "@isopor_lixo",
+        "alias": "isopor_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e uma ",
+        "userDefined": false
+      },
+      {
+        "text": "camisa",
+        "meta": "@textil_lixo",
+        "alias": "textil_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " velha",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a74",
+    "data": [
+      {
+        "text": "tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "cascas",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "fruta",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro quebrado",
+        "meta": "@perfurocortante_lixo",
+        "alias": "perfurocortante_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "lampada",
+        "meta": "@lampada_lixo",
+        "alias": "lampada_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " cada um para onde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b75",
+    "data": [
+      {
+        "text": "Preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "pilhas",
+        "meta": "@bateria_lixo",
+        "alias": "bateria_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "eletronicos",
+        "meta": "@eletronico_lixo",
+        "alias": "eletronico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e produtos quimicos como ",
+        "userDefined": false
+      },
+      {
+        "text": "tinta",
+        "meta": "@quimico_lixo",
+        "alias": "quimico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " como proceder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c76",
+    "data": [
+      {
+        "text": "Tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "lixo comum",
+        "meta": "@comum_lixo",
+        "alias": "comum_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafa pet",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "isopor",
+        "meta": "@isopor_lixo",
+        "alias": "isopor_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " tudo pode ir para o reciclavel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b2c3d4e-5f6a-4b7c-8d9e-0f1a2b3c4d77",
+    "data": [
+      {
+        "text": "Como separar ",
+        "userDefined": false
+      },
+      {
+        "text": "entulho",
+        "meta": "@entulho_lixo",
+        "alias": "entulho_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "roupas",
+        "meta": "@textil_lixo",
+        "alias": "textil_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "medicamentos vencidos",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e78",
+    "data": [
+      {
+        "text": "Posso misturar ",
+        "userDefined": false
+      },
+      {
+        "text": "lixo organico",
+        "meta": "@organico_lixo",
+        "alias": "organico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " com ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " se for colocar na reciclagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d4e5f6a-7b8c-4d9e-0f1a-2b3c4d5e6f79",
+    "data": [
+      {
+        "text": "Moro em apartamento e nao tenho coleta seletiva como descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "vidro",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e5f6a7b-8c9d-4e0f-1a2b-3c4d5e6f7a7a",
+    "data": [
+      {
+        "text": "Viajei e tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "pilha",
+        "meta": "@bateria_lixo",
+        "alias": "bateria_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "remedio",
+        "meta": "@medicamento_lixo",
+        "alias": "medicamento_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "lampada",
+        "meta": "@lampada_lixo",
+        "alias": "lampada_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " na mala onde descarto na rua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b7b",
+    "data": [
+      {
+        "text": "Preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "garrafas de cerveja",
+        "meta": "@vidro_lixo",
+        "alias": "vidro_lixo",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "papel aluminio",
+        "meta": "@metal_lixo",
+        "alias": "metal_lixo",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@plastico_lixo",
+        "alias": "plastico_lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

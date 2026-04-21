@@ -1,0 +1,79 @@
+{
+  "id": "77d02823-06bb-4076-bf6f-bd08c5fd76d4",
+  "name": "resposta_eletronico",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 3
+        },
+        {
+          "name": "perguntou_material",
+          "lifespan": 2
+        },
+        {
+          "name": "material_em_foco",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e655b960-ca2d-4acf-baa5-a89a0ba04eca",
+          "name": "material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4ced38ae-023c-46ac-8cf3-c9d83e340f4b",
+          "name": "Duvidas_Reciclagem",
+          "required": false,
+          "dataType": "@Duvidas_Reciclagem",
+          "value": "$Duvidas_Reciclagem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "ELETRONICOS\n\nNAO VAO NO LIXO COMUM!\nNAO VAO NA RECICLAGEM COMUM!\n\nPODE JOGAR NO LIXO COMUM?\n- NAO, NUNCA. Eletronicos contem componentes toxicos.\n\nONDE DESCARTAR:\n- Pontos de coleta de e-lixo\n- Lojas de eletronicos\n- Empresas especializadas\n- Muitas faculdades tem coleta\n\nDICA: Celulares, computadores, carregadores e fones tem reciclagem especial.\n\nPosso ajudar com outro material? Informe: plastico, vidro, metal, papel, organico, pilha, oleo, eletronico, medicamento ou lixo comum."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

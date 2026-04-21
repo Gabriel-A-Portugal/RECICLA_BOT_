@@ -1,0 +1,57 @@
+{
+  "id": "74d02823-06bb-4076-bf6f-bd08c5fd76d1",
+  "name": "resposta_organico",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "p5",
+          "name": "material",
+          "required": true,
+          "dataType": "@Material",
+          "value": "material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "ORGANICO\n\nO QUE FAZER:\n- Restos de comida, cascas de frutas: lixo comum ou compostagem\n- Borra de cafe: otima para adubo\n\nO QUE NAO FAZER:\n- Nao misture com reciclaveis\n- Carnes e ossos nao vao na compostagem caseira\n\nPODE JOGAR NO LIXO COMUM?\n- SIM, restos de comida, cascas, borra de cafe vao no lixo comum\n- NAO, nao devem ir na reciclagem\n\nDICA: Compostagem transforma lixo organico em adubo de qualidade!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

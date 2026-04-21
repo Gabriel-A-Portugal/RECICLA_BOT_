@@ -1,0 +1,50 @@
+[
+  {
+    "value": "Tijolo",
+    "synonyms": [
+      "Tijolo",
+      "tijolo",
+      "tijolos",
+      "caco de tijolo",
+      "resto de tijolo",
+      "entulho"
+    ]
+  },
+  {
+    "value": "Cerâmica",
+    "synonyms": [
+      "Cerâmica",
+      "ceramica",
+      "caco de ceramica",
+      "caco de cerâmica",
+      "azulejo",
+      "caco de azulejo"
+    ]
+  },
+  {
+    "value": "Gesso",
+    "synonyms": [
+      "Gesso",
+      "gesso",
+      "resto de gesso",
+      "placa de gesso"
+    ]
+  },
+  {
+    "value": "Cimento",
+    "synonyms": [
+      "Cimento",
+      "cimento",
+      "resto de cimento",
+      "cimento endurecido"
+    ]
+  },
+  {
+    "value": "Areia",
+    "synonyms": [
+      "Areia",
+      "areia",
+      "resto de areia"
+    ]
+  }
+]

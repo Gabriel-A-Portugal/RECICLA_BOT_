@@ -1,0 +1,85 @@
+[
+  {
+    "id": "20069c2b-d28e-4ec1-b423-c935aba139a3",
+    "data": [
+      {
+        "text": "não sei",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3a9c4086-170b-43a1-9db6-317a2da5e589",
+    "data": [
+      {
+        "text": "não sei a ",
+        "userDefined": false
+      },
+      {
+        "text": "cidade",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "17f6f499-d7ec-4c5f-8875-a7d1d7e627fa",
+    "data": [
+      {
+        "text": "qualquer uma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "93f5e9fb-7457-40a8-a5db-ed97a5323ad9",
+    "data": [
+      {
+        "text": "não tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "endereço",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2815b1d7-2da3-4481-b040-3a410b4a6537",
+    "data": [
+      {
+        "text": "só quero saber ",
+        "userDefined": false
+      },
+      {
+        "text": "onde jogar",
+        "meta": "@Localizacao",
+        "alias": "Localizacao",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

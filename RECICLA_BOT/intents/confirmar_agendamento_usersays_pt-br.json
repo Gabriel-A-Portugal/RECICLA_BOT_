@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1901d25b-ff6b-41d6-9bd6-e68a40c22378",
+    "data": [
+      {
+        "text": "moro",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      },
+      {
+        "text": " em",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e2ddd5b3-3f8a-4662-a853-7141031884d6",
+    "data": [
+      {
+        "text": "estou",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      },
+      {
+        "text": " em",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5dff6c8-7aad-49d1-9324-03eca7ee9320",
+    "data": [
+      {
+        "text": "sou de",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c269f7c8-60ea-4fcb-ae91-91a984ad5579",
+    "data": [
+      {
+        "text": "moro no",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "19f694c4-6d56-4a1c-91fb-53f684558545",
+    "data": [
+      {
+        "text": "moro na",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "713e5567-0da1-4163-98ea-d6a7230e92c0",
+    "data": [
+      {
+        "text": "vivo em",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4fbb71b-7b34-4ceb-8a83-bedeab064af1",
+    "data": [
+      {
+        "text": "moro",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "deb925cb-7fc8-42c0-84e8-def25981828a",
+    "data": [
+      {
+        "text": "estou",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

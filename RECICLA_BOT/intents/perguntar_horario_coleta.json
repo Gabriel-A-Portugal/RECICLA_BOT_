@@ -1,0 +1,55 @@
+{
+  "id": "c9d3e1f5-a4b6-4c7d-8e9f-0a1b2c3d4e5f",
+  "name": "perguntar_horario_coleta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "perguntou_horario_coleta",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "15a10f0f-f241-4bd8-abb2-834b0adcaece",
+          "name": "DataColeta",
+          "required": false,
+          "dataType": "@DataColeta",
+          "value": "$DataColeta",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Os horários de coleta seletiva variam bastante:\n\n- Alguns municípios coletam pela manhã, outros à tarde\n- Frequência pode ser semanal ou quinzenal\n- Geralmente há dias específicos por bairro\n\nSUGESTÃO: Procure no site da prefeitura de sua cidade o calendário de coleta.\n\nVocê sabe qual a sua cidade? Posso tentar ajudar a encontrar informações específicas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,486 @@
+[
+  {
+    "id": "b9d13c47-99a5-48df-8057-6c6fe3c57cc5",
+    "data": [
+      {
+        "text": "orgânico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b3caaf40-e0d7-4bda-a3f5-3d4a9baa2388",
+    "data": [
+      {
+        "text": "organico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a79843e-d741-4d10-bfa5-51d3ce458afd",
+    "data": [
+      {
+        "text": "resto de comida",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f3a06098-a92b-403b-9bbc-7611b03c220e",
+    "data": [
+      {
+        "text": "casca de fruta",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "canudo de plástico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-001",
+    "data": [
+      {
+        "text": "Resto de comida ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "vai pro lixao?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-002",
+    "data": [
+      {
+        "text": "Casca de banana ",
+        "userDefined": false
+      },
+      {
+        "text": "pode no composite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-003",
+    "data": [
+      {
+        "text": "Organico ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " vira adubo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-004",
+    "data": [
+      {
+        "text": "Quanto tempo o ",
+        "userDefined": false
+      },
+      {
+        "text": "organico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " demora pra decomposed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-005",
+    "data": [
+      {
+        "text": "Posso put ",
+        "userDefined": false
+      },
+      {
+        "text": "cascas de ovo",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " no compost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-006",
+    "data": [
+      {
+        "text": "E a ",
+        "userDefined": false
+      },
+      {
+        "text": "borra de cafe",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": ", onde descarta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-007",
+    "data": [
+      {
+        "text": "Folhas secas ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " serve pra compost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-008",
+    "data": [
+      {
+        "text": "Resto de ",
+        "userDefined": false
+      },
+      {
+        "text": "feijao",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "pode recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-009",
+    "data": [
+      {
+        "text": "Lixo organico ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "cheira mal, o que fazer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-010",
+    "data": [
+      {
+        "text": "Posso fazer compost em ",
+        "userDefined": false
+      },
+      {
+        "text": "apartamento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-011",
+    "data": [
+      {
+        "text": "Casca de ",
+        "userDefined": false
+      },
+      {
+        "text": "laranja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "vai prosubmarino?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-012",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "organico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "atrai mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-013",
+    "data": [
+      {
+        "text": "Onde levo ",
+        "userDefined": false
+      },
+      {
+        "text": "resto de poda",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-014",
+    "data": [
+      {
+        "text": "Grama cortada ",
+        "userDefined": false
+      },
+      {
+        "text": "serve como adubo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-015",
+    "data": [
+      {
+        "text": "Carne cozida ",
+        "userDefined": false
+      },
+      {
+        "text": "pode no composteiro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-016",
+    "data": [
+      {
+        "text": "Oleo de cozinha ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "nao e organico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-017",
+    "data": [
+      {
+        "text": "Como fazer compost com ",
+        "userDefined": false
+      },
+      {
+        "text": "restos de comida",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-018",
+    "data": [
+      {
+        "text": "Resto de ",
+        "userDefined": false
+      },
+      {
+        "text": "verdura",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "pode no latch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-019",
+    "data": [
+      {
+        "text": "Papel higiênico usado ",
+        "userDefined": false
+      },
+      {
+        "text": "e organico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-organico-020",
+    "data": [
+      {
+        "text": "Como guardar ",
+        "userDefined": false
+      },
+      {
+        "text": "organico",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "sem feder?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

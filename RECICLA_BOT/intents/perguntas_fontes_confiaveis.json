@@ -1,0 +1,35 @@
+{
+  "id": "9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+  "name": "perguntas_fontes_confiaveis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Fontes confiaveis para consultar descarte correto de lixo:\n\nSites oficiais da prefeitura da sua cidade\n\nPrograma Coleta Seletiva da sua regiao\n\nAssociacao Brasileira de Empresas de Limpeza Publica (Abrelpe)\n\nSistema Nacional de Informacoes sobre a Gestao dos Residuos Solidos (Sinir)\n\nAplicativos como Recicla Sampa ou Cataki\n\nManuais de coleta seletiva de supermercados e condominios\n\nVoce tambem pode continuar me perguntando sobre materiais especificos que eu ajudo com o descarte correto"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

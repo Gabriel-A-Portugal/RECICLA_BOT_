@@ -1,0 +1,39 @@
+[
+  {
+    "value": "Lâmpada Fluorescente",
+    "synonyms": [
+      "Lâmpada fluorescente",
+      "lampada fluorescente",
+      "fluorescente",
+      "lampada tubo"
+    ]
+  },
+  {
+    "value": "Lâmpada LED",
+    "synonyms": [
+      "Lâmpada LED",
+      "lampada led",
+      "led",
+      "lampada de led"
+    ]
+  },
+  {
+    "value": "Lâmpada Comum",
+    "synonyms": [
+      "Lâmpada comum",
+      "lampada comum",
+      "lampada incandescente",
+      "lâmpada incandescente",
+      "lampada"
+    ]
+  },
+  {
+    "value": "Lâmpada Halógena",
+    "synonyms": [
+      "Lâmpada halógena",
+      "lampada halogena",
+      "halogena",
+      "lampada de halogena"
+    ]
+  }
+]

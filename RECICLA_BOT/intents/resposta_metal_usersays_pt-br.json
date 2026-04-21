@@ -1,0 +1,530 @@
+[
+  {
+    "id": "b8d13c47-99a5-48df-8057-6c6fe3c57cc4",
+    "data": [
+      {
+        "text": "metal",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cd22f471-8a45-47f2-97ae-9068cf2905c7",
+    "data": [
+      {
+        "text": "Metal",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5ee9f97d-6a39-4cee-beee-9b6d76f347f3",
+    "data": [
+      {
+        "text": "lata",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca2409c1-2e0e-4ae0-9819-57423b33b3a0",
+    "data": [
+      {
+        "text": "alumínio",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "preciso descartar ",
+        "userDefined": false
+      },
+      {
+        "text": "latas",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-001",
+    "data": [
+      {
+        "text": "Lata de ",
+        "userDefined": false
+      },
+      {
+        "text": "aluminio",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " pode recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-002",
+    "data": [
+      {
+        "text": "Preciso amassar ",
+        "userDefined": false
+      },
+      {
+        "text": "lata",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " antes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-003",
+    "data": [
+      {
+        "text": "Onde descarto ",
+        "userDefined": false
+      },
+      {
+        "text": "lata de refrigerante",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-004",
+    "data": [
+      {
+        "text": "Lata ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "vai pro lixeiro comum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-005",
+    "data": [
+      {
+        "text": "O que fazem com o ",
+        "userDefined": false
+      },
+      {
+        "text": "aluminio",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " reciclada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-006",
+    "data": [
+      {
+        "text": "Vale a pena recycled ",
+        "userDefined": false
+      },
+      {
+        "text": "lata",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-007",
+    "data": [
+      {
+        "text": "Lata de ",
+        "userDefined": false
+      },
+      {
+        "text": "cerveja",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "vai na lixeira amarela?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-008",
+    "data": [
+      {
+        "text": "Quanto economiza recycled ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-009",
+    "data": [
+      {
+        "text": "E se a ",
+        "userDefined": false
+      },
+      {
+        "text": "lata",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "estiver amassada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-010",
+    "data": [
+      {
+        "text": "Metal ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "pode pro lixao comum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-011",
+    "data": [
+      {
+        "text": "Tampa de garrafa ",
+        "userDefined": false
+      },
+      {
+        "text": "vai junto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-012",
+    "data": [
+      {
+        "text": "Vale mais recycled ",
+        "userDefined": false
+      },
+      {
+        "text": "aluminio",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " ou ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-013",
+    "data": [
+      {
+        "text": "Lata de ",
+        "userDefined": false
+      },
+      {
+        "text": "conserva",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "pode recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-014",
+    "data": [
+      {
+        "text": "Metal ",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "demora quanto tempo pra recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-015",
+    "data": [
+      {
+        "text": "Ferro velho ",
+        "userDefined": false
+      },
+      {
+        "text": "onde descarta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-016",
+    "data": [
+      {
+        "text": "Misturar ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " com ",
+        "userDefined": false
+      },
+      {
+        "text": "plastico",
+        "meta": "@Material",
+        "alias": "material1",
+        "userDefined": false
+      },
+      {
+        "text": " estraga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-017",
+    "data": [
+      {
+        "text": "Lata de leite ",
+        "userDefined": false
+      },
+      {
+        "text": "pode recycled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-018",
+    "data": [
+      {
+        "text": "Tem ponto de coleta de ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "perto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-019",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "aluminio",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": "economiza energia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "leigo-metal-020",
+    "data": [
+      {
+        "text": "Posso reuse ",
+        "userDefined": false
+      },
+      {
+        "text": "lata",
+        "meta": "@Material",
+        "alias": "material",
+        "userDefined": false
+      },
+      {
+        "text": " em casa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

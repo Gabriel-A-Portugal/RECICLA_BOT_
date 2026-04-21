@@ -1,0 +1,62 @@
+{
+  "id": "d5e6f7a8-b9c0-4e1f-2a3b-4c5d6e9f0a1b",
+  "name": "confirmar_agendamento",
+  "auto": true,
+  "contexts": [
+    "aguarda_endereco"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguarda_confirmacao",
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2b9dada0-944b-4eaf-a649-4971fe86ffb8",
+          "name": "cidade",
+          "required": true,
+          "dataType": "@Localizacao",
+          "value": "$cidade",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual sua cidade?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Infelizmente não tenho acesso a sua localização. \nUma dica: procure no Google informações sobre a prefeitura da sua cidade, lá pode encontrar tudo sobre coletas e agendamentos.\n\nAlgo mais que posso ajudar?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

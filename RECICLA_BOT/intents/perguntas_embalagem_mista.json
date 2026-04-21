@@ -1,0 +1,35 @@
+{
+  "id": "7d6c5b4a-3c2d-1e0f-9a8b-7c6d5e4f3a2b",
+  "name": "perguntas_embalagem_mista",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Embalagens mistas como caixa de leite, caixa de suco e caixa de leite condensado sao chamadas de Tetra Pak ou longa vida.\n\nElas sao feitas de papel, plastico e aluminio. Sim, podem ser recicladas.\n\nO descarte correto:\n\nAmasse a caixa para economizar espaco\n\nNao precisa lavar, mas tire o excesso de liquido\n\nVerifique se sua cidade aceita Tetra Pak na coleta seletiva\n\nEm muitos lugares, vai para a lixeira azul (papel)\n\nAlgumas cidades tem pontos especificos de coleta para longa vida\n\nRegra pratica: Tetra Pak limpa e amassada pode ir para reciclagem. Consulte a prefeitura da sua cidade para confirmar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

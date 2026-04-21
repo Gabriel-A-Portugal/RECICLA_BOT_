@@ -1,0 +1,52 @@
+{
+  "id": "d4e6f8a0-b2c4-4e1d-9f1a-5b7c9d1e3f5a",
+  "name": "fallback_material_em_foco",
+  "auto": true,
+  "contexts": [
+    "material_em_foco"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "material_em_foco",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Desculpe, me distraí. 😅\n\nEstavamos falando sobre a reciclagem daquele material.\n\nVoce quer saber:\n- Se precisa lavar?\n- Em qual lixeira jogar?\n- Como preparar?\n\nOu prefere perguntar sobre outro material?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nao entendi, mas podemos continuar! 🤔\n\nEstavamos falando sobre como descartar aquele material.\n\nQuer saber algo mais especifico ou posso te ajudar com outro item?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

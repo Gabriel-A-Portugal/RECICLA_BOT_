@@ -1,0 +1,166 @@
+[
+  {
+    "id": "24416684-7e5b-493b-9c2c-84120c3a9ca2",
+    "data": [
+      {
+        "text": "procurei",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "649f847f-edab-48fc-97a4-f9b28c0db9ac",
+    "data": [
+      {
+        "text": "me indica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5a9075d1-d763-4b02-8a90-9b54824158d6",
+    "data": [
+      {
+        "text": "onde fica",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a659c0fc-3d4f-4c57-b0a9-5938caf76de9",
+    "data": [
+      {
+        "text": "qual o endereço",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e96a821d-5056-46b2-8a02-a02e17d72a01",
+    "data": [
+      {
+        "text": "me passa o ",
+        "userDefined": false
+      },
+      {
+        "text": "endereço",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "50b53d31-faef-44c2-b4cc-3b5877b1b238",
+    "data": [
+      {
+        "text": "qual ",
+        "userDefined": false
+      },
+      {
+        "text": "ponto mais próximo",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f7bb35a-8e12-47fc-a026-166e4c7f619d",
+    "data": [
+      {
+        "text": "onde encontro",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "81bed144-63e0-4e34-91e3-6e14756134e8",
+    "data": [
+      {
+        "text": "tem ",
+        "userDefined": false
+      },
+      {
+        "text": "algum ponto",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e87f3e2-e590-4bf8-86b6-4f7e41e72dd2",
+    "data": [
+      {
+        "text": "quais pontos",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d3f5247-b4dd-49ce-8956-4aa3ebedee56",
+    "data": [
+      {
+        "text": "não sei o ",
+        "userDefined": false
+      },
+      {
+        "text": "endereço",
+        "meta": "@Localizacao",
+        "alias": "cidade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

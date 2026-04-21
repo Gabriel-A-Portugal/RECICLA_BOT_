@@ -1,0 +1,159 @@
+{
+  "id": "b2c4d6e8-f0a2-4c8b-9d1e-3f5a7b9c2d4e",
+  "name": "duvida_significado_cores",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "perguntou_cor",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "49735983-3331-46ea-9712-fecea8e82365",
+          "name": "Cores_Lixeira",
+          "required": false,
+          "dataType": "@Cores_Lixeira",
+          "value": "$Cores_Lixeira",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "276526a4-bda9-4d95-8452-2a62f11877b8",
+          "name": "Material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$Material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O QUE VAI NA LIXEIRA $cores_lixeira?\n\nDeixe-me verificar para voce..."
+          ],
+          "condition": "$cores_lixeira \u003d \"azul\""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "LIXEIRA AZUL - PAPEL\n\nO que vai:\n- jornais e revistas\n- caixas de papelao\n- papel branco e sulfite\n- envelopes\n- cadernos\n\nO que NAO vai:\n- papel engordurado (caixa de pizza)\n- papel plastificado\n- papel carbonado\n- guardanapos sujos"
+          ],
+          "condition": "$cores_lixeira \u003d \"azul\""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "LIXEIRA VERDE - VIDRO\n\nO que vai:\n- garrafas de vidro\n- potes de vidro\n- frascos de vidro\n- copos de vidro\n\nO que NAO vai:\n- vidros quebrados soltos (embrulhe!)\n- espelhos\n- vidro temperado (Pirex)\n- bulbs de lampada"
+          ],
+          "condition": "$cores_lixeira \u003d \"verde\""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "LIXEIRA AMARELA - METAL\n\nO que vai:\n- latas de aluminio\n- latas de aco\n- tampinhas\n- arames\n- pregos\n- marmitex (bandeja de aluminio)\n\nO que NAO vai:\n- latas de tinta (levar ao ecoponto)\n- metal enferrujado contaminado"
+          ],
+          "condition": "$cores_lixeira \u003d \"amarelo\""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "LIXEIRA VERMELHA - PLASTICO\n\nO que vai:\n- garrafas PET\n- sacolas plasticas\n- embalagens de shampoo\n- potes de margarina\n- tampas plasticas\n\nO que NAO vai:\n- isopor (poliestireno)\n- plasticos muito sujos de gordura\n- plasticos contaminados"
+          ],
+          "condition": "$cores_lixeira \u003d \"vermelho\""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "LIXEIRA MARROM - ORGANICO\n\nO que vai:\n- restos de comida\n- cascas de fruta\n- borra de cafe\n- cascas de ovo\n- folhas e podas\n\nAlternativa:\n- Use uma composteira em casa!"
+          ],
+          "condition": "$cores_lixeira \u003d \"marrom\""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "LIXEIRA BRANCA - REJEITO\n\nO que vai:\n- tudo que nao e reciclavel\n- fraldas descartaveis\n- papel higienico\n- plasticos muito sujos\n- isopor\n\nLembre-se: quando em duvida, DESCARTAR NA LIXEIRA DE REJEITO."
+          ],
+          "condition": "$cores_lixeira \u003d \"branco\""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "LIXEIRA CINZA - REJEITO\n\nO que vai:\n- tudo que nao e reciclavel\n- plasticos contaminados\n- objetos mistos\n\nEsta cor pode variar conforme a cidade."
+          ],
+          "condition": "$cores_lixeira \u003d \"cinza\""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "LIXEIRA ROXA - DESCARTAR MEDICAMENTOS\n\nO que vai:\n- medicamentos vencidos\n- embalagens de remedio\n- cartelas vazias\n\nOnde encontrar:\n- Farmacias participantes\n- Postos de saude\n- Ecopontos\n\nNAO DESCARTAR NO LIXO COMUM!"
+          ],
+          "condition": "$cores_lixeira \u003d \"roxo\""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "CORES DAS LIXEIRAS (PADRAO BRASILEIRO):\n\nAZUL - Papel\nVERDE - Vidro\nAMARELO - Metal\nVERMELHO - Plastico\nMARROM - Organico\nBRANCO/CINZA - Rejeito\nROXO - Medicamentos\n\nQuer saber mais sobre algum material especifico?"
+          ],
+          "condition": "$cores_lixeira is empty"
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

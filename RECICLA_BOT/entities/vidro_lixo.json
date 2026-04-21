@@ -1,0 +1,9 @@
+{
+  "id": "7a6b5c4d-3e2f-1a0b-9c8d-7e6f5a4b3c2d",
+  "name": "vidro_lixo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

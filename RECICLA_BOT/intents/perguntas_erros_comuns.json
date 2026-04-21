@@ -1,0 +1,35 @@
+{
+  "id": "8e7d6c5b-4a3c-2d1e-0f9a-8b7c6d5e4f3a",
+  "name": "perguntas_erros_comuns",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Erros comuns que inviabilizam a reciclagem:\n\nPlastico, vidro ou metal com resto de comida: materiais precisam estar limpos e secos\n\nCaixa de pizza engordurada: gordura contamina o papel, vai no lixo comum\n\nIsopor na reciclagem: maioria das cidades nao recicla, vai no lixo comum\n\nEmbalagens com rotulo ou tampa de material diferente: separe antes de descartar\n\nSacolas plasticas misturadas com plastico rigido: atrapalham as maquinas\n\nCacos de vidro no vidro: risco aos coletores, embrulhe e va para lixo comum\n\nPilhas e baterias no lixo comum: contaminam o solo, leve a pontos de coleta\n\nResto de comida no organico: se tiver carne ou oleo, nao vai para compostagem\n\nComo evitar: limpe embalagens, remova restos de comida, verifique as regras da sua cidade"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

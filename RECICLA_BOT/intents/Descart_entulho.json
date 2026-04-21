@@ -1,0 +1,50 @@
+{
+  "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+  "name": "Descart_entulho",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+          "name": "entulho_lixo",
+          "required": true,
+          "dataType": "@entulho_lixo",
+          "value": "$entulho_lixo",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para descartar entulho de construcao corretamente:\n\nTijolos e cacos de ceramica nao vao no lixo comum\n\nEntulho deve ser descartado em caçambas especiais\n\nRestos de obra nao vao na coleta seletiva comum\n\nVerifique caçambas autorizadas na sua regiao\n\nPequenas quantidades podem ir para pontos de entulho da prefeitura"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

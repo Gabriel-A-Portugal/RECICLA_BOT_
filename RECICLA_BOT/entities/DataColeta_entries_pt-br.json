@@ -1,0 +1,135 @@
+[
+  {
+    "value": "segunda-feira",
+    "synonyms": [
+      "segunda",
+      "segunda-feira",
+      "seg",
+      "2ª",
+      "2a"
+    ]
+  },
+  {
+    "value": "terça-feira",
+    "synonyms": [
+      "terça",
+      "terça-feira",
+      "ter",
+      "3ª",
+      "3a"
+    ]
+  },
+  {
+    "value": "quarta-feira",
+    "synonyms": [
+      "quarta",
+      "quarta-feira",
+      "qua",
+      "4ª",
+      "4a"
+    ]
+  },
+  {
+    "value": "quinta-feira",
+    "synonyms": [
+      "quinta",
+      "quinta-feira",
+      "qui",
+      "5ª",
+      "5a"
+    ]
+  },
+  {
+    "value": "sexta-feira",
+    "synonyms": [
+      "sexta",
+      "sexta-feira",
+      "sex",
+      "6ª",
+      "6a"
+    ]
+  },
+  {
+    "value": "sábado",
+    "synonyms": [
+      "sabado",
+      "sábado",
+      "sáb",
+      "sab"
+    ]
+  },
+  {
+    "value": "domingo",
+    "synonyms": [
+      "domingo",
+      "dom",
+      "domingão"
+    ]
+  },
+  {
+    "value": "semanal",
+    "synonyms": [
+      "semanal",
+      "uma vez por semana",
+      "todas as semanas",
+      "uma vez na semana"
+    ]
+  },
+  {
+    "value": "quinzenal",
+    "synonyms": [
+      "quinzenal",
+      "a cada 15 dias",
+      "duas vezes por mês"
+    ]
+  },
+  {
+    "value": "manhã",
+    "synonyms": [
+      "manhã",
+      "de manhã",
+      "pela manhã",
+      "matinal",
+      "amanhecer"
+    ]
+  },
+  {
+    "value": "tarde",
+    "synonyms": [
+      "tarde",
+      "à tarde",
+      "pela tarde",
+      "vespertino"
+    ]
+  },
+  {
+    "value": "noite",
+    "synonyms": [
+      "noite",
+      "à noite",
+      "pela noite",
+      "noturno"
+    ]
+  },
+  {
+    "value": "Amanhã",
+    "synonyms": [
+      "Amanhã",
+      "dia seguinte",
+      "dia imediato",
+      "dia posterior",
+      "futuro",
+      "porvir",
+      "devir",
+      "quando vem",
+      "quando passa"
+    ]
+  },
+  {
+    "value": "Agendar",
+    "synonyms": [
+      "Agendar",
+      "agenda"
+    ]
+  }
+]

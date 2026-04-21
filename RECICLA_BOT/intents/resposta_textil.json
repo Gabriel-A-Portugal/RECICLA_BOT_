@@ -1,0 +1,79 @@
+{
+  "id": "f6a8b0c2-d4e6-4a3f-1b3c-7d9e1f3a5b7c",
+  "name": "resposta_textil",
+  "auto": true,
+  "contexts": [
+    "aguardando_material"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "aguardando_material",
+          "lifespan": 3
+        },
+        {
+          "name": "perguntou_material",
+          "lifespan": 2
+        },
+        {
+          "name": "material_em_foco",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d3a5b5b0-167c-4696-a9aa-320783479091",
+          "name": "material",
+          "required": false,
+          "dataType": "@Material",
+          "value": "$material",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "771fc93d-c988-4fb2-88e8-fa3e40695ab2",
+          "name": "Duvidas_Reciclagem",
+          "required": false,
+          "dataType": "@Duvidas_Reciclagem",
+          "value": "$Duvidas_Reciclagem",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "TÊXTIL (ROUPA, SAPATO, TECIDO) 👕👟\n\nO QUE FAZER:\n- Roupas em BOM ESTADO: DOE para ONGs, brechós ou amigos\n- Roupas velhas e sujas: verifique se sua cidade tem coleta específica\n- Tecidos grandes (cortinas, carpets): pontos de coleta de textile recycling\n\nO QUE NÃO FAZER:\n- NÃO jogue na lixeira comum (polui o meio ambiente por anos!)\n- NÃO coloque na reciclagem comum (não é processado corretamente)\n\nPODE JOGAR NO LIXO COMUM?\n- Apenas se estiver MUITO sujo (manchas, sangue) ou íntimo usado\n- Roupas íntimas com uso: SIM, pode ir no lixo comum\n- Roupas rasgadas muito danificadas: SIM\n\nDICAS IMPORTANTES:\n🧥 Roupas boas: Doe! Muitas ONGs aceitam roupas em bom estado\n👟 Sapatos: Separe pares e doe ou leve a pontos de coleta\n🧵 Couro: Separe do plástico/metal quando possível\n🛏️ Edredom/Cobertor: Se em bom estado, doe; caso contrário, verifique coleta específica\n\nSAIBA MAIS:\n- Algumas cidades têm contêineres de coleta de roupas\n- Brechós sociais aceitam roupas em bom estado\n- Cooperativas de reciclagem têxtil estão crescendo no Brasil\n\nPosso ajudar com outro material? Informe: plástico, vidro, metal, papel, orgânico, pilha, óleo, eletrônico, medicamento, lixo comum, têxtil, móveis, construção ou vidro especial."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

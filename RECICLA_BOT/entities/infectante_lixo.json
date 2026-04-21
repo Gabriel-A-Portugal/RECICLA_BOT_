@@ -1,0 +1,9 @@
+{
+  "id": "2a1b0c9d-8e7f-6a5b-4c3d-2e1f0a9b8c7d",
+  "name": "infectante_lixo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
