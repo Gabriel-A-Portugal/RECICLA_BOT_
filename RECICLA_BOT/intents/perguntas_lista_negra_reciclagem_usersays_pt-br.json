@@ -128,5 +128,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "58f1a092-bd04-4133-9d9f-5c8f9ac758f1",
+    "data": [
+      {
+        "text": "não reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "abe85bfa-5d16-421c-9139-53a10c4ba835",
+    "data": [
+      {
+        "text": "lista negra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "03d78c04-7c32-4513-b55c-8c633feae23e",
+    "data": [
+      {
+        "text": "o que não reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8a2b3e2e-8cc9-44f1-9595-fad3521eff0c",
+    "data": [
+      {
+        "text": "proibido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7ccbda08-3c3d-45b5-b326-7b4bc089d674",
+    "data": [
+      {
+        "text": "não aceito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f9f62c9-4dba-440e-b318-d728bba0ca2f",
+    "data": [
+      {
+        "text": "nao reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ac4b1ee8-77f2-4895-8e9e-9bd26b869861",
+    "data": [
+      {
+        "text": "items nao aceitos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0012c08c-08f7-48f0-974a-618ba423a321",
+    "data": [
+      {
+        "text": "o que nao vai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "80153e76-d082-4b97-9df0-8ad034072c36",
+    "data": [
+      {
+        "text": "o que não vai para reciclagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "397abd33-c4b5-41a6-b5c7-a878b4e82147",
+    "data": [
+      {
+        "text": "nao recicláveis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c96032d8-1dcb-4280-b6c6-44d8d81e3734",
+    "data": [
+      {
+        "text": "o que não serve",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8fd3c769-a7b6-4c70-b9b6-0e10b7e38d5c",
+    "data": [
+      {
+        "text": "o que nãoaceito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "458ac52c-354c-49b2-acf8-a0274844e59c",
+    "data": [
+      {
+        "text": "o que é proibido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2bad8f65-15a8-4133-8e12-801df03c95ca",
+    "data": [
+      {
+        "text": "itens proibidos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4491cc05-fc60-43df-a84c-f794a6ac954b",
+    "data": [
+      {
+        "text": "não aceitos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

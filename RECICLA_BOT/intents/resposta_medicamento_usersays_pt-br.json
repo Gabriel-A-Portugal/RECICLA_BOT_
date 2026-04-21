@@ -58,5 +58,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "4c9b6f2b-2b47-4210-b113-c0d403848922",
+    "data": [
+      {
+        "text": "Medicamento vai para farmácia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "051bdae0-78d1-4919-892b-35f47e1429b8",
+    "data": [
+      {
+        "text": "descarte na farmácia mais próxima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4b848ef-dd43-49b1-b8dd-bcd0cdc83c0b",
+    "data": [
+      {
+        "text": "farmácia recebe medicamentos vencidos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fc0ef300-2586-4fdd-9723-3559547fe8d2",
+    "data": [
+      {
+        "text": "nao descarte no lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2a3f817b-dcd0-4622-a37b-436496b991be",
+    "data": [
+      {
+        "text": "pharma recebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f45eb044-703d-4093-9a6f-eb1df6f67a42",
+    "data": [
+      {
+        "text": "leve a uma farmácia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

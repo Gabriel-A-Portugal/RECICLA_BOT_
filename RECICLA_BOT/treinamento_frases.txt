@@ -1,0 +1,1273 @@
+# frases de Treinamento para o Bot RECICLA_BOT
+# Organize por Intent com varyings de perguntas (curtas e longas)
+
+================================================================================
+INTENT: Descart_plastico
+================================================================================
+1. preciso descartar Plástico
+2. onde jogo plastico
+3. como descartar plástica
+4. descartar plastica suja
+5. qual a lixeira para de plastico
+6. preciso me livrar de de plástico
+7. onde coloco embalagem plastica
+8. como jogar embalagem plástica fora
+9. onde jogo Garrafa pet
+10. como descartar garrafa pet vazia
+11. descartar pet
+12. qual a lixeira para garrafa plastica
+13. preciso jogar garrafa plástica fora
+14. onde descarto garrafa de refrigerante
+15. como descartar garrafinha d'agua
+16. preciso me livrar de garrafinha de agua
+17. onde coloco garrafinha d'água
+18. descartar garrafinha de água
+19. qual a lixeira para garrafa d'agua
+20. preciso descartar garrafa d'água
+21. onde jogo garrafinha dagua
+22. como descartar garrafinha
+23. descartar Saco plástico
+24. preciso jogar saco plastico fora
+25. onde coloco saco plástico
+26. qual a lixeira para sacolinha
+27. como descartar sacola plastica
+28. preciso me livrar de sacola plástica
+29. onde jogo pote de margarina
+30. preciso descartar pote de iogurte
+31. como descartar Talher descartavel
+32. qual lixeira para talher descartável
+33. preciso jogar copinho plastico fora
+34. onde coloco copao descartavel
+35. descartar copao descartável usado
+36. como descartar canudo
+37. preciso me livrar de canudinho
+38. onde jogo Tampa
+39. qual a lixeira para tampa
+40. descartar tampa plastica
+41. descartar tampa plástica
+42. preciso descartar tampa plástica
+43. como jogar tampinha fora
+44. plastico
+45. Plástico
+46. como descarto garrafa pet
+47. Onde posso descartar embalagem plástica
+48. como descartar saquinho de biscoito
+49. onde jogo saquinho de salgadinho
+50. preciso descartar saquinho de batata frita
+51. esse saquinho de snacks pode reciclar
+52. como descartar embalagem de bolacha
+53. onde jogo saco de bolacha
+54. preciso jogar fora saquinho de bolacha
+55. esse pacote de bolacha vai para reciclagem
+
+================================================================================
+INTENT: Descart_papel
+================================================================================
+1. onde jogo papel
+2. como descartar papel
+3. descartar papelão
+4. onde descarto纸箱
+5. preciso descartar caixa de papelão
+6. qual lixeira para papel
+7. descarta papelão usado
+8. onde coloco papelão
+9. como jogar caixa de papelão fora
+10. onde jogo caixa de pizza
+11. preciso descartar caixa de pizza vazia
+12. como descartar caixa de pizza
+13. onde coloco jornal
+14. como descartar jornal velho
+15. preciso me livrar de revistas
+16. onde jogo revista antiga
+17. descartar revistas velhas
+18. onde coloco caixa de sapato
+19. preciso descartar caixa de sapato
+20. como descartar envelope
+21. onde jogo envelope
+22. descarta papel de presente
+23. onde descarto papel de embrulho
+24. preciso me livrar de papel kraft
+25. onde jogo papel craft
+
+================================================================================
+INTENT: Descart_vidro
+================================================================================
+1. onde jogo vidro
+2. como descartar vidro
+3. descartar garrafa de vidro
+4. onde coloco garrafa de vidro
+5. qual lixeira para vidro
+6. preciso descartar garrafa de vidro
+7. onde descarto vidro quebrado
+8. como descartar vidro quebrado
+9. vidro pode reciclar
+10. onde jogo frasco de vidro
+11. descarta frasco de perfume
+12. onde coloco pote de vidro
+13. como descartar pote de vidro
+14. preciso me livrar de vidro
+15. vidros recicláveis
+16. onde jogo jarra de vidro
+17. descarta jarra quebrada
+18. onde coloco garrafa de vinho
+19. como descartar copos de vidro
+
+================================================================================
+INTENT: Descart_metal
+================================================================================
+1. onde jogo metal
+2. como descartar metal
+3. descarta lata de aluminio
+4. onde coloco lata de refrigerante
+5. qual lixeira para lata
+6. preciso descartar lata de alumínio
+7. onde descarto lata de cerveja
+8. como descartar lata de cerveja
+9. lata vai para reciclagem
+10. onde jogo lata de sardinha
+11. descarta caixa de metal
+12. onde coloco/tampa de metal
+13. como descartar aluminio
+14. preciso me livrar de metal
+15. reciclagem de metal
+16. onde jogo ferragem
+17. descarta prego
+18. onde coloco arame
+19. como descartar fios de cobre
+
+================================================================================
+INTENT: Descart_organico
+================================================================================
+1. onde jogo/orgânico
+2. como descartar orgânico
+3. descartar resto de comida
+4. onde coloco resto de alimento
+5. qual lixeira para orgânico
+6. preciso descartar resto de comida
+7. onde descarto casca de banana
+8. como descartar casca de fruta
+9./orgânico vai para compostagem
+10. onde jogo restos de hortaliça
+11. descarta resto de arroz
+12. onde coloco/osso de carne
+13. como descartar/osso
+14. preciso me livrar de/orgânico
+15. compostagem de/orgânico
+16. onde jogo resto de pão
+17. descarta borra de café
+18. onde coloco/cascas de ovo
+
+================================================================================
+INTENT: Descart_eletronico
+================================================================================
+1. onde jogo eletrônico
+2. como descartar eletrônico
+3. descartar computador velho
+4. onde coloco celular antigo
+5. qual lixeira para eletrônico
+6. preciso descartar celular quebrado
+7. onde descarto celular
+8. como descartar celular
+9./eletrônico vai para reciclagem
+10. onde jogo телеfon sem uso
+11. descarta телеfon antigo
+12. onde coloco/notebook
+13. como descartar notebook
+14. preciso me livrar de/televisor
+15. reciclagem de/eletrônico
+16. onde jogo monitor
+17. descarta teclado quebrado
+18. onde coloco/mouse
+19. como descartar mouse
+
+================================================================================
+INTENT: Descart_oleo
+================================================================================
+1. onde jogo óleo
+2. como descartar óleo
+3. descartar óleo usado
+4. onde coloco óleo de cozinha
+5. qual lixeira para óleo
+6. preciso descartar óleo de fritura
+7. onde descarto óleo residual
+8. como descartar azeite usado
+9. óleo vai para reciclagem
+10. onde jogo gordura
+11. descarta óleo de cozinha
+12. onde coloco/óleo de fritura
+13. como descartar gordura de fritura
+14. preciso me livrar de/óleo
+15. reciclagem de/óleo
+16. onde jogo óleo de fries
+17. descarta restos de óleo
+18. onde coloco/óleo旧的
+
+================================================================================
+INTENT: Descart_bateria
+================================================================================
+1. onde jogo bateria
+2. como descarta pilha
+3. descartar pilha usada
+4. onde coloco pilhas
+5. qual lixeira para pilha
+6. preciso descartar bateria queimada
+7. onde descarto pilhaaa
+8. como descartar pilha
+9. pilha vai paraciclagem
+10. onde jogo pilha de controle
+11. descarta pilha agotada
+12. onde coloco/bateria de celular
+13. como descartar/bateria
+14. preciso me livrar de pilha
+15. reciclagem de pilha
+16. onde jogo pilhas descargadas
+17. descarta acumulador
+18. onde coloco/bateria de carro
+19. como descarta/bateria veicular
+
+================================================================================
+INTENT: Descart_lampada
+================================================================================
+1. onde jogo lâmpada
+2. como descartar lâmpada
+3. descartar лампа queimada
+4. onde coloco лампа usada
+5. qual lixeira para лампа
+6. preciso descartar ламpo fluorescente
+7. onde descarto лампа
+8. como descartar лампа fluorescente
+9. лампа vai para reciclagem
+10. onde jogo лампа LED
+11. descarta ламpa econômic
+12. onde coloco/luz economica
+13. como descartar/luz economica
+14. preciso me livrar de лампа
+15. reciclagem de лампа
+16. onde jogo бомбита
+17. descarta бомбита gasta
+18. onde coloco/luz de led
+19. como descartar tubo fluorescente
+
+================================================================================
+INTENT: Descart_medicamento
+================================================================================
+1. onde jogo medicamento
+2. como descartar remédio
+3. descartar remédio vencido
+4. onde coloco remédio antigo
+5. qual lixeira para remédio
+6. preciso descartar remédio velho
+7. onde descarto remédio
+8. como descartar薹路无用
+9. remédio vai para descarte correto
+10. onde jogo antibiótico vencido
+11. descarta remídio expirado
+12. onde coloco/medicamento
+13. como descartar/medicamento
+14. preciso me livrar de remdio
+15. descarte adequado de medicamento
+16. onde jogo seringas usadas
+17. descarta obat vencidos
+18. onde coloco/injeção usada
+
+================================================================================
+INTENT: Descart_perfurocortante
+================================================================================
+1. onde jogo perfurocortante
+2. como descartar قصافة
+3. descartar agulha usada
+4. onde coloco agulha
+5. qual lixeira para agulha
+6. preciso descartar agulha de injeção
+7. onde descarto коротча
+8. como descartar syringe
+9. perfurocortante vai para descarte específico
+10. onde jogo lâmina de barbear
+11. descarta lamina usada
+12. onde coloco/espinho
+13. como descartar/espinho
+14. preciso me livrar de agulhia
+15. descarte de perfurocortante
+16. onde jogo faca velha
+17. descarta tesoura sem uso
+18. onde coloco/clipes
+
+================================================================================
+INTENT: Descart_comum
+================================================================================
+1. onde jogo lixo comum
+2. como descartar lixo
+3. descartar resto não reciclável
+4. onde coloco lixo doméstico
+5. qual lixeira para resto
+6. preciso descartar bituca de cigarro
+7. onde descarto espuma
+8. como descartar/isopor contaminado
+9. lixo comum vai para aterro
+10. onde jogo guardanapo usado
+11. descarta papel	higiênico
+12. onde coloco/cimento
+13. como descartar cimento
+14. preciso me livrar de entulho
+15. descarte de lixo comum
+16. onde jogo brita
+17. descarta azulejo
+18. onde coloco/telha
+
+================================================================================
+INTENT: Descart_textil
+================================================================================
+1. onde jogo textil
+2. como descarta roupa velha
+3. descartar tecido usado
+4. onde coloco ropa antiga
+5. qual lixeira para textil
+6. preciso descartar calcinha
+7. onde descarto calcado
+8. como descartar calcado velho
+9. textil vai para reutilização
+10. onde jogo sapato velho
+11. descarta chinelo usado
+12. onde coloco/botina
+13. como descartar/botina
+14. preciso me livrar de blusa
+15. descarte de textil
+16. onde jogo bolsa usada
+17. descarta cartera
+18. onde coloco/mochila
+
+================================================================================
+INTENT: Descart_quimico
+================================================================================
+1. onde jogo residuo quimico
+2. como descartar продук токсичный
+3. descartar pilha电池
+4. onde colonto bateriah
+5. qual lixeira para residuo perigoso
+6. preciso descartar produto químico
+7. onde descarto tinta
+8. como descartar solvente
+9. residuo vai para tratamento específico
+10. onde jogo tinta usada
+11. descarta verniz
+12. onde coloco/ácido
+13. como descartar/ácido
+14. preciso me livrar de produto perigoso
+15. descarte de químico
+16. onde jogo pilha agotada
+17. descarta bateria vazia
+18. onde coloco/mercúrio
+
+================================================================================
+INTENT: Descart_isopor
+================================================================================
+1. onde jogo isopor
+2. como descartar isopor
+3. descartar isopor contaminado
+4. onde coloco isopor
+5. qual lixeira para isopor
+6. preciso descartar isopor de包装
+7. onde descarto isopor de pizza
+8. como descartar isopor de embalagem
+9. isopor pode ser reciclado
+10. onde jogo isopor de sushi
+11. descarta(isopor) de marcação
+12. onde coloco isopor mole
+13. como descartar isopor mole
+14. preciso me livrar de isopor
+15. reciclagem de isopor
+16. onde jogo(isopor) de proteção
+17. descarta isopor de entrega
+18. onde coloco(isopor) de ovo
+
+================================================================================
+INTENT: Descart_infectante
+================================================================================
+1. onde jogo residuo infectante
+2. como discardinguinfectado
+3. descartar material biologico
+4. onde coloco material contaminado
+5. qual lixeira para infectante
+6. preciso descartar luva usada
+7. onde descarto luva cirurgica
+8. como descartar luva descartável
+9. infectante requer descarte específico
+10. onde jogo gazes usados
+11. descarta curativo sujo
+12. onde coloco/ataduras
+13. como descartar/ataduras
+14. preciso me livrar de material infectado
+15. descarte de infectante
+16. onde jogo absorvente usado
+17. descarta fralda
+18. onde coloco/mascara
+
+================================================================================
+INTENT: Descart_entulho
+================================================================================
+1. onde jogo entulho
+2. como discardeduplo de construção
+3. descartar resto de obra
+4. onde coloco entulho de construção
+5. qual lixeira para entulho
+6. preciso descartar resto de reforma
+7. onde descarto tijolo quebrado
+8. como descartar tijolo
+9. entulho vai para aterro sanitário
+10. onde jogo pedaço de concreto
+11. descarta piso quebrado
+12. onde coloco/piso
+13. como descartar/piso
+14. preciso me livrar de resto de obra
+15. descarte de entulho
+16. onde jogo azulejo quebrado
+17. descarta louça quebrada
+18. onde coloco/basalto
+
+================================================================================
+INTENT: Descart_ambiguo
+================================================================================
+1. não sei qual lixeira usar
+2. estou em dúvida sobre o descarte
+3. não sei descartar isso
+4. pode me ajudar com o descarte
+5. não sei onde jogar isso
+6. preciso de orientação
+7. como faço para descartar isso
+8. pode me dizer onde descarta ess
+9. tenho dúvidas sobre reciclaje
+10. qual container devo usar
+11. em qual lixeira coloca ess
+12. nao sei separar ISSO
+13. me ajuda a descartar
+14. preciso saber onde jogar
+15. onde descarto ess material
+16. como identificar a lixeira certa
+
+================================================================================
+INTENT: buscar_pontos_coleta
+================================================================================
+1. procurei (cidade)
+2. me indica
+3. onde fica (cidade)
+4. qual o endereço
+5. me passa o endereço
+6. qual ponto mais próximo
+7. onde encontro
+8. tem algum ponto
+9. quais pontos
+10. não sei o endereço
+11. onde fica o ponto de reciclagem
+12. preciso encontrar ponto de coleta
+13. me indica o local mais próximo
+14. qual o ponto de entrega
+15. onde fica o ecoponto
+16. tem ecoponto perto de mim
+17. onde é o ponto de reciclagem
+18. me passa o local
+19. onde posso levar recicláveis
+20. preciso localizar ponto de coleta
+21. qual o endereço mais próximo
+22. me indica um ponto
+23. onde está o colector
+24. quais os pontos
+25.地址在哪裡
+
+================================================================================
+INTENT: agendar_coleta
+================================================================================
+1. agendar (data) coleta
+2. agendar (data) coleta de recicláveis
+3. quando vem a coleta
+4. quando (data) coleta
+5. coleta seletiva
+6. buscar (data) recicláveis
+7. agendar (data)
+8. agendar (data) retirada
+9. retirada de materiais
+10. buscar (data) material
+11. quero agendar coleta
+12. preciso de coleta
+13. como faço para agendar
+14. ondeizam reciclável
+15. tem coleta na minha casa
+16. quero agendar retirada
+17. pode buscar meus recicláveis
+18. quando passa o caminhão
+19. faz coleta em domicílio
+20. serviço de coleta
+21. agendar remoção de entulho
+22. preciso agendar retirada
+23. como solicitar coleta
+24. tem coleta programada
+25. quero agendar data
+
+================================================================================
+INTENT: confirmar_agendamento
+================================================================================
+1. confirmar coleta
+2. está correto
+3. pode confirmar
+4. tá bom
+5. está certo assim
+6. confirma o agendamento
+7. ok, está correto
+8. pode fazer assim
+9. está certo
+10. confirmo
+11. tá certo
+12. pode agendar
+13. proceed
+14. correto
+15. tá bom assim
+
+================================================================================
+INTENT: detalhar_material_coleta
+================================================================================
+1. quais materiais coleta
+2. o que posso descartar
+3. quais itens aceita
+4. quais tipos de material
+5. o que é coletado
+6. quais resíduos
+7. quais recicláveis
+8. materiais aceitos
+9. o que levam
+10. quais produtos
+11. o que pode ser coletado
+12. tipos de material
+13. o que é reciclável
+14. materiais para coleta
+15. itens aceitos
+
+================================================================================
+INTENT: cidades_nao_encontrada
+================================================================================
+1. não encontrei minha cidade
+2. minha cidade não tem
+3. não localizou
+4. não encontrei
+5. não tem na minha região
+6. nao achei minha cidade
+7. minha cidade não está
+8. não tem ponto aqui
+9. nao tem coleta na minha cidade
+10. nao tem serviço na minha cidade
+11. preciso saber se tem na minha cidade
+12. minha cidade não temecoponto
+
+================================================================================
+INTENT: cores_lixeira
+================================================================================
+1. cores das lixeiras
+2. significa lixeira azul
+3. qual cor para papel
+4. lixeira vermelha
+5. cores corretas
+6. código de cores
+7. cores dos contenedores
+8. significado das cores
+9. cor para vidro
+10. lixeira verde
+11. lixão colorid
+12. cores垃圾分类
+13. lixeiras padronizadas
+14. padrão de cores
+15. cores para separação
+
+================================================================================
+INTENT: duvidas_gerais_reciclagem
+================================================================================
+1. como funciona a reciclagem
+2. o que é reciclagem
+3. me explica reciclagem
+4. porque reciclar
+5. importancia da reciclagem
+6. beneficios da reciclagem
+7. quero saber sobre reciclagem
+8. me conta sobre reciclagem
+9. explica o processo
+10. como é feito
+11. o que acontece depois
+12. para onde vai
+13. como funciona
+14. onde termina
+15. me ajuda a entender
+
+================================================================================
+INTENT: duvida_preparacao
+================================================================================
+1. como preparar para coleta
+2. preciso lavar
+3. precisa limpar
+4. como limpar embalagens
+5. devo enjuagar
+6. precisa secar
+7. como dobrar caixa
+8. amassar latinha
+9. precisa汐没
+10. devo separar por cor
+11. como separar materiais
+12. preparação para coleta
+13. preciso fazer antes
+14. como preparar
+15. instruções de preparação
+
+================================================================================
+INTENT: informacoes_lixeiras
+================================================================================
+1. informações sobre lixeiras
+2. quantas lixeiras preciso
+3. quantos contenedores
+4. como posicionar
+5. onde colocar
+6. número de lixeiras
+7. qual o ideal
+8. tipo de lixeira
+9. recomendação
+10. qual melhor
+11. preciso de quantas
+12. como organizar
+13. sugestão de quantidade
+14. quantidade indicada
+15. organização recomendada
+
+================================================================================
+INTENT: perguntas_horarios
+================================================================================
+1. que horas vem
+2. qual horário
+3. quando passa
+4. horario da coleta
+5. horas de passagem
+6. que hora passa
+7. qual a hora
+8. qual o turno
+9. manha ou tarde
+10. turno da semana
+11. dias de coleta
+12. qual dia passa
+13. semanal ou quinzenal
+14. periodicidade
+15. quando será a próxima
+
+================================================================================
+INTENT: perguntas_coleta_regiao
+================================================================================
+1. atende minha região
+2. serviço na minha rua
+3. chega na minha bairro
+4. faz coleta aqui
+5. tem na minha área
+6. zona cobertura
+7. região atendida
+8. bairro incluído
+9.local coberto
+10. área de atendimento
+11. zona urbana
+12. quais bairros
+13. endereços atendidos
+14. wilayah yang dilayan
+15. daerah servicio
+
+================================================================================
+INTENT: perguntas_condominio_coleta
+================================================================================
+1. coleta em condominio
+2. moro em apartamento
+3. prédio precisa
+4. como funciona para condominio
+5. tem container no condominio
+6. prédio coletivo
+7. area comum
+8. gestão de residuos
+9. condominio precisa de
+10. apartamento tem coleta
+11. moro em building
+12. kolektor di apartemen
+13. como fazer
+14. procedimentopara préd
+15. instructions
+
+================================================================================
+INTENT: perguntas_apartamento_espaco
+================================================================================
+1. espaco pequeno
+2. apartamento pequeno
+3. pouco espaço
+4. onde guardar
+5. como organizar
+6. espaço limitado
+7. apartamento pequeno
+8. local reducido
+9. sem espaço
+10. area minima
+11. área limitada
+12. Storage options
+13. alternativas
+14. solução
+15. recommendations
+
+================================================================================
+INTENT: perguntas_diferenca_lixos
+================================================================================
+1. qual a diferença
+2. não sei diferenciar
+3. como saber
+4. distinguir
+5. como identificar
+6. quando é reciclável
+7. como saber se reciclável
+8. различи
+9. differentiates
+10. como separar
+11. criteria
+12. características
+13. como distingue
+14. diferenciação
+15. identificação
+
+================================================================================
+INTENT: perguntas_mesmo_caminhao
+================================================================================
+1. mesmo caminhão
+2. tudo no mesmo caminhão
+3. misturar
+4. pode misturar
+5. seperate
+6. separada
+7. bersama
+8. uno mismo
+9. bersama
+10. mismo veículo
+11. mismo caminho
+12. same truck
+13. mismo caminhao
+14. together
+15. same vehicle
+
+================================================================================
+INTENT: perguntas_misturar_reciclaveis
+================================================================================
+1. pode misturar recicláveis
+2. mistura recicláveis
+3. misturar diferentes materiais
+4. juntos
+5. mismo container
+6. junto
+7. puede mezclar
+8. mismo recipients
+9. puedo mezclar
+10. all in one
+11. tudo zusammen
+12. together
+13. same bin
+14. same container
+15. together
+
+================================================================================
+INTENT: perguntas_importancia_separar
+================================================================================
+1.为什么要separar
+2. importancia
+3.分离的原因
+4.为什么 fazer
+5. razón分离
+6. benefits
+7. benefícios
+8. vantaggens
+9. importar
+10. importance of separating
+11. why separate
+12. separar importa
+13. purpose of separating
+14. rationale
+15. reason to separate
+
+================================================================================
+INTENT: perguntas_aprender_separar
+================================================================================
+1. como aprender
+2. quero aprender
+3. ensinar
+4. me ensina
+5. me explicar
+6. como saber
+7. como distinguir
+8. como identificar
+9. necesito aprender
+10. quiero saber
+11. como discern
+12. quiero entender
+13. necesito saber
+14. quiero conocer
+15. como diferenciar
+
+================================================================================
+INTENT: perguntas_erros_comuns
+================================================================================
+1. erro comum
+2. mistake
+3. o que não fazer
+4. o que evitar
+5. erros frequentes
+6. equivocos
+7. kesalahan biasa
+8. common mistake
+9. what not to do
+10. cosas a evitar
+11. ошибки
+12. mistakes to avoid
+13. evitar
+14. nao faca isso
+15. jangan lakukan
+
+================================================================================
+INTENT: perguntas_fontes_confiaveis
+================================================================================
+1. onde buscar información
+2. fontes confiáveis
+3. onde conseguir
+4.local seguro
+5. sources
+6. reliable source
+7. source information
+8. fuentes seguras
+9. informações verdadeiras
+10. onde obtener dato certo
+11. site confiável
+12. onde pesquisar
+13. quais sites
+14. onde consultar
+15. recommended sources
+
+================================================================================
+INTENT: perguntas_como_identificar_reciclavel
+================================================================================
+1. como identificar
+2. como saber se reciclável
+3. saber se reciclável
+4. indicação de reciclável
+5. como verificar
+6. como comprobar
+7. como confirmar
+8. señal de reciclável
+9. como saber
+10. identificação
+11. como diferenciá
+12. como distinguir
+13. como detectar
+14. como saber si
+15. como verificar
+
+================================================================================
+INTENT: perguntas_lista_negra_reciclagem
+================================================================================
+1. não reciclável
+2. lista negra
+3. o que não reciclável
+4. proibido
+5. não aceito
+6. nao reciclável
+7. items nao aceitos
+8. o que nao vai
+9. o que não vai para reciclagem
+10. nao recicláveis
+11. o que não serve
+12. o que nãoaceito
+13. o que é proibido
+14. itens proibidos
+15. não aceitos
+
+================================================================================
+INTENT: perguntas_reciclavel_papel
+================================================================================
+1. papel reciclável
+2. papel válido
+3. tipos de papel
+4. qual papel vai
+5. papel para reciclagem
+6. papel reciclavel
+7. quais papéis
+8. o papel vai
+9. papel aceita
+10. papel válido
+11. qualifies papel
+12. papel accepted
+13. papier recyclable
+14. paper accepted
+15. what paper
+
+================================================================================
+INTENT: perguntas_reciclavel_metal
+================================================================================
+1. metal reciclável
+2. metal válido
+3. tipos de metal
+4. qual metal vai
+5. metal para reciclagem
+6. metal reciclavel
+7. quais metais
+8. o metal vai
+9. metal aceita
+10. metal válido
+11. qualifies metal
+12. metal accepted
+13. metal recyclable
+14. metal accepted
+15. what metal
+
+================================================================================
+INTENT: perguntas_reciclavel_vidro
+================================================================================
+1. vidro reciclável
+2. vidro válido
+3. tipos de vidro
+4. qual vidro vai
+5. vidro para reciclagem
+6. vidro reciclavel
+7. quais vidros
+8. o vidro vai
+9. vidro aceita
+10. vidro válido
+11. qualifies vidro
+12. vidro accepted
+13. vidrio recyclable
+14. vidro accepted
+15. what glass
+
+================================================================================
+INTENT: perguntas_embalagem_mista
+================================================================================
+1. embalagem mista
+2. composição
+3. múltiplos materiais
+4. juntos
+5. misturado
+6. mixed packaging
+7. combina
+8. combination
+9. juntos
+10. multiple materials
+11. mixt
+12. mixed
+13. combined
+14. varios materiais
+15. various
+
+================================================================================
+INTENT: perguntas_lavar_embalagens
+================================================================================
+1. lavar embalagens
+2. limpiar
+3. perlu limpar
+4. necessidade de limpiar
+5. deve limpar
+6. precisa limpiar
+7. é necessario limpar
+8. wash
+9. limpar embalagem
+10. rinse
+11. enxaguar
+12. higienizar
+13. sanitation
+14. clean
+15. limpieza
+
+================================================================================
+INTENT: perguntas_negacao
+================================================================================
+1. não
+2. nao quero
+3. nao precisa
+4. negativ
+5. disagree
+6. nao
+7. nao
+8. dont want
+9. no thanks
+10. nao necesito
+11. not now
+12. later
+13. another time
+14. maybe
+15. later
+
+================================================================================
+INTENT: Default Welcome Intent
+================================================================================
+1. ola
+2. oi
+3. bom dia
+4. boa tarde
+5. boa noite
+6. hello
+7. hey
+8. hi
+9. what's up
+10. good morning
+11. good afternoon
+12. good evening
+13. what's new
+14. Hey there
+15. Good day
+
+================================================================================
+INTENT: resposta_plastico
+================================================================================
+1. Plastico vai para lixeira vermelha
+2. voce pode descartar na lixeira vermelha
+3. plastico deve ser destina a lixeira vermelha
+4. a lixeira vermelha é para plasticos
+5. plastico na lixeira vermelha
+6. descarte seu plastico na lixeira vermelha
+
+================================================================================
+INTENT: resposta_papel
+================================================================================
+1. Papel vai para lixeira azul
+2. voce pode descartar na lixeira azul
+3. papel deve ser destinados a lixeira azul
+4. a lixeira azul é para papéis
+5. papel na lixeira azul
+6. descarte seu papel na lixeira azul
+
+================================================================================
+INTENT: resposta_vidro
+================================================================================
+1. Vidro vai para lixeira verde
+2. voce pode descartar na lixeira verde
+3. vidro deve ser destinados a lixeira verde
+4. a lixeira verde é para vidros
+5. vidro na lixeira verde
+6. descarte seu vidro na lixeira verde
+
+================================================================================
+INTENT: resposta_metal
+================================================================================
+1. Metal vai para lixeira amarela
+2. voce pode descartar na lixeira amarela
+3. metal deve ser destina a lixeira amarela
+4. a lixeira amarela é para metais
+5. metal na lixeira amarela
+6. descarte seu metal na lixeira amarela
+
+================================================================================
+INTENT: resposta_organico
+================================================================================
+1. Orgânico vai para composteira ou lixeira marrom
+2. voce pode descartar na composteira
+3. organico deve ir para compostagem
+4. a composteira é para orgânicos
+5. organico na composteira
+6. descarte seu organico na composteira
+
+================================================================================
+INTENT: resposta_oleo
+================================================================================
+1. Óleo vai para posto de coleta
+2. voce deve leva ao ponto de coleta especifico
+3. óleo não pode ser descartado
+4. descarte ole em posto de coleta
+5. nao descarte na pia
+6. leve ao ecoponto
+
+================================================================================
+INTENT: resposta_eletronico
+================================================================================
+1. Eletronico vaipara ponto de coleta especifico
+2. voce deve levar a loja
+3. nao descarte no lixo comum
+4. eletrônico precisa de descarte especial
+5. leve ao ponto de coleta
+6. entregue onde compra
+
+================================================================================
+INTENT: resposta_medicamento
+================================================================================
+1. Medicamento vai para farmácia
+2. descarte na farmácia mais próxima
+3.farmácia recebe medicamentos vencidos
+4. nao descarte no lixo
+5. pharma recebe
+6. leve a uma farmácia
+
+================================================================================
+INTENT: resposta_pilha
+================================================================================
+1. Pilhas vão para punto de coleta
+2. descarte em point especifico
+3. shopping recebe pilhas
+4. nao descarte no lixo
+5. leve a uma loja
+6. ponto de coleta
+
+================================================================================
+INTENT: resposta_textil
+================================================================================
+1. Textil pode ser doado
+2. instituições aceitam roupas
+3. doe para entidade
+4. nao descarte no lixo
+5. entidades recebem
+6. ponto de doação
+
+================================================================================
+INTENT: resposta_gordura
+================================================================================
+1. Gordura não vai no ralo
+2. descarte apropriadamente
+3. não despeje na pia
+4. caule problema
+5. ralo entupido
+6. descarte correto
+
+================================================================================
+INTENT: resposta_construcao
+================================================================================
+1. Entulho precisa de caçamba
+2.ligue para caçamba
+3. precisa de retirada especial
+4. nao descarte na rua
+5. aterro recebe
+6. contact caçamba
+
+================================================================================
+INTENT: resposta_moveis
+================================================================================
+1. Móveis precisam de doação ou caçamba
+2. doe se em bom estado
+3. caso contrario caçamba
+4. nao descarte na rua
+5. pontos de doação
+6. serviço específico
+
+================================================================================
+INTENT: resposta_lixo_comum
+================================================================================
+1. Lixo comum vai para lixeira cinza
+2. lixeira cinza
+3. aterro sanitario
+4. lixeira cinza
+5. descarte no coletor
+6. lixeira normal
+
+================================================================================
+INTENT: resposta_vidro_especial
+================================================================================
+1. Vidro quebrado embale bem
+2. embrulhe para evitar acidente
+3. sinalize
+4. cautela
+5. cuidado
+6. embale securely
+
+================================================================================
+INTENT: duvida_significado_cores
+================================================================================
+1. o que significa cada cor
+2. significado das cores
+3. cores das lixeiras
+4. cores padrão
+5. código de cores
+6. o que significa
+
+================================================================================
+INTENT: perguntar_material
+================================================================================
+1. qual material
+2. que tipo de material
+3. material
+4. o que é
+5. especie
+6. classify
+
+================================================================================
+INTENT: perguntar_horario_coleta
+================================================================================
+1. qual horario
+2. que horas
+3. quando
+4. qual hora
+5. turno
+6. periodo
+
+================================================================================
+INTENT: nao_sei_material
+================================================================================
+1. nao sei
+2. desconheco
+3. nao tenho certeza
+4. uncertain
+5. unknown
+6. not sure
+
+================================================================================
+INTENT: perguntas_perfurocortantes
+================================================================================
+1. perfurocortante
+2. corto
+3. perfura
+4. peligro
+5. risco
+6. cuidado
+
+================================================================================
+INTENT: perguntas_localizacao
+================================================================================
+1. onde
+2. localizacao
+3. endereço
+4. lugar
+5. ponto
+6. local
+
+================================================================================
+INTENT: perguntas_pcr_reciclagem
+================================================================================
+1. PCR
+2. reciclavel pós-consumo
+3. reciclável
+4. reciclável
+5. reciclável
+6. reciclável
+
+================================================================================
+INTENT: fallback_agendamento
+================================================================================
+1. preciso agendar
+2. agendar
+3. agendar coleta
+4. ingin jadwal
+5. quiero schedule
+6. quiero agendar
+
+================================================================================
+INTENT: fallback_material_em_foco
+================================================================================
+1. material
+2. produto
+3. item
+4. object
+5. objeto
+6. elemento
+
+================================================================================
+INTENT: fallback_inteligente_material
+================================================================================
+1. não sei o material
+2. não sei discardar
+3. desconheç
+4. não sei o que é
+5. uncertain
+6. unknown
+
+================================================================================
+INTENT: Teste_multi
+================================================================================
+1. teste
+2. test
+3. exam
+4. trial
+5. teste múltiiplo
+6. multi test

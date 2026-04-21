@@ -393,5 +393,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "cd16d9f0-44fd-4724-955c-4ab1ffa85c7b",
+    "data": [
+      {
+        "text": "Entulho precisa de caçamba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5bc6efd1-8551-48c4-9157-50b6c7618e1c",
+    "data": [
+      {
+        "text": "ligue para caçamba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "30778c16-0292-40e8-a60a-f97a186e8cf3",
+    "data": [
+      {
+        "text": "precisa de retirada especial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cb1a1eaf-d7ee-440d-adfd-5799a6fe0e9c",
+    "data": [
+      {
+        "text": "nao descarte na rua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a66ae959-5655-4e37-9ffd-d9b4000ba926",
+    "data": [
+      {
+        "text": "aterro recebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dcdc5372-47b4-41e6-a95e-1e5f777b3467",
+    "data": [
+      {
+        "text": "contact caçamba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

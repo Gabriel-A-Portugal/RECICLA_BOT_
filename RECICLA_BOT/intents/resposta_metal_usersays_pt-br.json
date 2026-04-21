@@ -526,5 +526,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "7f9bad9c-065f-442f-8a58-db05021bbcc0",
+    "data": [
+      {
+        "text": "Metal vai para lixeira amarela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca15999f-9111-44d7-bc63-afe40fcce91e",
+    "data": [
+      {
+        "text": "voce pode descartar na lixeira amarela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8814b3e9-dddc-40b0-9792-dac2f69ffb2b",
+    "data": [
+      {
+        "text": "metal deve ser destina a lixeira amarela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61874d75-b68d-4902-8645-fe42e59e39d0",
+    "data": [
+      {
+        "text": "a lixeira amarela é para metais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cd88f9d4-ae02-4e88-89fe-c86d4bdc338e",
+    "data": [
+      {
+        "text": "metal na lixeira amarela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c915a110-afe8-450d-b5c0-d24a3cff6975",
+    "data": [
+      {
+        "text": "descarte seu metal na lixeira amarela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

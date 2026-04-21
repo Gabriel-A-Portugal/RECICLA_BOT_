@@ -102,5 +102,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "4cc810c5-37a1-42d9-8073-92b9e593e27f",
+    "data": [
+      {
+        "text": "embalagem mista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2a751776-cb8e-4487-9ae4-87b2a9b64ee5",
+    "data": [
+      {
+        "text": "composição",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "109c0786-efd3-4ca1-91a5-f7ce8d8c67c9",
+    "data": [
+      {
+        "text": "múltiplos materiais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eba2da5c-0278-4950-9f31-2ca0fed214ff",
+    "data": [
+      {
+        "text": "juntos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0550d06e-02c1-457c-8f2c-fa30b425758f",
+    "data": [
+      {
+        "text": "misturado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "86730336-dc3c-48ee-add5-a26ff15ec1bc",
+    "data": [
+      {
+        "text": "mixed packaging",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d59126cf-09ac-4ec9-818b-7df73abe388c",
+    "data": [
+      {
+        "text": "combina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "933f6257-5cf0-4c31-b65c-16002f940be8",
+    "data": [
+      {
+        "text": "combination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d130a042-cd1d-4bc8-b4da-faea17e707e8",
+    "data": [
+      {
+        "text": "juntos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bf28eaa8-045d-4c7d-8639-d1d599f6b11b",
+    "data": [
+      {
+        "text": "multiple materials",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b64206b-6d15-4a86-b32d-b7db77d60675",
+    "data": [
+      {
+        "text": "mixt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ddfd6ac0-83f5-4b76-8de7-30cf51f4f49a",
+    "data": [
+      {
+        "text": "mixed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c6698578-f093-4cfe-af93-f9216244d280",
+    "data": [
+      {
+        "text": "combined",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9e2f4061-90ef-4d92-b378-d151b4fb1ed0",
+    "data": [
+      {
+        "text": "varios materiais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2eca909e-f800-4bfb-ab1f-1d09903b7b21",
+    "data": [
+      {
+        "text": "various",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

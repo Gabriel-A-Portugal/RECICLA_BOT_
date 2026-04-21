@@ -609,5 +609,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "9bfb9b26-0e73-47fa-8c35-58ae38b13279",
+    "data": [
+      {
+        "text": "Papel vai para lixeira azul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "94d2018e-5142-4e1f-91a7-646ddf9700e2",
+    "data": [
+      {
+        "text": "voce pode descartar na lixeira azul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87d5c496-ca8d-4b61-950a-a48b9d62ad30",
+    "data": [
+      {
+        "text": "papel deve ser destinados a lixeira azul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7da32b7d-8d72-4a1e-aece-d5a8ade450eb",
+    "data": [
+      {
+        "text": "a lixeira azul é para papéis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0cba9172-672f-45da-bb06-fdfcafee895c",
+    "data": [
+      {
+        "text": "papel na lixeira azul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a983ad5-f8c8-437a-9ccc-eddc742e3bd4",
+    "data": [
+      {
+        "text": "descarte seu papel na lixeira azul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

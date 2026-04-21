@@ -115,5 +115,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "a137d3b7-d0a8-49a2-aab8-1c4c35c1c2c7",
+    "data": [
+      {
+        "text": "espaco pequeno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5c55c0d7-0ade-42d9-ab5e-5e9e940696a5",
+    "data": [
+      {
+        "text": "apartamento pequeno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8e4e74c4-b8ae-45d5-8183-61c686a0639e",
+    "data": [
+      {
+        "text": "pouco espaço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca9ee0b4-0b82-492d-9a55-a7a4ea633092",
+    "data": [
+      {
+        "text": "onde guardar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e56bfe06-4f62-41db-81e9-79af836e5828",
+    "data": [
+      {
+        "text": "como organizar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1625602b-97e0-4652-bad9-9a8e76b929d4",
+    "data": [
+      {
+        "text": "espaço limitado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e9d6ad54-b0e1-4d63-9ac8-35dfaf771915",
+    "data": [
+      {
+        "text": "apartamento pequeno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f5d03c6d-8a02-4bd7-9f59-f179510f6d88",
+    "data": [
+      {
+        "text": "local reducido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9fe63a5-9ca2-4789-b34e-9977ec24d288",
+    "data": [
+      {
+        "text": "sem espaço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f7f713bb-fcd9-4ef7-b2df-d05124b9cdfc",
+    "data": [
+      {
+        "text": "area minima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f564e0c-ba06-4923-b315-9430b8583936",
+    "data": [
+      {
+        "text": "área limitada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0bd55f56-b08d-4f61-ba75-3907eb7c3a05",
+    "data": [
+      {
+        "text": "Storage options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "13f20838-ef41-4d6c-995b-c6409794b8cf",
+    "data": [
+      {
+        "text": "alternativas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9fbe859b-3924-4f1c-bfb2-89e722a1f2e9",
+    "data": [
+      {
+        "text": "solução",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c15bd473-8db8-4704-b88f-6ccb7e407118",
+    "data": [
+      {
+        "text": "recommendations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

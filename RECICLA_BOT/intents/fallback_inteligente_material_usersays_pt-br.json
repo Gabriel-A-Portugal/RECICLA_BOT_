@@ -112,5 +112,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "919d57af-8f0d-4a45-aa5e-c2ff43ce1be3",
+    "data": [
+      {
+        "text": "não sei o material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2bafa4ef-1b9d-4818-8927-8e2d2ad9a13b",
+    "data": [
+      {
+        "text": "não sei discardar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7239b6a3-17dd-4c82-80ae-0ffe05175a4a",
+    "data": [
+      {
+        "text": "desconheç",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ea7a970a-07fd-495b-a46f-c2837c98f0e5",
+    "data": [
+      {
+        "text": "não sei o que é",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9f4b5940-e3f4-451b-9547-970187229bcc",
+    "data": [
+      {
+        "text": "uncertain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7c22e02a-6134-41e6-a133-fe6ab72b51a9",
+    "data": [
+      {
+        "text": "unknown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

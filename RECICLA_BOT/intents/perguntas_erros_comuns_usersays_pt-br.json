@@ -150,5 +150,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "1e4697ab-9336-4d07-9335-6422b48ba00e",
+    "data": [
+      {
+        "text": "erro comum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "09c84435-b74b-4f67-9589-5fbc50ac6df6",
+    "data": [
+      {
+        "text": "mistake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d3e989cd-0619-4dc8-9dde-2a60811cfe23",
+    "data": [
+      {
+        "text": "o que não fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "05174e8b-55e9-42bf-a46e-5c1fc2b6618a",
+    "data": [
+      {
+        "text": "o que evitar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d59e422e-e3dc-476e-9c9e-687d8b702335",
+    "data": [
+      {
+        "text": "erros frequentes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "88631436-6404-4bc8-933d-38041f549e9e",
+    "data": [
+      {
+        "text": "equivocos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c76faad1-f188-4fe7-a51a-29ad2625d6ab",
+    "data": [
+      {
+        "text": "kesalahan biasa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e915e5db-1968-40fe-9a87-68f1c68e90dc",
+    "data": [
+      {
+        "text": "common mistake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4f40e1f4-4219-481e-b45f-3fa340be5677",
+    "data": [
+      {
+        "text": "what not to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dd86aa2b-7177-4682-b156-1b30b01075a4",
+    "data": [
+      {
+        "text": "cosas a evitar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b448bde-511e-4a22-b04b-c38db2be144d",
+    "data": [
+      {
+        "text": "ошибки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2cdad702-6e8d-4dfc-84ea-6b6884394f3b",
+    "data": [
+      {
+        "text": "mistakes to avoid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "40431f69-be3a-4f6f-af14-2927d824dfe5",
+    "data": [
+      {
+        "text": "evitar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c7c8f2c-135a-4fe8-b514-9b339e42aaa3",
+    "data": [
+      {
+        "text": "nao faca isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dc9937a4-380b-4bb0-916b-6201a8891d85",
+    "data": [
+      {
+        "text": "jangan lakukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

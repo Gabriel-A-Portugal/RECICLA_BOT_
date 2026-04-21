@@ -380,5 +380,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "9bea3584-fb14-48be-8ee5-48ba0aeea337",
+    "data": [
+      {
+        "text": "Vidro quebrado embale bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "03e9059a-61e7-4c2c-b856-85833db81d2c",
+    "data": [
+      {
+        "text": "embrulhe para evitar acidente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4aaeb506-09fe-4c63-90f2-60f9c35c8243",
+    "data": [
+      {
+        "text": "sinalize",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "26a824d3-d786-4c39-bab8-1b2bba5d7547",
+    "data": [
+      {
+        "text": "cautela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbc6ba07-f062-4526-8bde-5e95584dfc88",
+    "data": [
+      {
+        "text": "cuidado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "09fdede8-92c9-4b91-a06f-b39fc1b45bcf",
+    "data": [
+      {
+        "text": "embale securely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

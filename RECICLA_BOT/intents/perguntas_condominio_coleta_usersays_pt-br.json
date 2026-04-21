@@ -102,5 +102,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "9975411a-bb6f-44bf-905b-d06a72b98ccb",
+    "data": [
+      {
+        "text": "coleta em condominio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e10afed7-ec87-4ddb-b842-198db7e02ab4",
+    "data": [
+      {
+        "text": "moro em apartamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b57a6c72-27e3-477c-af81-f2d7ef02e318",
+    "data": [
+      {
+        "text": "prédio precisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4bf6c6d3-1e5c-4d31-b5c1-7ad8a3ad3440",
+    "data": [
+      {
+        "text": "como funciona para condominio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5e5c1200-b6f8-4d7f-a77e-c284af311530",
+    "data": [
+      {
+        "text": "tem container no condominio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9e4df1ab-9866-4cd1-aa47-80867574371e",
+    "data": [
+      {
+        "text": "prédio coletivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9af85c4a-8c31-4602-ac9b-9235bd83b26c",
+    "data": [
+      {
+        "text": "area comum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5febc14-c774-4aca-a807-45ad823c6467",
+    "data": [
+      {
+        "text": "gestão de residuos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9e8dd378-10ac-4594-b875-aaa8df4dccd5",
+    "data": [
+      {
+        "text": "condominio precisa de",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ae436049-ba7e-4418-80de-089a5f0cf953",
+    "data": [
+      {
+        "text": "apartamento tem coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "519ebbe3-0f1f-416d-a783-3db286fedfb9",
+    "data": [
+      {
+        "text": "moro em building",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "14aad225-2a88-4584-adf0-2f835408440e",
+    "data": [
+      {
+        "text": "kolektor di apartemen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "414de38b-05eb-4905-b271-e69634bd5f39",
+    "data": [
+      {
+        "text": "como fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "56408e31-d88e-46bd-9a28-5afd00f69f4d",
+    "data": [
+      {
+        "text": "procedimentopara préd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36c53490-7b96-49c5-bfb1-9c0e9c95349e",
+    "data": [
+      {
+        "text": "instructions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

@@ -88,5 +88,83 @@
     "count": 1,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "95731bf8-fafc-45c5-862b-683583e7e009",
+    "data": [
+      {
+        "text": "Gordura não vai no ralo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "05ca3dbd-8b70-4b39-81da-3c938100accf",
+    "data": [
+      {
+        "text": "descarte apropriadamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3dddffa8-b1f5-48bd-b6ae-0bbb2c3edea6",
+    "data": [
+      {
+        "text": "não despeje na pia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8ea12d36-6fd8-4efa-b6fd-015ce7d2ae73",
+    "data": [
+      {
+        "text": "caule problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7286be73-4eec-44b9-8f65-f9cb29d76545",
+    "data": [
+      {
+        "text": "ralo entupido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c326378e-e0fd-4539-af07-05ebdbf46082",
+    "data": [
+      {
+        "text": "descarte correto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

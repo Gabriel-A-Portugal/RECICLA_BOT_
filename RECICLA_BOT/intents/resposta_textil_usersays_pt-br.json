@@ -646,5 +646,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "79434683-a86d-43de-9170-75785bd6dceb",
+    "data": [
+      {
+        "text": "Textil pode ser doado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "17646652-b031-432b-93ad-a4805789d5b0",
+    "data": [
+      {
+        "text": "instituições aceitam roupas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a378a8a3-2734-4254-a39a-0c34703bb143",
+    "data": [
+      {
+        "text": "doe para entidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5b40c822-ba69-4029-a3a2-635f3f76424d",
+    "data": [
+      {
+        "text": "nao descarte no lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aee109a1-106f-4dd5-acd3-eaa3990df49a",
+    "data": [
+      {
+        "text": "entidades recebem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1f91fb68-a6d6-4cbc-b31f-397021696f0c",
+    "data": [
+      {
+        "text": "ponto de doação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

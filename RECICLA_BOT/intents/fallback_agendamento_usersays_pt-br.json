@@ -81,5 +81,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "6ca0db49-d3e9-42ee-a5af-9970125503e5",
+    "data": [
+      {
+        "text": "preciso agendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f84a2f8d-4af8-417e-9e1b-24c0da3e8c22",
+    "data": [
+      {
+        "text": "agendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e070fba5-0b0d-41c8-9f55-7c6b9dbcadbb",
+    "data": [
+      {
+        "text": "agendar coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b68db34-dc52-4f8b-b9c4-6ce05cbf42bb",
+    "data": [
+      {
+        "text": "ingin jadwal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4a063c2-654e-4c65-bf5f-7edcc5aa54f7",
+    "data": [
+      {
+        "text": "quiero schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2807eacf-4fdf-46dd-a2df-3d550f21fcf2",
+    "data": [
+      {
+        "text": "quiero agendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

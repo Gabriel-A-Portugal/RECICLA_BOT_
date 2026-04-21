@@ -126,5 +126,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "fad87d6f-57ed-4c1b-8a45-d14901a79209",
+    "data": [
+      {
+        "text": "confirmar coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d06cce6b-fa95-448c-9fea-7bf392ad8161",
+    "data": [
+      {
+        "text": "está correto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e6b12256-1fd6-4e7a-8a25-4ded300b9710",
+    "data": [
+      {
+        "text": "pode confirmar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b6b16ef-be31-4f8c-b259-989d50bc80cf",
+    "data": [
+      {
+        "text": "tá bom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8255b7d6-0ff2-431d-88ba-c2d159921a36",
+    "data": [
+      {
+        "text": "está certo assim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8654c38b-7721-477c-8564-07a7d6cf23b8",
+    "data": [
+      {
+        "text": "confirma o agendamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6fcc2c70-1090-4efa-8156-93994ee72c2b",
+    "data": [
+      {
+        "text": "ok, está correto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df772c6b-ba6a-491a-82b1-fc08fcc5a925",
+    "data": [
+      {
+        "text": "pode fazer assim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f843de28-dc11-4d1c-9461-a4112bd35fa4",
+    "data": [
+      {
+        "text": "está certo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6f1a82f-755b-482f-9967-ecc7e43a6d9f",
+    "data": [
+      {
+        "text": "confirmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5c562913-d2a8-46f3-929e-4eae15ada30d",
+    "data": [
+      {
+        "text": "tá certo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f78cb423-c286-4234-8799-2f9ad82985f9",
+    "data": [
+      {
+        "text": "pode agendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a8c3ba9f-5d12-42f9-8016-17e77e8e7619",
+    "data": [
+      {
+        "text": "proceed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "151e4bf0-89b5-44cf-9171-742d36bccc21",
+    "data": [
+      {
+        "text": "correto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6aa1ad39-9cca-41f4-bcda-8fcb46266160",
+    "data": [
+      {
+        "text": "tá bom assim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

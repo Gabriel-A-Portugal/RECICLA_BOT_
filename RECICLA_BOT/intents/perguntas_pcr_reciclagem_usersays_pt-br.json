@@ -134,5 +134,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "427b7fe0-b1d8-4025-945d-f396cd255b01",
+    "data": [
+      {
+        "text": "PCR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1da84e71-ed54-4dc9-83d7-2f679d09c8e6",
+    "data": [
+      {
+        "text": "reciclavel pós-consumo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b82f8d8-2f54-4e38-b882-fb1be81a8e70",
+    "data": [
+      {
+        "text": "reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "278b7f04-215a-4436-8324-3b426d38ac6b",
+    "data": [
+      {
+        "text": "reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44747f3c-e5ad-453f-81f0-281ab4458b58",
+    "data": [
+      {
+        "text": "reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1788c58-b658-438e-bf98-9a82e1174d80",
+    "data": [
+      {
+        "text": "reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

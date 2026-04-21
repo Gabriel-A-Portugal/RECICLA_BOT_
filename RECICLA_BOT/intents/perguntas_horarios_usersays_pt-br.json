@@ -89,5 +89,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "a12a51b8-11a9-46ab-95af-c7923ad8909e",
+    "data": [
+      {
+        "text": "que horas vem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5b61a213-1720-473e-a611-037a458d032c",
+    "data": [
+      {
+        "text": "qual horário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d602b479-7273-4b80-97c5-e5ccc704c877",
+    "data": [
+      {
+        "text": "quando passa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4f4285cb-ec93-4364-99dc-09539620d170",
+    "data": [
+      {
+        "text": "horario da coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fb2c94a3-c476-45ab-b6c1-d6f53ac43eaf",
+    "data": [
+      {
+        "text": "horas de passagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41707db2-618c-405a-91ea-0caa664e2fce",
+    "data": [
+      {
+        "text": "que hora passa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7ed2e364-0970-41e1-815b-7e107c924019",
+    "data": [
+      {
+        "text": "qual a hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4f12dc61-eff8-44b4-a7cb-5e8876009ba0",
+    "data": [
+      {
+        "text": "qual o turno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "71ada810-e3c3-42eb-ab34-f31a714a252a",
+    "data": [
+      {
+        "text": "manha ou tarde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8e521750-7ad8-4a09-bcf6-83dc8c87abe9",
+    "data": [
+      {
+        "text": "turno da semana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1fc6d680-4ac4-4123-9da1-6baae379904d",
+    "data": [
+      {
+        "text": "dias de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "142acf38-bb5c-41b5-b832-5e2fe3f9719f",
+    "data": [
+      {
+        "text": "qual dia passa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f764c0fa-3041-442f-8325-ada7b14206ea",
+    "data": [
+      {
+        "text": "semanal ou quinzenal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87a77133-8ff4-4fef-9bd1-dfa34232bf01",
+    "data": [
+      {
+        "text": "periodicidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f97559e4-8f3e-458b-b958-d89aecf0a02f",
+    "data": [
+      {
+        "text": "quando será a próxima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

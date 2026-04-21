@@ -144,5 +144,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "48361f3a-42b7-40f8-a638-6f385e3f2e48",
+    "data": [
+      {
+        "text": "lavar embalagens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1facaa23-dacd-448d-9598-7abdb06c84d2",
+    "data": [
+      {
+        "text": "limpiar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e9c9f81-3105-4913-9a76-780937eacd21",
+    "data": [
+      {
+        "text": "perlu limpar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d008b80e-ed4c-4206-b476-86a28135cc31",
+    "data": [
+      {
+        "text": "necessidade de limpiar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "733fba61-ddc2-4132-beb0-11d7b0662308",
+    "data": [
+      {
+        "text": "deve limpar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f69d5dd0-4e7a-4116-b263-26fad09b79aa",
+    "data": [
+      {
+        "text": "precisa limpiar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "67e4f5da-e436-49f2-9e8e-9a659591bbd1",
+    "data": [
+      {
+        "text": "é necessario limpar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef366261-f73a-4745-8658-e00264fbf913",
+    "data": [
+      {
+        "text": "wash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dca596f5-bbe9-4f9d-a5ae-8f8f6d0ed861",
+    "data": [
+      {
+        "text": "limpar embalagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5c7dd32b-5c8b-4140-b880-7f0d4e24fdd0",
+    "data": [
+      {
+        "text": "rinse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36a7c482-68f0-47eb-be3c-df1f07ca6407",
+    "data": [
+      {
+        "text": "enxaguar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "055a0c4e-49c5-45cb-b831-7ad678699789",
+    "data": [
+      {
+        "text": "higienizar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ebdb12a-7455-44e5-af72-62151adaf167",
+    "data": [
+      {
+        "text": "sanitation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7b25487d-e88d-44da-8b5e-2765cab8f38a",
+    "data": [
+      {
+        "text": "clean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c770be06-8894-41bd-8993-5c2294404fa2",
+    "data": [
+      {
+        "text": "limpieza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

@@ -393,5 +393,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "05939e97-3fdf-4288-b6c6-df032087ca02",
+    "data": [
+      {
+        "text": "Móveis precisam de doação ou caçamba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "999830d6-432d-4a49-a86c-c67e5feafd1f",
+    "data": [
+      {
+        "text": "doe se em bom estado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "88900a11-0fd7-4a06-8a65-fdbb4eb6ed1e",
+    "data": [
+      {
+        "text": "caso contrario caçamba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee91e5fe-dce8-4dbc-8120-a2e12f16d674",
+    "data": [
+      {
+        "text": "nao descarte na rua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41ca4e1e-80ab-4243-b286-851db3644e10",
+    "data": [
+      {
+        "text": "pontos de doação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6a1e29ad-59db-4657-ba6c-a8239d3feafb",
+    "data": [
+      {
+        "text": "serviço específico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

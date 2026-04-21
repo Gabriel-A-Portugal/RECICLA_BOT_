@@ -596,5 +596,213 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "117d3cb5-398f-4c78-92a6-b0faefa201e6",
+    "data": [
+      {
+        "text": "não sei qual lixeira usar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c5157e14-961a-4271-aa69-02b6388a43c0",
+    "data": [
+      {
+        "text": "estou em dúvida sobre o descarte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af8b5e22-2136-4b8f-8ea6-376a03132e0c",
+    "data": [
+      {
+        "text": "não sei descartar isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36548cb9-9e8b-4e64-a71b-a7a618f52041",
+    "data": [
+      {
+        "text": "pode me ajudar com o descarte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b2d947b-35db-421b-9338-a3bc8b5621bb",
+    "data": [
+      {
+        "text": "não sei onde jogar isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af75aff3-558e-4f59-95ea-18ca77c156a2",
+    "data": [
+      {
+        "text": "preciso de orientação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "621d2219-5405-4f36-b53b-b35078f952fa",
+    "data": [
+      {
+        "text": "como faço para descartar isso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78a0a31b-a1e5-4f76-a4e7-6413a95bd379",
+    "data": [
+      {
+        "text": "pode me dizer onde descarta ess",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4ed2c061-8473-4112-a184-991ba480dc68",
+    "data": [
+      {
+        "text": "tenho dúvidas sobre reciclaje",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "250babed-4ddc-4822-915d-c42d5f758faf",
+    "data": [
+      {
+        "text": "qual container devo usar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2742046-b093-41f5-b020-80bf609f622d",
+    "data": [
+      {
+        "text": "em qual lixeira coloca ess",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b8c437ec-bd4b-4a43-85b2-15cd9f6752fe",
+    "data": [
+      {
+        "text": "nao sei separar ISSO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df0ab087-512b-4ee6-a025-b8fc0db6e6e6",
+    "data": [
+      {
+        "text": "me ajuda a descartar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61e593a4-080a-442b-bcdd-47955e328a20",
+    "data": [
+      {
+        "text": "preciso saber onde jogar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "71a59909-ce0d-4ef9-9bf6-75cfdd5c8893",
+    "data": [
+      {
+        "text": "onde descarto ess material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f030e683-e789-49ef-8a2b-2577346583a6",
+    "data": [
+      {
+        "text": "como identificar a lixeira certa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

@@ -634,5 +634,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "0feedcb5-5b4a-4d45-a630-efa3c4ae1b29",
+    "data": [
+      {
+        "text": "Plastico vai para lixeira vermelha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a74a8315-d37b-48b5-9329-fd65f62eba60",
+    "data": [
+      {
+        "text": "voce pode descartar na lixeira vermelha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "73fef007-56f3-43bb-9316-fa469751332e",
+    "data": [
+      {
+        "text": "plastico deve ser destina a lixeira vermelha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d138a68a-b333-443d-bf23-9471f7c286be",
+    "data": [
+      {
+        "text": "a lixeira vermelha é para plasticos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c6b441d5-aa99-406d-b785-8355d89c9868",
+    "data": [
+      {
+        "text": "plastico na lixeira vermelha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87203e7b-62d9-4238-9e72-b72843e258c8",
+    "data": [
+      {
+        "text": "descarte seu plastico na lixeira vermelha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

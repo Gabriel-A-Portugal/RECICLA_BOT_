@@ -478,5 +478,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "0d430a83-b2d5-4f48-89ab-2117e0ead772",
+    "data": [
+      {
+        "text": "qual material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7302a030-b2c7-4b46-a311-a1dbdda65ac7",
+    "data": [
+      {
+        "text": "que tipo de material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9696d65d-cdf1-4485-a165-ccc91807559f",
+    "data": [
+      {
+        "text": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab4bb74d-d74d-4fcc-8d64-5b5543eac548",
+    "data": [
+      {
+        "text": "o que é",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2dadb8e2-0e1a-4fcc-9613-dac2c03c256c",
+    "data": [
+      {
+        "text": "especie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ac023038-88ed-4b68-a908-76ba4c1e6ef3",
+    "data": [
+      {
+        "text": "classify",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

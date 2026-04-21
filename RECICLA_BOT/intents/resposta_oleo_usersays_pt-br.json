@@ -80,5 +80,83 @@
     "count": 1,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "e507f230-114b-42b7-ae1e-75e6d64c3ecb",
+    "data": [
+      {
+        "text": "Óleo vai para posto de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9db354e8-6379-4556-9afa-29f738712f91",
+    "data": [
+      {
+        "text": "voce deve leva ao ponto de coleta especifico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f026778a-2cf3-4e1f-afb5-ead05cd0ff29",
+    "data": [
+      {
+        "text": "óleo não pode ser descartado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "71de1bb6-dc22-4f7e-9603-8887227f2e9b",
+    "data": [
+      {
+        "text": "descarte ole em posto de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2122a1b6-02f0-4b6b-b3e0-1b5593ad60cf",
+    "data": [
+      {
+        "text": "nao descarte na pia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4c3d51f3-8105-40a7-8f9d-6b63471720d9",
+    "data": [
+      {
+        "text": "leve ao ecoponto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

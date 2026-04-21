@@ -102,5 +102,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "3234cca5-1ec9-4d99-a1c0-c822b48ac730",
+    "data": [
+      {
+        "text": "mesmo caminhão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a92528ed-8446-445e-9c1d-6b475ea811cc",
+    "data": [
+      {
+        "text": "tudo no mesmo caminhão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d416b35f-1598-46ad-b69a-5456618159c3",
+    "data": [
+      {
+        "text": "misturar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "213781f4-40fb-4597-aa06-a33544c614b5",
+    "data": [
+      {
+        "text": "pode misturar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3378b601-b513-4780-9ba5-c85b6e2219da",
+    "data": [
+      {
+        "text": "seperate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b7d52f3e-3034-4840-bd10-9d6b12bf2e3a",
+    "data": [
+      {
+        "text": "separada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b2c5e20-6c72-4f1b-a3eb-936add5498ac",
+    "data": [
+      {
+        "text": "bersama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "179a4ddb-e71b-4f00-8ead-9ec9bd4944d1",
+    "data": [
+      {
+        "text": "uno mismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44e1b227-3c1c-4203-bde7-b9e0fee91611",
+    "data": [
+      {
+        "text": "bersama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5a2c65e-e4fc-43e3-b213-455e8adc1962",
+    "data": [
+      {
+        "text": "mismo veículo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "678f0bfe-cfd6-4a6c-8077-25950765034a",
+    "data": [
+      {
+        "text": "mismo caminho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "111da6c7-be43-488a-a3f4-76054fe7b110",
+    "data": [
+      {
+        "text": "same truck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "20919b9d-f7ec-4273-ba7a-fb2d6bf0e3fb",
+    "data": [
+      {
+        "text": "mismo caminhao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e370fd28-dc66-46e0-a2a3-0f24e6e3b211",
+    "data": [
+      {
+        "text": "together",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f87bb083-615a-4433-93f3-7860dbe5961e",
+    "data": [
+      {
+        "text": "same vehicle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

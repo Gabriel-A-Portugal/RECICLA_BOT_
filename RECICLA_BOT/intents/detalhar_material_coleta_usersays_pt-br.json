@@ -163,5 +163,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "ea666f4b-dddb-4687-bb2c-a080bb7bafe5",
+    "data": [
+      {
+        "text": "quais materiais coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e8da973-8eb0-48e4-abc9-2c3fc0e231a2",
+    "data": [
+      {
+        "text": "o que posso descartar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9a48fee7-730b-40c0-96ec-ac8425ffa1d6",
+    "data": [
+      {
+        "text": "quais itens aceita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9276d26e-08c7-467f-954d-46c4d5798739",
+    "data": [
+      {
+        "text": "quais tipos de material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74d7e538-7f35-4b88-acfc-9fb02069046b",
+    "data": [
+      {
+        "text": "o que é coletado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "23056e21-3c20-458f-bea6-3e3ba14a7efc",
+    "data": [
+      {
+        "text": "quais resíduos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b6ffe0e-881b-4ff6-a251-270877d20154",
+    "data": [
+      {
+        "text": "quais recicláveis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca47a58a-39c1-4c1f-8d07-c8fd43c3cca3",
+    "data": [
+      {
+        "text": "materiais aceitos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4047f305-fe87-40ca-9b42-db5f6efa14a3",
+    "data": [
+      {
+        "text": "o que levam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6a705997-e8b5-49bc-b449-dcfa53bb662c",
+    "data": [
+      {
+        "text": "quais produtos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "08bc425e-76a1-4bb5-927d-efa0eaa5a31b",
+    "data": [
+      {
+        "text": "o que pode ser coletado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "88ebb413-5e9b-48d1-b95c-7ab4b5142d24",
+    "data": [
+      {
+        "text": "tipos de material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5595caae-18a4-4870-a6c2-848d6f22100f",
+    "data": [
+      {
+        "text": "o que é reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46b75f93-1c4b-42b2-a41f-5ad59745c135",
+    "data": [
+      {
+        "text": "materiais para coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "395430d9-feda-4de8-ac09-e48c5b525f53",
+    "data": [
+      {
+        "text": "itens aceitos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

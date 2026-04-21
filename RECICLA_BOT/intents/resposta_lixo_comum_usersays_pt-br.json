@@ -58,5 +58,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "820967c2-4181-42b9-b327-304a3b5383eb",
+    "data": [
+      {
+        "text": "Lixo comum vai para lixeira cinza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6889a488-0626-4b61-853b-27466d36e9dc",
+    "data": [
+      {
+        "text": "lixeira cinza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "92061fc8-b343-49b0-99e5-32d029df78a7",
+    "data": [
+      {
+        "text": "aterro sanitario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "656a08e6-b682-45c5-9b95-992f0638868b",
+    "data": [
+      {
+        "text": "lixeira cinza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1019e05a-cbf2-4299-99ab-35b07b15e07b",
+    "data": [
+      {
+        "text": "descarte no coletor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c50800ff-8a3c-4554-996e-26c9acd22902",
+    "data": [
+      {
+        "text": "lixeira normal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

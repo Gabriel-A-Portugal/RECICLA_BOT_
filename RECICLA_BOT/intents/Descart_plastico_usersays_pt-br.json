@@ -289,7 +289,7 @@
         "userDefined": false
       },
       {
-        "text": "garrafinha d\u0027agua",
+        "text": "garrafinha d'agua",
         "meta": "@plastico_lixo",
         "alias": "plastico_lixo",
         "userDefined": false
@@ -327,7 +327,7 @@
         "userDefined": false
       },
       {
-        "text": "garrafinha d\u0027água",
+        "text": "garrafinha d'água",
         "meta": "@plastico_lixo",
         "alias": "plastico_lixo",
         "userDefined": false
@@ -365,7 +365,7 @@
         "userDefined": false
       },
       {
-        "text": "garrafa d\u0027agua",
+        "text": "garrafa d'agua",
         "meta": "@plastico_lixo",
         "alias": "plastico_lixo",
         "userDefined": false
@@ -384,7 +384,7 @@
         "userDefined": false
       },
       {
-        "text": "garrafa d\u0027água",
+        "text": "garrafa d'água",
         "meta": "@plastico_lixo",
         "alias": "plastico_lixo",
         "userDefined": false
@@ -1138,6 +1138,721 @@
     "data": [
       {
         "text": "Embalagens metalizadas de salgadinho ou biscoito (que não amassam e fazem barulho de papel) são recicláveis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f3c95136-6779-4973-b65e-13e516f76e61",
+    "data": [
+      {
+        "text": "preciso descartar Plástico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "91457bdf-5f82-4dc9-b2a8-774aeafede1e",
+    "data": [
+      {
+        "text": "onde jogo plastico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "392431f0-f6da-45f8-ab20-fce96fabe6cf",
+    "data": [
+      {
+        "text": "como descartar plástica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "acbce449-8348-4c77-9d12-77901e45c8e9",
+    "data": [
+      {
+        "text": "descartar plastica suja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2cddd56c-5f79-4392-8f38-3b635bb8ac8b",
+    "data": [
+      {
+        "text": "qual a lixeira para de plastico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "01dbf1d2-0ffd-4139-a8b6-1da741ea8be4",
+    "data": [
+      {
+        "text": "preciso me livrar de de plástico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "64fdc883-cc18-4e13-b3a9-da71750a6697",
+    "data": [
+      {
+        "text": "onde coloco embalagem plastica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "655220e0-dee3-4a5d-af0e-585c3017d82b",
+    "data": [
+      {
+        "text": "como jogar embalagem plástica fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b8eae016-c2f8-4a1a-b109-407d8160d513",
+    "data": [
+      {
+        "text": "onde jogo Garrafa pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7dd77bf6-c869-420d-87dd-d394d347c373",
+    "data": [
+      {
+        "text": "como descartar garrafa pet vazia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9f46eb3a-a277-4685-a97a-cf0c9c1c64c9",
+    "data": [
+      {
+        "text": "descartar pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "970f8311-9941-466b-a225-d4dcc29b8f41",
+    "data": [
+      {
+        "text": "qual a lixeira para garrafa plastica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0cb0f43d-8c1d-4d4e-aea1-dd54a9aa5e5b",
+    "data": [
+      {
+        "text": "preciso jogar garrafa plástica fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "126c103a-a422-44cf-a7af-60783ce514ee",
+    "data": [
+      {
+        "text": "onde descarto garrafa de refrigerante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d08002f9-d59c-4e2b-9f75-8495efbbef76",
+    "data": [
+      {
+        "text": "como descartar garrafinha d'agua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a8830f61-e3f7-4c06-9a9b-13aa99d6d9c3",
+    "data": [
+      {
+        "text": "preciso me livrar de garrafinha de agua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "865287b9-4a79-4605-95ba-323010c21636",
+    "data": [
+      {
+        "text": "onde coloco garrafinha d'água",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eb9efd8f-e539-4f18-a2ed-d6ddd07ec388",
+    "data": [
+      {
+        "text": "descartar garrafinha de água",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a3c092c1-3753-476b-b185-bca34ba12b29",
+    "data": [
+      {
+        "text": "qual a lixeira para garrafa d'agua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "19d44d32-7770-428d-a9fb-99194133717b",
+    "data": [
+      {
+        "text": "preciso descartar garrafa d'água",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "01911445-438e-494e-b04f-6fbbb1e0b095",
+    "data": [
+      {
+        "text": "onde jogo garrafinha dagua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f77a5537-991a-4a65-a4ad-23730e59cffe",
+    "data": [
+      {
+        "text": "como descartar garrafinha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "53b4799d-eee3-4dff-b666-885e2870f7c1",
+    "data": [
+      {
+        "text": "descartar Saco plástico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2883a383-abb6-4951-89e1-4bfc21bd5f96",
+    "data": [
+      {
+        "text": "preciso jogar saco plastico fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c2bdd842-ec68-40ee-a665-6b749ea00ebe",
+    "data": [
+      {
+        "text": "onde coloco saco plástico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1496a2ab-455e-46f7-8fd8-f68258feb61f",
+    "data": [
+      {
+        "text": "qual a lixeira para sacolinha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a0027fc-04e4-4e0e-8f5b-f871a2d657db",
+    "data": [
+      {
+        "text": "como descartar sacola plastica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b32c7402-0ba5-4c6e-ae05-3b931ca89190",
+    "data": [
+      {
+        "text": "preciso me livrar de sacola plástica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9d7d1073-3cfc-4eeb-b0fd-d05538d0e5ce",
+    "data": [
+      {
+        "text": "onde jogo pote de margarina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0e6cf361-3be8-4f01-bd9d-b09f61c22cdd",
+    "data": [
+      {
+        "text": "preciso descartar pote de iogurte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9389df83-8473-4692-b580-e240421331df",
+    "data": [
+      {
+        "text": "como descartar Talher descartavel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "57a5c1f3-fde3-4a86-a38f-d17561a13384",
+    "data": [
+      {
+        "text": "qual lixeira para talher descartável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b8506a2c-cc60-431b-9adf-a047e1ee5e15",
+    "data": [
+      {
+        "text": "preciso jogar copinho plastico fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74b83ee3-1ce2-4488-a5f7-98983e45e597",
+    "data": [
+      {
+        "text": "onde coloco copao descartavel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "372b816e-5d28-4f97-b2a5-35682ba51062",
+    "data": [
+      {
+        "text": "descartar copao descartável usado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3630d2f8-9f31-4f59-b9d1-59aff174f340",
+    "data": [
+      {
+        "text": "como descartar canudo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bf0f743e-29fc-4c74-9608-6de6455fafbe",
+    "data": [
+      {
+        "text": "preciso me livrar de canudinho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fe88372b-8629-4b8f-ac8e-15043a75abed",
+    "data": [
+      {
+        "text": "onde jogo Tampa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ccd448d4-4814-443e-8d50-8c1a419caf27",
+    "data": [
+      {
+        "text": "qual a lixeira para tampa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "07f9e644-3caf-4429-a8c1-922d0d072406",
+    "data": [
+      {
+        "text": "descartar tampa plastica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8c700f15-8cdd-42c4-b5ec-abd04c4550d1",
+    "data": [
+      {
+        "text": "descartar tampa plástica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0cc24840-6178-45d0-8259-231d12ac4845",
+    "data": [
+      {
+        "text": "preciso descartar tampa plástica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dd2bb43c-06e5-45b1-8e84-60b0f1355112",
+    "data": [
+      {
+        "text": "como jogar tampinha fora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7b85d881-d5b0-4863-890c-a44bf51bec23",
+    "data": [
+      {
+        "text": "plastico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "705dcb5a-3fb9-4788-8345-0d9fe30bef1d",
+    "data": [
+      {
+        "text": "Plástico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "786b3de7-de74-4d70-997b-7ca28386eaa4",
+    "data": [
+      {
+        "text": "como descarto garrafa pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "533829f3-be13-441f-a095-80025d7ea273",
+    "data": [
+      {
+        "text": "Onde posso descartar embalagem plástica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "008bbafd-dba5-44fa-8d04-d8ad8ad482a3",
+    "data": [
+      {
+        "text": "como descartar saquinho de biscoito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "635cab42-f8c6-4fbd-bff2-829b93a39d1c",
+    "data": [
+      {
+        "text": "onde jogo saquinho de salgadinho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "afef66f7-1fdd-465e-8b04-22260c6ffead",
+    "data": [
+      {
+        "text": "preciso descartar saquinho de batata frita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2499309d-cf1f-48bc-8068-1605c334454f",
+    "data": [
+      {
+        "text": "esse saquinho de snacks pode reciclar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "010af269-f7a6-45f5-9165-c15dba8104de",
+    "data": [
+      {
+        "text": "como descartar embalagem de bolacha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2876bd91-f8c4-4c22-bb3e-3b096ceb45f7",
+    "data": [
+      {
+        "text": "onde jogo saco de bolacha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "37489052-fb8c-461f-b6d2-607afd092475",
+    "data": [
+      {
+        "text": "preciso jogar fora saquinho de bolacha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44e1d24e-f34b-49b9-b9fe-958b0e3494a2",
+    "data": [
+      {
+        "text": "esse pacote de bolacha vai para reciclagem",
         "userDefined": false
       }
     ],

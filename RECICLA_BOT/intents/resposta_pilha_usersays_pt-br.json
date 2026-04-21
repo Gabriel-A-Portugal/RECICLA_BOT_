@@ -58,5 +58,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "002114a1-65e1-40b6-bfef-cc4f645534f4",
+    "data": [
+      {
+        "text": "Pilhas vão para punto de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bae08d85-9d32-4fc7-a046-23a2b78b43f3",
+    "data": [
+      {
+        "text": "descarte em point especifico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8065da09-9eff-4654-b7d5-447baf81f23c",
+    "data": [
+      {
+        "text": "shopping recebe pilhas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "55020494-f06d-4409-8321-505b254b631d",
+    "data": [
+      {
+        "text": "nao descarte no lixo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "335ee431-56d6-4245-818a-e138ea24d9cf",
+    "data": [
+      {
+        "text": "leve a uma loja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "637fce61-8203-4e56-aa35-ed8617455788",
+    "data": [
+      {
+        "text": "ponto de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

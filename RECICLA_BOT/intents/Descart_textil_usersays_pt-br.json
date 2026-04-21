@@ -472,5 +472,239 @@
     "count": 1,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "0a0c02e8-7e18-4242-8f64-515df01f88d7",
+    "data": [
+      {
+        "text": "onde jogo textil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7b2f74ed-d135-4e9d-bc16-98127637aea4",
+    "data": [
+      {
+        "text": "como descarta roupa velha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5162fb01-5304-4719-a83d-2ec83f0ec48d",
+    "data": [
+      {
+        "text": "descartar tecido usado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d518ee5e-98f5-4df5-93cd-6b3a97a1bd80",
+    "data": [
+      {
+        "text": "onde coloco ropa antiga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0e5e2956-0342-4675-89ad-283f1a599e30",
+    "data": [
+      {
+        "text": "qual lixeira para textil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "62711ee7-87b4-46dd-b99d-985a4aa088ae",
+    "data": [
+      {
+        "text": "preciso descartar calcinha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f155e43-5d53-47bd-9c36-ddf605096bc7",
+    "data": [
+      {
+        "text": "onde descarto calcado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d50932fc-7806-4ed8-bcc2-3d76d90dab4e",
+    "data": [
+      {
+        "text": "como descartar calcado velho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f82857c5-8af3-486f-8263-b3c3fb956b3f",
+    "data": [
+      {
+        "text": "textil vai para reutilização",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "63b70ed8-d230-4c19-bd74-2ed54f337477",
+    "data": [
+      {
+        "text": "onde jogo sapato velho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8b13eb9e-afb9-4417-842f-af6f7d627ff9",
+    "data": [
+      {
+        "text": "descarta chinelo usado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "880fe9de-5bcd-48c8-a92b-a6f98ff6cf3b",
+    "data": [
+      {
+        "text": "onde coloco/botina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cdc9283e-7b2f-4ab8-a9a2-8019f27742b2",
+    "data": [
+      {
+        "text": "como descartar/botina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "89d45fc3-ae64-4561-80fb-4de8d1d437f2",
+    "data": [
+      {
+        "text": "preciso me livrar de blusa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f5578c9-a55c-4e67-bcd7-3920bfa94da3",
+    "data": [
+      {
+        "text": "descarte de textil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3c0dadc0-9533-481b-9d28-8f06bea000fd",
+    "data": [
+      {
+        "text": "onde jogo bolsa usada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b9146fc2-e5ee-4b59-aff9-89305d7ea50b",
+    "data": [
+      {
+        "text": "descarta cartera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d350abd7-3acd-400b-b0e2-327821c88af0",
+    "data": [
+      {
+        "text": "onde coloco/mochila",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

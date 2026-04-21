@@ -482,5 +482,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "e5c273e6-35d5-4380-a841-44861f40abb5",
+    "data": [
+      {
+        "text": "Orgânico vai para composteira ou lixeira marrom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42570256-ec0b-4f3e-a450-5b84214ac6dc",
+    "data": [
+      {
+        "text": "voce pode descartar na composteira",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b276cba7-3123-4ce6-a1be-5d6964f6b2c4",
+    "data": [
+      {
+        "text": "organico deve ir para compostagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e20721cf-d5c0-436a-accb-0e727aaba9c8",
+    "data": [
+      {
+        "text": "a composteira é para orgânicos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "29b786ce-ca59-473e-81c6-67b6adedd47a",
+    "data": [
+      {
+        "text": "organico na composteira",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eb5511fb-a4a5-4205-a91c-3af66014344a",
+    "data": [
+      {
+        "text": "descarte seu organico na composteira",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

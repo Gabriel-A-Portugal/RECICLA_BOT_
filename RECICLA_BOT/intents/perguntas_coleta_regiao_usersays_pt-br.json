@@ -150,5 +150,200 @@
     "count": 1,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "59ff1f5f-6a15-4be3-ab26-9a24bd3969ac",
+    "data": [
+      {
+        "text": "atende minha região",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d0f3250-40a6-4145-8446-2b277c9220cd",
+    "data": [
+      {
+        "text": "serviço na minha rua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "25d63385-56b4-4a28-b966-c461fe233d72",
+    "data": [
+      {
+        "text": "chega na minha bairro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "05cc5519-f221-4fea-b93a-f0e97f5709d2",
+    "data": [
+      {
+        "text": "faz coleta aqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "10d3f1ad-2f03-401c-a95e-a00c3d630989",
+    "data": [
+      {
+        "text": "tem na minha área",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b444551-de51-4044-ba5c-338bacfe1f81",
+    "data": [
+      {
+        "text": "zona cobertura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "073c4231-5e26-46c4-8e33-053c12c3387c",
+    "data": [
+      {
+        "text": "região atendida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e04d3c37-3ef0-4d1c-b111-5a38454ff6a3",
+    "data": [
+      {
+        "text": "bairro incluído",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "01c4852c-1efd-4104-89a1-0487ebc00e19",
+    "data": [
+      {
+        "text": "local coberto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74adf378-9df2-4e50-aa36-e0ee983bc22c",
+    "data": [
+      {
+        "text": "área de atendimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "76dbd70b-f306-4dd6-abb9-21febb8e189c",
+    "data": [
+      {
+        "text": "zona urbana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c41e9771-4056-4d3a-970e-f30b4e3e4c2e",
+    "data": [
+      {
+        "text": "quais bairros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c09926a3-e122-4515-9ecf-4bc610282a4a",
+    "data": [
+      {
+        "text": "endereços atendidos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df282aa1-b65b-4b31-9b8e-be69e1a26b5f",
+    "data": [
+      {
+        "text": "wilayah yang dilayan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "25b2037a-4a3c-4f8d-863c-75ce39500823",
+    "data": [
+      {
+        "text": "daerah servicio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

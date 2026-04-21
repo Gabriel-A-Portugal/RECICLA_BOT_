@@ -732,5 +732,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "36c2b1ad-e1b2-4585-930e-302e889f65e3",
+    "data": [
+      {
+        "text": "Vidro vai para lixeira verde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9ba90ce3-689d-40c9-b373-72869b8678fd",
+    "data": [
+      {
+        "text": "voce pode descartar na lixeira verde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "32f2871e-c70d-435f-b5ff-34e32b6bb245",
+    "data": [
+      {
+        "text": "vidro deve ser destinados a lixeira verde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "be389161-a1e8-4c02-9112-2fc1535cd240",
+    "data": [
+      {
+        "text": "a lixeira verde é para vidros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3cfc4cfe-c010-4f7a-ba17-0ae6cd4c82cd",
+    "data": [
+      {
+        "text": "vidro na lixeira verde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ed02b3c-33bf-4ff1-9acf-407bfdb09793",
+    "data": [
+      {
+        "text": "descarte seu vidro na lixeira verde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

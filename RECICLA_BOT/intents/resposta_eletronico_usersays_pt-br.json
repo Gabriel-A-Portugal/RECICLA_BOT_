@@ -757,5 +757,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "500d8140-4425-4d5a-bfa8-c35da2d2de24",
+    "data": [
+      {
+        "text": "Eletronico vaipara ponto de coleta especifico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2a02aff8-9af8-4f83-9245-a6b3d8746343",
+    "data": [
+      {
+        "text": "voce deve levar a loja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "77862584-1a00-4b45-bb43-44e5bc82491d",
+    "data": [
+      {
+        "text": "nao descarte no lixo comum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "97ebc11b-4df7-4ec0-bd8c-2c70f4cd0d7d",
+    "data": [
+      {
+        "text": "eletrônico precisa de descarte especial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e8898696-d5ec-48cf-9c37-89f940b1f588",
+    "data": [
+      {
+        "text": "leve ao ponto de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9340c12-8464-414c-8efc-59973ebc7856",
+    "data": [
+      {
+        "text": "entregue onde compra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

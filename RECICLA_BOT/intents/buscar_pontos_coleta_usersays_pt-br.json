@@ -162,5 +162,330 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "c9823e3d-8e5d-4fb0-9fba-d179c7ad6036",
+    "data": [
+      {
+        "text": "procurei (cidade)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a2420c5-3e44-4bcd-b2fe-d639ffd75241",
+    "data": [
+      {
+        "text": "me indica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "323a5e7e-1864-4739-b8d0-16b53e0212a7",
+    "data": [
+      {
+        "text": "onde fica (cidade)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5bac85d1-5de8-4191-90c0-d10d87c0d832",
+    "data": [
+      {
+        "text": "qual o endereço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a22233e-78fe-4cf2-8478-26beeb0f8e81",
+    "data": [
+      {
+        "text": "me passa o endereço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "19563a8d-1981-4917-a37f-3cda0c989728",
+    "data": [
+      {
+        "text": "qual ponto mais próximo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c6f63a5c-ee6e-48b6-b9da-c991348bb34d",
+    "data": [
+      {
+        "text": "onde encontro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "733799df-f5ba-4889-acde-fbc4da9b73fc",
+    "data": [
+      {
+        "text": "tem algum ponto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2eb40449-04bb-4fff-8498-5423e3e16059",
+    "data": [
+      {
+        "text": "quais pontos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dc66b910-a8cf-4aef-bc47-3204118fab50",
+    "data": [
+      {
+        "text": "não sei o endereço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2b6570e-291d-45ef-9d1b-67513c018b65",
+    "data": [
+      {
+        "text": "onde fica o ponto de reciclagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d368ac07-1edc-4ec8-971d-1a6f148e2d9a",
+    "data": [
+      {
+        "text": "preciso encontrar ponto de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c382ea0-7e6d-4d0b-8425-3c9ada86e3b6",
+    "data": [
+      {
+        "text": "me indica o local mais próximo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fd0e2c5d-bd6f-444a-b4c0-df64326e70de",
+    "data": [
+      {
+        "text": "qual o ponto de entrega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "59e46bc1-18c9-4d6c-8d27-693e177bcf38",
+    "data": [
+      {
+        "text": "onde fica o ecoponto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "745b48d1-a655-4a5f-b8af-5708b44f1028",
+    "data": [
+      {
+        "text": "tem ecoponto perto de mim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "66dafdbd-e5a6-4555-b2c7-bad027f3f470",
+    "data": [
+      {
+        "text": "onde é o ponto de reciclagem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1109b0e9-9157-490e-b499-77e6d74c39ff",
+    "data": [
+      {
+        "text": "me passa o local",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "710d72f2-f052-4f2d-bbdb-f99306607671",
+    "data": [
+      {
+        "text": "onde posso levar recicláveis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e362d547-24b0-4ce3-9c13-9419a81a6c36",
+    "data": [
+      {
+        "text": "preciso localizar ponto de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e0c71fc8-de62-49d0-bb97-f00884c2d293",
+    "data": [
+      {
+        "text": "qual o endereço mais próximo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "784d4b42-3441-4016-bb97-441c3430d239",
+    "data": [
+      {
+        "text": "me indica um ponto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d7169c2e-ed3b-4a35-9535-a32e00da2a25",
+    "data": [
+      {
+        "text": "onde está o colector",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bb0d82c2-ed09-491a-8df9-343a3600b167",
+    "data": [
+      {
+        "text": "quais os pontos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d1d85ab9-4da5-412a-b67f-cb715cf6bde4",
+    "data": [
+      {
+        "text": "地址在哪裡",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

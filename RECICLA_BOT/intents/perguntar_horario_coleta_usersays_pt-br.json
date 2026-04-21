@@ -150,5 +150,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "c6a806ad-6c79-4e49-965b-461c5cae6d38",
+    "data": [
+      {
+        "text": "qual horario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "edcb7aa4-21c0-46ab-89aa-682fa31abdf4",
+    "data": [
+      {
+        "text": "que horas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "032af6aa-18eb-4514-9dd1-d0c25f20f5ba",
+    "data": [
+      {
+        "text": "quando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "415d8cb7-a407-4619-8591-55fcffae89a5",
+    "data": [
+      {
+        "text": "qual hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c3b3e6d2-1f4c-4913-a241-1f8e852e940b",
+    "data": [
+      {
+        "text": "turno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1f8dd4dd-5050-4482-b23b-5be75a95c90c",
+    "data": [
+      {
+        "text": "periodo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

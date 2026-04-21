@@ -317,5 +317,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "becc287e-0b0d-4226-a95c-76ded2753829",
+    "data": [
+      {
+        "text": "o que significa cada cor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f770f04-33e7-414f-a813-c678af9709c6",
+    "data": [
+      {
+        "text": "significado das cores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e58de9d4-72e0-4c29-91c7-74440d3808a1",
+    "data": [
+      {
+        "text": "cores das lixeiras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "60cb2d81-a010-4ef9-9ad0-69bcc1753e7d",
+    "data": [
+      {
+        "text": "cores padrão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c4ebd3ae-1ae6-4cc6-94c5-a35410e117a8",
+    "data": [
+      {
+        "text": "código de cores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82f6dc8c-7375-4650-822c-e0841ff2df64",
+    "data": [
+      {
+        "text": "o que significa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

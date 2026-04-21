@@ -297,5 +297,330 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "9a3b2e20-a3fc-4106-b326-c422ee8210fc",
+    "data": [
+      {
+        "text": "agendar (data) coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d19c3f9-2e78-4c2a-b4dd-6ee0a4917771",
+    "data": [
+      {
+        "text": "agendar (data) coleta de recicláveis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b0956301-5600-48d1-9ab2-5e2adaee82ad",
+    "data": [
+      {
+        "text": "quando vem a coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ec5a16c9-5baa-4b1b-af92-9749d18024e5",
+    "data": [
+      {
+        "text": "quando (data) coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cbe1799b-ce20-4c11-bcfd-d809c4878eb2",
+    "data": [
+      {
+        "text": "coleta seletiva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6146f479-60de-41df-b21b-a3e4f07dce28",
+    "data": [
+      {
+        "text": "buscar (data) recicláveis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5221237c-a8fd-4250-bc87-aff22270deec",
+    "data": [
+      {
+        "text": "agendar (data)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6c93ca60-9663-4a6d-9ca4-cbff3d1f651b",
+    "data": [
+      {
+        "text": "agendar (data) retirada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "07c93942-ee6c-45ba-a681-94097331f511",
+    "data": [
+      {
+        "text": "retirada de materiais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "126d8123-cef3-4e47-95db-b33b777ad659",
+    "data": [
+      {
+        "text": "buscar (data) material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "22b67414-739c-4869-8231-f8fed2ede58e",
+    "data": [
+      {
+        "text": "quero agendar coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dfc70feb-f28d-431a-bb01-8062869f4f5d",
+    "data": [
+      {
+        "text": "preciso de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bfee3e79-1d2e-4477-9370-c0dae2cc6652",
+    "data": [
+      {
+        "text": "como faço para agendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3769d3c4-8ac6-4ff7-8803-e7dc0ce55dc5",
+    "data": [
+      {
+        "text": "ondeizam reciclável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5058ad06-265b-4186-a27d-bfa04042ab64",
+    "data": [
+      {
+        "text": "tem coleta na minha casa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c6669ab0-2d1d-4393-bc5b-410159a3343f",
+    "data": [
+      {
+        "text": "quero agendar retirada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "597dfe1c-93d6-4f9f-a9a1-11236e513e8c",
+    "data": [
+      {
+        "text": "pode buscar meus recicláveis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3c6d7a0c-df7f-4603-8180-ce33b61c2991",
+    "data": [
+      {
+        "text": "quando passa o caminhão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bae85289-cc30-4a25-911b-e7e315def2d7",
+    "data": [
+      {
+        "text": "faz coleta em domicílio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1470ebb-1566-4baa-a80c-77f439882ab5",
+    "data": [
+      {
+        "text": "serviço de coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab3244a5-0931-4d4d-b614-f73de94eb491",
+    "data": [
+      {
+        "text": "agendar remoção de entulho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "15274d72-be91-474e-a1e8-c387703a5550",
+    "data": [
+      {
+        "text": "preciso agendar retirada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ea4f62fc-1339-4f50-9ea2-e06efa6fc0cc",
+    "data": [
+      {
+        "text": "como solicitar coleta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "938af5fe-dd2a-438d-a70b-167cccd62cf2",
+    "data": [
+      {
+        "text": "tem coleta programada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c599fc74-64a2-4026-b715-b42f877fad26",
+    "data": [
+      {
+        "text": "quero agendar data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

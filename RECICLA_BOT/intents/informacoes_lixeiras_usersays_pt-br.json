@@ -198,5 +198,200 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "0a419d87-35b1-4d1a-9c36-dcfe52667b54",
+    "data": [
+      {
+        "text": "informações sobre lixeiras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "986f73a7-987c-4e4d-b4bf-6a98553f8b98",
+    "data": [
+      {
+        "text": "quantas lixeiras preciso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aabb8d52-6fd1-472b-823c-df6ea07cd36a",
+    "data": [
+      {
+        "text": "quantos contenedores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bedcbc91-0f6f-455e-b2d1-cf420549b598",
+    "data": [
+      {
+        "text": "como posicionar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3fc44fde-a81a-45f9-b160-929c4046f68f",
+    "data": [
+      {
+        "text": "onde colocar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fa672931-b111-4882-b32a-ee920ef7da38",
+    "data": [
+      {
+        "text": "número de lixeiras",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2233e5af-a971-4c73-8960-9089b9e52ca0",
+    "data": [
+      {
+        "text": "qual o ideal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a518198-83b3-4644-8c2f-b1aa40fce5de",
+    "data": [
+      {
+        "text": "tipo de lixeira",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "62d74806-5e37-44fe-9af2-a939a182afda",
+    "data": [
+      {
+        "text": "recomendação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e66cc3f-0729-48ff-a79b-9aa111caebdb",
+    "data": [
+      {
+        "text": "qual melhor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9815071a-9a54-4ae1-ab0b-398e2ad84902",
+    "data": [
+      {
+        "text": "preciso de quantas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1582c661-3f77-4745-a132-f9b2613f1ff5",
+    "data": [
+      {
+        "text": "como organizar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0206e2a7-fcab-4107-a50d-6de1409be850",
+    "data": [
+      {
+        "text": "sugestão de quantidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d44eea7c-771d-480a-bbf3-4d1f2af6014e",
+    "data": [
+      {
+        "text": "quantidade indicada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fc1af370-28e7-4903-b959-b9de425f8f71",
+    "data": [
+      {
+        "text": "organização recomendada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

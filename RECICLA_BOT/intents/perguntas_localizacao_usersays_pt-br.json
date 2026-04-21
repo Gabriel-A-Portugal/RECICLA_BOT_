@@ -134,5 +134,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "1612c31d-58ac-4250-aee4-a00fdbc55cb3",
+    "data": [
+      {
+        "text": "onde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "710716ca-c533-4c46-bdc9-a6c2433cc56c",
+    "data": [
+      {
+        "text": "localizacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cd60a2c9-0764-42cd-a991-5b202ef3cd14",
+    "data": [
+      {
+        "text": "endereço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4f0fa3e4-24e0-48aa-84de-45f4286c8971",
+    "data": [
+      {
+        "text": "lugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c38cf50-9592-489a-a882-c1135d97659e",
+    "data": [
+      {
+        "text": "ponto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c5b6d4c6-78a5-490c-b5ec-00ef058d711e",
+    "data": [
+      {
+        "text": "local",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

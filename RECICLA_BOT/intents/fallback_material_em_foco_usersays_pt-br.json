@@ -102,5 +102,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "c420893a-62ac-4f2d-86eb-24f6c1cdfc34",
+    "data": [
+      {
+        "text": "material",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a42d42b0-4a87-4af8-90fb-1aa831def923",
+    "data": [
+      {
+        "text": "produto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4e554f9a-63d4-4714-93f8-6951d855d943",
+    "data": [
+      {
+        "text": "item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bddd2b34-63ec-4209-b366-fbdd7199eb6a",
+    "data": [
+      {
+        "text": "object",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "59969bef-1a56-446f-bb51-00320109222d",
+    "data": [
+      {
+        "text": "objeto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "04a37baa-f2ea-4692-8d97-76290ea298b1",
+    "data": [
+      {
+        "text": "elemento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]

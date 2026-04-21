@@ -476,5 +476,83 @@
     "count": 0,
     "lang": "pt-br",
     "updated": 0
+  },
+  {
+    "id": "cdb49749-ed6b-473c-9ed4-b75d7a00c4ed",
+    "data": [
+      {
+        "text": "perfurocortante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4bdeeee7-46ab-4fd1-ac9d-6db7638a0eb8",
+    "data": [
+      {
+        "text": "corto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "21dfa50b-8559-4ac2-950d-c3a8c4812e08",
+    "data": [
+      {
+        "text": "perfura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7fb05db3-1951-41e0-814f-410e23b11254",
+    "data": [
+      {
+        "text": "peligro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "524db175-a92d-4966-b47a-d438aca32f25",
+    "data": [
+      {
+        "text": "risco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cc01669c-8145-432c-93e3-2ef8de3219f3",
+    "data": [
+      {
+        "text": "cuidado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
   }
 ]
